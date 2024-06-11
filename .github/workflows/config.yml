@@ -1,11 +1,16 @@
 name: config
 on: workflow_dispatch
 
-jobs:
- print_hello:
-  runs-on: windows 10
+user_id: 123
+webs:
+  - http://www.rbk.ru/
+  - https://quote.ru/
+key_words:
+  - IPO
+  - Газпром
+stop_words:
+  - слово1
+  - слово2
+frequency: 1
 
-  steps:
-   - name: Print hello
-     run: echo "Hello world!"
   
