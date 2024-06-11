@@ -1,0 +1,11 @@
+name: config
+on: workflow_dispatch
+
+jobs:
+ print_hello:
+  runs-on: windows 10
+
+  steps:
+   - name: Print hello
+     run: echo "Hello world!"
+  
