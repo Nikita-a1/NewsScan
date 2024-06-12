@@ -1,5 +1,15 @@
 import yaml
-from yaml import Loader
 
-with open('.github/workflows/config.yml') as f:
-    print(yaml.load(f, Loader=Loader))
+PATH = 'config.yml'
+
+try:
+    with open(PATH, 'r') as file:
+        data = yaml.safe_load(file)
+except FileNotFoundError:
+    print("Can't find the file. Check the path.")
+
+user_id = data['user_id']
+webs = data['webs']
+key_words = data['key_words']
+stop_words = data['stop_words']
+frequency = data['frequency']
