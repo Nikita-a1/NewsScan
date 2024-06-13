@@ -1,17 +1,15 @@
-user_id: 123
+user_id: 123  # user id
 
-webs:
+webs:  # list of sites for parsing
   - http://www.rbk.ru/
   - https://quote.ru/
 
-key_words:
+key_words:  # list of keywords
   - IPO
   - Газпром
 
-stop_words:
+stop_words:  # list of stopwords
   - слово1
   - слово2
 
-frequency: 1
-
-  
+frequency: 1  # the frequency of running the parser in hours
