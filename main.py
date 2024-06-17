@@ -17,4 +17,13 @@ frequency = data['frequency']
 
 
 urls_collector.UrlsCollector.all_urls()  # collect URLs from the main page of the site for subsequent parsing
+print(urls_collector.new_urls_list)
 
+urls_collector.UrlsCollector.get_downloaded_urls()
+print(urls_collector.download_urls_list)
+
+urls_collector.UrlsCollector.urls_duplicate_check()
+print(urls_collector.new_urls_list)
+
+# for new_url in urls_collector.new_urls_list:
+#     urls_collector.UrlsCollector.urls_record(new_url)
