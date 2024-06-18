@@ -1,4 +1,6 @@
 import yaml
+
+import parser
 import urls_collector
 
 PATH = 'config.yml'  # specify the path for the file
@@ -27,3 +29,6 @@ print(urls_collector.new_urls_list)
 
 # for new_url in urls_collector.new_urls_list:
 #     urls_collector.UrlsCollector.urls_record(new_url)
+
+parser.Parser.text_downloader()
+print(parser.Parser.contents)
