@@ -3,6 +3,8 @@ from mysql.connector import connect, Error
 import requests
 from bs4 import BeautifulSoup
 import re
+import log
+import datetime
 
 PATH = 'config.yml'  # specify the path for the file
 
@@ -10,7 +12,8 @@ try:  # try to open the yaml file
     with open(PATH, 'r', encoding='utf-8') as file:
         data = yaml.safe_load(file)
 except FileNotFoundError:
-    print("Can't find the file. Check the path.")
+    log.Log.write_log(str(datetime.datetime.now().today().replace(microsecond=0)), "---",
+                      "Can't find the yaml file. Check the path.")
 
 new_urls_list = []  # create a list of URLS to download
 download_urls_list = []  # create a list of URLS from the DataBase

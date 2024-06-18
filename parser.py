@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 
 class Parser:
 
-    urls_from_db = ['https://www.rbc.ru/politics/18/06/2024/667180d29a7947b19565d401?from=from_main_1', 'https://www.rbc.ru/society/18/06/2024/667166909a79471a7baa1f79?from=from_main_2']
+    urls_from_db = []
     urls_to_download = []
     contents = []
 
