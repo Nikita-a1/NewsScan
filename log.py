@@ -11,4 +11,4 @@ class Log:
         file.close()
 
 
-Log.write_log(str(datetime.datetime.now().today().replace(microsecond=0)), "https123", "Can't open the file")
+
