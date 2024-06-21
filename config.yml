@@ -2,11 +2,12 @@ user_id: 123  # user id
 
 webs:  # list of sites for parsing
 #  - http://www.rbk.ru
-  - https://quote.ru/
-
+#  - https://quote.ru/
+   - https://aif.ru/
 key_words:  # list of keywords
   - IPO
   - Газпром
+  - Путин
 
 stop_words:  # list of stopwords
   - слово1

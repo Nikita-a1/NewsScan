@@ -25,10 +25,14 @@ password = data['database']['password']
 database = data['database']['database']
 
 
+for word in key_words:  # change the case of letters
+    new_word = word.lower()
+    if new_word != word:
+        key_words.append(new_word)
+
 for url in webs:  # collect all links from websites and write them to new_urls_list
     if url[-1] == '/':
         url = url.rstrip(url[-1])
-
     try:
         urls_collector.UrlsCollector.all_urls(url)
     except ConnectionError:
@@ -68,7 +72,7 @@ print(urls_collector.download_urls_list)
 
 for url in parser.Parser.urls_from_db:
     try:
-        parser.Parser.text_downloader(host, user, password, database, url)
+        parser.Parser.text_downloader(host, user, password, database, url, key_words)
     except requests.exceptions.InvalidSchema:
         log.Log.write_log(str(datetime.datetime.now().today().replace(microsecond=0)), str(url),
                           "Can't download url text")

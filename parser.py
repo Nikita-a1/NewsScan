@@ -26,7 +26,7 @@ class Parser:
                     Parser.urls_from_db.append(url)
 
     @staticmethod
-    def text_downloader(host, user, password, database, url):  # download content for each url
+    def text_downloader(host, user, password, database, url, key_words):  # download content for each url
         response = requests.get(url)
         soup = BeautifulSoup(response.text, 'html.parser')
 
@@ -50,6 +50,13 @@ class Parser:
             if len(t) > 70:
                 text = text + t
 
+        for word in key_words:
+            if word in text:
+                Parser.text_db_uploader(host, user, password, database, title, text, url)
+                continue
+
+    @staticmethod
+    def text_db_uploader(host, user, password, database, title, text, url):
         with connect(
                 host=host,
                 user=user,
