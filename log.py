@@ -1,6 +1,3 @@
-import datetime
-
-
 class Log:
     @staticmethod
     def write_log(time, url, description):
@@ -9,6 +6,3 @@ class Log:
         file.write(note)
         file.write('\n')
         file.close()
-
-
-

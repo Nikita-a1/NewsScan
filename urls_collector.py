@@ -50,21 +50,23 @@ class UrlsCollector:
                     download_urls_list.append(el)
 
     @staticmethod
-    def urls_duplicate_check():  # delete duplicates urls
-        for item in new_urls_list:
-            if item in download_urls_list:
-                new_urls_list.remove(item)
+    def urls_duplicate_check(new_list, download_list):  # delete duplicates urls
+        new_list[:] = set([el for el in new_list if el not in download_list])
 
     @staticmethod
-    def urls_record(host, user, password, database,
-                    new_url):  # record unique links in the database and set status 'not_downloaded'
+    def urls_record(host, user, password, database, time):
+        # record unique links in the database and set status 'not_downloaded'
         with connect(
                 host=host,
                 user=user,
                 password=password,
                 database=database
         ) as connection:
-            new_url = str(new_url)
-            with connection.cursor() as cursor:
-                request = "insert into NS_table (URL, Status) values ('{}', 'not_downloaded')".format(new_url)
-                cursor.execute(request)
+            for new_url in new_urls_list:
+                request = "insert into NS_table (URL, DownloadTime, Status) values ('{}', '{}', 'not_downloaded');\n".format(
+                    new_url, time)
+
+                with connection.cursor() as cursor:
+                    cursor.execute(request)
+                    cursor.fetchall()
+                    connection.commit()

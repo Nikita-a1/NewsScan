@@ -1,8 +1,8 @@
 user_id: 123  # user id
 
 webs:  # list of sites for parsing
-  - http://www.rbk.ru
-  - https://quote.ru
+#  - http://www.rbk.ru
+  - https://quote.ru/
 
 key_words:  # list of keywords
   - IPO
