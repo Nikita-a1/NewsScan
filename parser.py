@@ -6,17 +6,23 @@ from mysql.connector import connect
 class Parser:
     urls_from_db = []
     urls_to_download = []
+    content_for_summary = []
 
     @staticmethod
-    def urls_db_download(host, user, password, database):  # collects all urls from database in urls_from_db to
+    def urls_db_download(db_access_key, webs_list):  # collects all urls from database in urls_from_db to
         # download their text
+        if len(webs_list) == 1:
+            webs_list = "('{}')".format(webs_list[0])
+        else:
+            webs_list = tuple(webs_list)
+        print(webs_list)
         with connect(
-                host=host,
-                user=user,
-                password=password,
-                database=database
+                host=db_access_key['host'],
+                user=db_access_key['user'],
+                password=db_access_key['password'],
+                database=db_access_key['database']
         ) as connection:
-            request = "select URL from NS_table where Status = 'Not_downloaded'"
+            request = "select URL from NS_table where Status = 'Not_downloaded' and Web in {}".format(webs_list)
             with connection.cursor() as cursor:
                 cursor.execute(request)
                 result = cursor.fetchall()
@@ -25,43 +31,90 @@ class Parser:
                 for url in result:
                     Parser.urls_from_db.append(url)
 
+            # request = "select Content from NS_table where Status = 'downloaded' and Web in {}".format(webs_list)
+
     @staticmethod
-    def text_downloader(host, user, password, database, url, key_words):  # download content for each url
+    def text_downloader(db_access_key, url, key_words, stop_words):  # download content for each url
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'}
+
         response = requests.get(url)
+
+        if response != '<Response [200]>':
+            response = requests.get(url, headers=headers)
+
         soup = BeautifulSoup(response.text, 'html.parser')
 
-        title = soup.find('title').text
-        ###################
+        try:
+            title = soup.find('title').text
+        except AttributeError:
+            try:
+                title = soup.find('h1').text
+            except AttributeError:
+                try:
+                    title = soup.find('span').text
+                except AttributeError:
+                    title = 'Заголовок не найден'
 
-        content = soup.findAll('p')
-        for i in range(len(content)):
-            content[i] = str(content[i].text.strip())
-            while '  ' in content[i]:
-                content[i] = content[i].replace('  ', ' ')
+        tags = ['p', 'li', 'u']
+        prohibited_tags = ['comment', 'footer_text', 'block-error-message', 'overscroll', 'footer__body__social__row',
+                           'footer__body__copyright', 'article__main-image__author', 'footer__bottom__middle']
 
-        content1 = sorted(content, key=len, reverse=True)[:10]
+        max_length = 0
+        content = ""
 
-        for el in content:
-            if el not in content1:
-                content.remove(el)
+        for tag in tags:
+            all_text = []
+            length = 0
+            prohibited_found = False
+            request = soup.findAll(tag)
 
-        text = ''
-        for t in content:
-            if len(t) > 70:
-                text = text + t
+            for string in request:
 
-        for word in key_words:
-            if word in text:
-                Parser.text_db_uploader(host, user, password, database, title, text, url)
-                continue
+                text = str(string.get_text().strip())
+
+                for prohibited_tag in prohibited_tags:
+                    if prohibited_tag in str(string.parent):
+                        prohibited_found = True
+                        break
+                if not prohibited_found:
+                    while '  ' in text:
+                        text = text.replace('  ', ' ')
+                    while '\n' in text:
+                        text = text.replace('\n', '')
+                    if len(text) > 75:
+                        all_text.append(text)
+                        length += len(text)
+            if length > max_length:
+                for el in all_text:
+                    content = content + ' ' + el
+                max_length = length
+
+        request = soup.findAll('div', class_='article__text')
+        for string in request:
+            text = str(string.get_text().strip())
+
+            if 'comment' not in str(string.parent) and len(text) > 100:
+                while '  ' in text:
+                    text = text.replace('  ', ' ')
+                while '\n' in text:
+                    text = text.replace('\n', '')
+                content = content + ' ' + text
+
+        for key_word in key_words:
+            if key_word in content:
+                for stop_word in stop_words:
+                    if stop_word not in content:
+                        Parser.text_db_uploader(db_access_key, title, content, url)
+                        Parser.content_for_summary.append(content)
 
     @staticmethod
-    def text_db_uploader(host, user, password, database, title, text, url):
+    def text_db_uploader(db_access_key, title, text, url):
         with connect(
-                host=host,
-                user=user,
-                password=password,
-                database=database
+                host=db_access_key['host'],
+                user=db_access_key['user'],
+                password=db_access_key['password'],
+                database=db_access_key['database']
         ) as connection:
             request = "update NS_table set Title = '{}', Content = '{}', Status = 'downloaded' where URl = '{}';".format(
                 title, text, url)

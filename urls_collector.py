@@ -26,21 +26,23 @@ class UrlsCollector:
             link = a.get('href')
             link = str(link)
 
-            if (url in link and len(link) > 45) or (
-                    url not in link and len(link) > 35):  # check links and edit them
-                if '/app/' not in link and 'org' not in link:
-                    if date_checker(link) or '/news/' in link or len(link) > 60 and link.count('-') >= 5:
+            if (url in link and len(link) > 35) or (
+                    url not in link and len(link) >= 25) or '/p/' in link:  # check links and edit them
+                if '/app/' not in link and 'org' not in link and '.com' not in link:
+                    if date_checker(link) or '/news/' in link or len(link) > 40 and link.count(
+                            '-') >= 3 or '/p/' in link:
                         if link[0:4] != 'http':
                             link = url + link
-                        new_urls_list.append(link)
+                        if link not in new_urls_list:
+                            new_urls_list.append(link)
 
     @staticmethod
-    def get_downloaded_urls(host, user, password, database):  # collect already uploaded urls
+    def get_downloaded_urls(db_access_key):  # collect already uploaded urls
         with connect(
-                host=host,
-                user=user,
-                password=password,
-                database=database
+                host=db_access_key['host'],
+                user=db_access_key['user'],
+                password=db_access_key['password'],
+                database=db_access_key['database']
         ) as connection:
             with connection.cursor() as cursor:
                 cursor.execute("select URL from NS_table")
@@ -54,19 +56,21 @@ class UrlsCollector:
         new_list[:] = set([el for el in new_list if el not in download_list])
 
     @staticmethod
-    def urls_record(host, user, password, database, time):
-        # record unique links in the database and set status 'not_downloaded'
-        with connect(
-                host=host,
-                user=user,
-                password=password,
-                database=database
-        ) as connection:
-            for new_url in new_urls_list:
-                request = "insert into NS_table (URL, DownloadTime, Status) values ('{}', '{}', 'not_downloaded');\n".format(
-                    new_url, time)
+    def urls_record(db_access_key, new_url,
+                    time):  # record unique links in the database and set status 'not_downloaded'
+        web = new_url.split('/')
+        web = web[0] + '//' + web[2]
 
-                with connection.cursor() as cursor:
-                    cursor.execute(request)
-                    cursor.fetchall()
-                    connection.commit()
+        with connect(
+                host=db_access_key['host'],
+                user=db_access_key['user'],
+                password=db_access_key['password'],
+                database=db_access_key['database']
+        ) as connection:
+            request = "insert into NS_table (Web, URL, DownloadTime, Status) values ('{}', '{}', '{}', 'not_downloaded');\n".format(
+                web, new_url, time)
+
+            with connection.cursor() as cursor:
+                cursor.execute(request)
+                cursor.fetchall()
+                connection.commit()
