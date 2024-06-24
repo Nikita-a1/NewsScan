@@ -1,20 +1,21 @@
 user_id: 123  # user id
 
 webs:  # list of sites for parsing
-  - http://www.rbc.ru
+#  - http://www.rbc.ru
   - https://quote.ru/
-  - https://vc.ru
-  - https://ria.ru/
-  - https://russian.rt.com/
-  - https://aif.ru/
-  - https://ren.tv/
-  - https://lenta.ru/
-  - https://iz.ru/
-  - https://news.rambler.ru/
-  - https://life.ru/
-  - https://rg.ru/
+#  - https://vc.ru
+#  - https://ria.ru/
+#  - https://russian.rt.com/
+#  - https://aif.ru/
+#  - https://ren.tv/
+#  - https://lenta.ru/
+#  - https://edition.cnn.com/
+#  - https://news.rambler.ru/
+#  - https://life.ru/
+#  - https://rg.ru/
 key_words:  # list of keywords
-  - ВСУ
+  - США
+  - ЦБ
 
 
 stop_words:  # list of stopwords

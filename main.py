@@ -1,5 +1,6 @@
 import mysql.connector
 import requests.exceptions
+import urllib3.exceptions
 import urls_collector
 import parser
 import log
@@ -41,6 +42,7 @@ get_text_from_link = parser.Parser.text_downloader
 all_links_from_url = urls_collector.new_urls_list
 all_links_from_db = urls_collector.download_urls_list
 links_for_parsing = parser.Parser.urls_from_db
+content_for_summary = parser.Parser.content_for_summary
 
 
 for word in key_words:  # change the case of letters
@@ -89,7 +91,7 @@ except ConnectionError:
 print(links_for_parsing)
 
 
-for url in links_for_parsing:
+for url in links_for_parsing:  # download urls content to database
     try:
         get_text_from_link(db_access_key, url, key_words, stop_words)
     except requests.exceptions.InvalidSchema:
@@ -101,3 +103,11 @@ for url in links_for_parsing:
     except mysql.connector.errors.DataError:
         write_log(str(datetime.datetime.now().today().replace(microsecond=0)), str(url),
                   "Can't download url text")
+    except ConnectionError:
+        write_log(str(datetime.datetime.now().today().replace(microsecond=0)), str(url),
+                  "Can't download url text")
+    except urllib3.exceptions.ProtocolError:
+        write_log(str(datetime.datetime.now().today().replace(microsecond=0)), str(url),
+                  "Can't download url text")
+
+

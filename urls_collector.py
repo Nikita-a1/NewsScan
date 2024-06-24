@@ -58,8 +58,7 @@ class UrlsCollector:
     @staticmethod
     def urls_record(db_access_key, new_url,
                     time):  # record unique links in the database and set status 'not_downloaded'
-        web = new_url.split('/')
-        web = web[0] + '//' + web[2]
+        web = new_url.split('/')[2]
 
         with connect(
                 host=db_access_key['host'],

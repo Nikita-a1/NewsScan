@@ -11,18 +11,22 @@ class Parser:
     @staticmethod
     def urls_db_download(db_access_key, webs_list):  # collects all urls from database in urls_from_db to
         # download their text
+
+        for i in range(len(webs_list)):
+            webs_list[i] = webs_list[i].split('/')[2]
+
         if len(webs_list) == 1:
             webs_list = "('{}')".format(webs_list[0])
         else:
             webs_list = tuple(webs_list)
-        print(webs_list)
+
         with connect(
                 host=db_access_key['host'],
                 user=db_access_key['user'],
                 password=db_access_key['password'],
                 database=db_access_key['database']
         ) as connection:
-            request = "select URL from NS_table where Status = 'Not_downloaded' and Web in {}".format(webs_list)
+            request = "select URL from NS_table where Status = 'not_downloaded' and Web in {}".format(webs_list)
             with connection.cursor() as cursor:
                 cursor.execute(request)
                 result = cursor.fetchall()
