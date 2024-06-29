@@ -13,14 +13,14 @@ PATH_keys = 'keys.yml'
 try:  # try to open config.yml file
     with open(PATH_config, 'r', encoding='utf-8') as file:
         config_data = yaml.safe_load(file)
-except FileNotFoundError:
+except:
     log.Log.write_log(str(datetime.datetime.now().today().replace(microsecond=0)), "---",
                       "Can't open the config.yml file")
 
 try:  # try to open keys.yml file
     with open(PATH_keys, 'r', encoding='utf-8') as file:
         keys_data = yaml.safe_load(file)
-except FileNotFoundError:
+except:
     log.Log.write_log(str(datetime.datetime.now().today().replace(microsecond=0)), "---",
                       "Can't open the keys.yml file")
 

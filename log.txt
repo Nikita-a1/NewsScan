@@ -9,3 +9,7 @@
 2024-06-24 13:19:41 https://quote.ru/news/article/666820589a794722415a6c50 Can't download url text
 2024-06-24 14:17:45 https://quote.ru/news/article/666820589a794722415a6c50 Can't download url text
 2024-06-24 14:20:52 https://quote.ru/news/article/666820589a794722415a6c50 Can't download url text
+2024-06-27 20:44:03 --- Can't open the keys.yml file
+2024-06-28 13:40:12 --- Can't open the keys.yml file
+2024-06-29 09:42:07 --- Can't open the keys.yml file
+2024-06-29 09:42:32 --- Can't open the keys.yml file
