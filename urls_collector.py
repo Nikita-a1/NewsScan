@@ -3,16 +3,11 @@ import requests
 from bs4 import BeautifulSoup
 import re
 
-PATH = 'config.yml'  # specify the path for the file
-
-new_urls_list = []  # create a list of URLS to download
-download_urls_list = []  # create a list of URLS from the DataBase
-
 
 class UrlsCollector:
 
     @staticmethod
-    def all_urls(url):  # collect all links from websites and write them to new_urls_list
+    def all_urls(url, new_links):  # collect all links from websites and write them to new_links
         response = requests.get(url)
         soup = BeautifulSoup(response.text, 'html.parser')
 
@@ -33,11 +28,11 @@ class UrlsCollector:
                             '-') >= 3 or '/p/' in link:
                         if link[0:4] != 'http':
                             link = url + link
-                        if link not in new_urls_list:
-                            new_urls_list.append(link)
+                        if link not in new_links:
+                            new_links.append(link)
 
     @staticmethod
-    def get_downloaded_urls(db_access_key):  # collect already uploaded urls
+    def get_downloaded_urls(db_access_key, links_from_db):  # collect already uploaded urls
         with connect(
                 host=db_access_key['host'],
                 user=db_access_key['user'],
@@ -49,11 +44,11 @@ class UrlsCollector:
                 result = cursor.fetchall()
                 result = [i[0] for i in result]
                 for el in result:
-                    download_urls_list.append(el)
+                    links_from_db.append(el)
 
     @staticmethod
-    def urls_duplicate_check(new_list, download_list):  # delete duplicates urls
-        new_list[:] = set([el for el in new_list if el not in download_list])
+    def urls_duplicate_check(new_list, old_list):  # delete duplicates urls
+        new_list[:] = set([el for el in new_list if el not in old_list])
 
     @staticmethod
     def urls_record(db_access_key, new_url,

@@ -4,12 +4,9 @@ from mysql.connector import connect
 
 
 class Parser:
-    urls_from_db = []
-    urls_to_download = []
-    content_for_summary = []
 
     @staticmethod
-    def urls_db_download(db_access_key, webs_list):  # collects all urls from database in urls_from_db to
+    def urls_db_download(db_access_key, webs_list, links_for_parsing):  # collects all urls from database in urls_from_db to
         # download their text
 
         for i in range(len(webs_list)):
@@ -31,21 +28,21 @@ class Parser:
                 cursor.execute(request)
                 result = cursor.fetchall()
                 connection.commit()
-                result = [''.join(url) for url in result]
-                for url in result:
-                    Parser.urls_from_db.append(url)
+                result = [''.join(link) for link in result]
+                for link in result:
+                    links_for_parsing(link)
 
             # request = "select Content from NS_table where Status = 'downloaded' and Web in {}".format(webs_list)
 
     @staticmethod
-    def text_downloader(db_access_key, url, key_words, stop_words):  # download content for each url
+    def text_downloader(db_access_key, link, key_words, stop_words):  # download content for each link
         headers = {
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'}
 
-        response = requests.get(url)
+        response = requests.get(link)
 
         if response != '<Response [200]>':
-            response = requests.get(url, headers=headers)
+            response = requests.get(link, headers=headers)
 
         soup = BeautifulSoup(response.text, 'html.parser')
 
@@ -109,11 +106,10 @@ class Parser:
             if key_word in content:
                 for stop_word in stop_words:
                     if stop_word not in content:
-                        Parser.text_db_uploader(db_access_key, title, content, url)
-                        Parser.content_for_summary.append(content)
+                        Parser.text_db_uploader(db_access_key, title, content, link)
 
     @staticmethod
-    def text_db_uploader(db_access_key, title, text, url):
+    def text_db_uploader(db_access_key, title, text, link):
         with connect(
                 host=db_access_key['host'],
                 user=db_access_key['user'],
@@ -121,7 +117,7 @@ class Parser:
                 database=db_access_key['database']
         ) as connection:
             request = "update NS_table set Title = '{}', Content = '{}', Status = 'downloaded' where URl = '{}';".format(
-                title, text, url)
+                title, text, link)
             with connection.cursor() as cursor:
                 cursor.execute(request)
                 cursor.fetchall()
