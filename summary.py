@@ -1,14 +1,13 @@
 from transformers import AutoTokenizer, BartForConditionalGeneration
 from mysql.connector import connect
 from googletrans import Translator
+import re
+
 
 class Summary:
 
     @staticmethod
-    def content_db_download(db_access_key, webs_list, content_for_translation):
-
-        for i in range(len(webs_list)):
-            webs_list[i] = webs_list[i].split('/')[2]
+    def content_db_download(db_access_key, webs_list, downloaded_articles):
 
         if len(webs_list) == 1:
             webs_list = "('{}')".format(webs_list[0])
@@ -21,79 +20,111 @@ class Summary:
                 password=db_access_key['password'],
                 database=db_access_key['database']
         ) as connection:
-            request = "select URL, Content from NS_table where Status = 'downloaded' and Web in {}".format(webs_list)
+            request = "select id, Content from NS_table where Status = 'downloaded' and Web in {}".format(webs_list)
             with connection.cursor() as cursor:
                 cursor.execute(request)
                 result = cursor.fetchall()
-                result = [(url, content) for (url, content) in result]
+                result = [(id, content) for (id, content) in result]
                 for article_block in result:
+                    downloaded_articles.append(article_block)
+
+    @staticmethod
+    def detect_interesting_articles(downloaded_articles, content_for_translation, key_words, stop_words):
+        for article_block in downloaded_articles:
+            article = article_block[1]
+            for stop_word in stop_words:
+                if stop_word in article:
+                    downloaded_articles.remove(article_block)
+                    continue
+        for article_block in downloaded_articles:
+            article = article_block[1]
+            for key_word in key_words:
+                if key_word in article:
                     content_for_translation.append(article_block)
+                    continue
+
+    @staticmethod
+    def split_long_sentences(sentence):
+        result = []
+        if len(sentence) > 1024:
+            sub_sentences = re.split(r'(?<=[.!?]) +', sentence)
+            current_sentence = sub_sentences[0]
+            for sub_sentence in sub_sentences[1:]:
+                if len(current_sentence) + len(sub_sentence) > 1024:
+                    result.append(current_sentence)
+                    current_sentence = sub_sentence
+                else:
+                    current_sentence += " " + sub_sentence
+            result.append(current_sentence)
+        else:
+            result.append(sentence)
+        return result
 
     @staticmethod
     def trans_to_english(content_for_translation, english_content):
+
         translator = Translator()
         for article_block in content_for_translation:
-            english_text = translator.translate(article_block[1], dest='en').text
-            english_content.append((article_block[0], english_text))
+            id = article_block[0]
+            text = article_block[1]
+            en_text = ""
+
+            if len(text) > 1000:
+                text = Summary.split_long_sentences(text)
+            else:
+                text = [text]
+
+            for paragraph in text:
+                translated_paragraph = translator.translate(paragraph, dest='en').text
+                en_text = en_text + translated_paragraph
+
+            english_content.append((id, en_text))
 
     @staticmethod
     def compress_article(article_block, compressed_content):
         model = BartForConditionalGeneration.from_pretrained("sshleifer/distilbart-cnn-12-6")
         tokenizer = AutoTokenizer.from_pretrained("sshleifer/distilbart-cnn-12-6")
 
-        article_to_summarise = article_block[1]
+        id = article_block[0]
+        content_to_summarize = article_block[1]
+        summarized_content = ""
 
-        inputs = tokenizer([article_to_summarise], return_tensors="pt")
-        summary_ids = model.generate(inputs["input_ids"], num_beams=3, min_length=0)
-        output = tokenizer.batch_decode(summary_ids, skip_special_tokens=True, clean_up_tokenization_spaces=False)[0]
-        compressed_content.append((article_block[0], output))
+        while len(summarized_content) == 0 or len(summarized_content) > 3000 and len(content_to_summarize) > 0:
+            content_to_summarize = Summary.split_long_sentences(content_to_summarize)
+            summarized_content = ""
+            for paragraph in content_to_summarize:
+                inputs = tokenizer([paragraph], return_tensors="pt")
+                summary_ids = model.generate(inputs["input_ids"], num_beams=3, min_length=0, max_length=15)
+                paragraph = tokenizer.batch_decode(summary_ids, skip_special_tokens=True, clean_up_tokenization_spaces=False)[0]
+                summarized_content += paragraph
+            content_to_summarize = summarized_content
+
+        compressed_content.append((id, summarized_content))
+        print('done')
+
 
     @staticmethod
     def trans_back(compressed_content, ready_content):
         translator = Translator()
         for article_block in compressed_content:
-            result = translator.translate(article_block[1], dest='ru').text
+            id = article_block[0]
+            text = article_block[1]
+            result = translator.translate(text, dest='ru').text
             while ' .' in result:
                 result = result.replace(' .', '.')
-            ready_content.append((article_block[0], result))
-            print(result)
+            ready_content.append((id, result))
 
     @staticmethod
-    def summarised_articles_db_uploader(db_access_key, link, article):
+    def summarised_articles_db_uploader(db_access_key, id, article):
         with connect(
                 host=db_access_key['host'],
                 user=db_access_key['user'],
                 password=db_access_key['password'],
                 database=db_access_key['database']
         ) as connection:
-            request = "update NS_table set Summary = '{}', Status = 'summarized' where URl = '{}';".format(
-                article, link)
+            request = "update NS_table set Summary = '{}', Status = 'summarized' where id = '{}';".format(
+                article, id)
             with connection.cursor() as cursor:
                 cursor.execute(request)
                 cursor.fetchall()
                 connection.commit()
-
-
-
-#
-# text_to_trans = """Новолипецкий металлургический комбинат (НЛМК) атаковал рой беспилотных летательных аппаратов (БПЛА). Об этом сообщает ТАСС со ссылкой на представителя российского предприятия.
-#
-# НЛМК производит гражданскую продукцию. В воскресенье, 30 июня, по его территории ударили дроны. Представитель компании отметил, что атака оказалась бессмысленна, так как ни к чему, кроме роста сварочных работ, не привела.
-#
-# Ранее в этот же день губернатор Липецкой области Игорь Артамонов сообщил, что над промышленной зоной Липецка сбили девять беспилотников. Он назвал прошедшую ночь непростой и неспокойной.
-#
-# Позже издание Baza сообщило, что в два часа ночи семь украинских БПЛА атаковали Новолипецкий металлургический комбинат. Они кружили возле предприятия около часа. В результате один из упавших дронов повредил гараж. Еще четыре беспилотника пытались повредить здание кислородной станции. Один дрон нарушил целостность установки разделения кислорода."""
-#
-# english_text = translator.translate(text_to_trans, dest='en').text
-#
-#
-# model = AutoModelForSeq2SeqLM.from_pretrained("facebook/bart-large-cnn")
-# tokenizer = AutoTokenizer.from_pretrained("facebook/bart-large-cnn")
-# input_ids = tokenizer(english_text, return_tensors="tf").input_ids
-# output = model.generate(input_ids, min_length=175, num_beams=5, early_stopping=True)
-#
-# summarised_text = tokenizer.decode(output[0], skip_special_tokens=True)
-#
-# output = translator.translate(summarised_text, dest='ru')
-#
-# print(output.text)

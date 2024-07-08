@@ -30,12 +30,10 @@ class Parser:
                 connection.commit()
                 result = [''.join(link) for link in result]
                 for link in result:
-                    links_for_parsing(link)
-
-            # request = "select Content from NS_table where Status = 'downloaded' and Web in {}".format(webs_list)
+                    links_for_parsing.append(link)
 
     @staticmethod
-    def text_downloader(db_access_key, link, key_words, stop_words):  # download content for each link
+    def text_downloader(db_access_key, link):  # download content for each link
         headers = {
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'}
 
@@ -88,7 +86,7 @@ class Parser:
                         length += len(text)
             if length > max_length:
                 for el in all_text:
-                    content = content + ' ' + el
+                    content = content + ' ' + el + '\n'
                 max_length = length
 
         request = soup.findAll('div', class_='article__text')
@@ -102,11 +100,7 @@ class Parser:
                     text = text.replace('\n', '')
                 content = content + ' ' + text
 
-        for key_word in key_words:
-            if key_word in content:
-                for stop_word in stop_words:
-                    if stop_word not in content:
-                        Parser.text_db_uploader(db_access_key, title, content, link)
+        Parser.text_db_uploader(db_access_key, title, content, link)
 
     @staticmethod
     def text_db_uploader(db_access_key, title, text, link):

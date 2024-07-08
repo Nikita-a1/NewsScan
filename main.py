@@ -40,26 +40,24 @@ record_new_url = urls_collector.UrlsCollector.urls_record
 collect_links_for_parsing = parser.Parser.urls_db_download
 get_text_from_link = parser.Parser.text_downloader
 collect_content_for_summarising = summary.Summary.content_db_download
+detect_interesting_articles = summary.Summary.detect_interesting_articles
 translate_to_english = summary.Summary.trans_to_english
 compress_article = summary.Summary.compress_article
 translate_back = summary.Summary.trans_back
 summarised_articles_db_upload = summary.Summary.summarised_articles_db_uploader
+get_summaries_from_db = telegram.Sender.get_summary_from_db
 get_telegram_format = telegram.Sender.telegram_format
 send_message = telegram.Sender.send_msg
 
 new_links = []  # create a list of links from websites
 links_from_db = []  # create a list of uploaded links from database
 links_for_parsing = []  # create a list of links for parsing
-content_for_translation = [('article1', 'СИМФЕРОПОЛЬ, 1 июл – РИА Новости. Отражение ракетной атаки на Севастополь продолжается, предварительно 4 воздушные цели уничтожены в небе над акваторией и в районе Балаклавы, сообщил губернатор города Михаил Развожаев в своем Telegram-канале. Ранее в городе объявили воздушную тревогу. Сообщалось о работе ПВО. «"Отражение ракетной атаки продолжается. По предварительной информации, 4 воздушные цели уничтожены в небе над акваторией и в районе Балаклавы", - написал Развожаев. По его словам, ситуация на контроле экстренных служб.'), ('article2', 'В Николаевской области фиксируется активность украинской авиации. Об этом РИА Новости сообщил координатор николаевского подполья Сергей Лебедев.'), ('article3', 'ВАШИНГТОН, 1 июл — РИА Новости. Верховный суд США отказался признать за Дональдом Трампом абсолютный иммунитет от юридического преследования за действия в бытность президентом. В постановлении говорится, что президент неподсуден только за действия, совершенные им в официальном качестве, но часть из того, что ему инкриминируется, под это определение может не подпадать. «Другие обвинения, в том числе относящиеся к взаимодействию Трампа с вице-президентом, должностными лицами штатов и отдельными частными сторонами, а также его высказывания на публике, представляют собой более сложный вопрос», — говорится в постановлении суда. Трамп настаивает на том, что его нельзя судить за действия, относящиеся к периоду его пребывания в должности президента США, включая центральный эпизод процесса — штурм Капитолия его сторонниками 6 января 2021 года в попытке сорвать утверждение конгрессом победы на президентских выборах его конкурента-демократа Джо Байдена.')
-, ('article4', 'Осколки сбитых над Севастополем ракет упали в прибрежной зоне и Балаклавском районе, заявил губернатор Михаил Развожаев. Предварительно, уничтожены четыре цели над городом. Информация о возможных повреждениях уточняется, также сказал он. Ранее в городе объявили ракетную опасность. Работали силы ПВО.'), ('article5', 'Верховный суд США постановил, что экс-президент Дональд Трамп имеет право на уголовный иммунитет по делу о попытках повлиять на результаты выборов 2020 года, сообщает CNN. В феврале этого года федеральный апелляционный суд вынес решение, согласно которому в рамках данного дела «бывший президент Трамп стал гражданином Трампом» и потому он не имел иммунитета, который был бы ему положен как занимавшему президентский пост. Верховный суд эту трактовку отклонил. «В соответствии с нашей конституционной структурой разделения властей характер президентской власти требует, чтобы бывший президент имел определенный иммунитет от уголовного преследования за официальные действия во время своего пребывания в должности. По крайней мере, в отношении осуществления президентом своих основных конституционных полномочий этот иммунитет должен быть абсолютным», — говорится в заключении судьи Джона Робертса. Он отметил, что президент не имеет иммунитета в отношении своих неофициальных действий: не все, что делает глава государства, носит официальный характер. Поэтому суду первой инстанции (окружной) предстоит оценить, какие действия Трампа будут защищены согласно решению Верховного суда, а какие нет. Экс-президент в своей соцсети Truth Social назвал решение «большой победой для нашей Конституции и демократии». В феврале адвокаты Трампа настаивали, что политик обладает «абсолютным иммунитетом» от преследования, поскольку обвинения связаны с действиями, совершенными в то время, когда он был президентом. Помимо обвинения, связанного с событиями в Капитолии в январе 2021 года, Трампа подозревают в еще нескольких преступлениях: попытке отменить его поражение на президентских выборах 2020 года в штате Джорджия; хранении в его резиденции во Флориде Мар-а-Лаго секретных документов; подлоге финансовой документации. Это дело также известно как связанное с выплатами порноактрисе Сторми Дэниэлс: ей заплатили за молчание о романе с женатым Трампом в 2006 году, в документах это было отражено как расход на оплату юридических услуг. В конце мая суд присяжных признал Трампа виновным по этому делу, 11 июля будет вынесено судебное решение.')]  # create a list of articles texts to translate them
+downloaded_articles = []  # create a list of articles from db with 'downloaded' status
+content_for_translation = []  # create a list of articles with keywords to translate
 english_content = []  # create a list of english articles
 compressed_content = []  # create a list of compressed articles in english
 ready_content = []  # create a list of compressed articles in native language
-summarized_articles = [("title1", "Продолжается отражение ракетной атаки на Севастополь. Ранее в небе над акваторией и в районе Балаклавы были уничтожены четыре воздушные цели, сообщил городской губернатор Михаил Развожаев. Ранее в городе была объявлена воздушная тревога.", "web1.ru", "https://web1.ru"),
-    ("title2", "Верховный суд США отказался предоставить Дональду Трампу абсолютный иммунитет от судебного преследования за его действия на посту президента. Президент пользуется иммунитетом только за действия, совершенные им в официальном качестве. Трамп настаивал на том, что его нельзя судить за действия, совершенные еще во время его пребывания на посту президента.", "web2.ru", "https://web2.ru"),
-    ("title3", "Обломки ракет, сбитых над Севастополем, упали в прибрежной зоне и районе Балаклавы. Ранее были уничтожены четыре цели над городом. Информация о возможном ущербе уточняется.", "web3.ru", "https://web3.ru"),
-    ("title4", "Верховный суд США постановил, что бывший президент Дональд Трамп имеет право на уголовную неприкосновенность по делу о попытках повлиять на результаты выборов 2020 года. Верховный суд отверг интерпретацию, что президент обладает иммунитетом в отношении своих неофициальных действий.", "web4.ru", "https://web4.ru")
-]  # create a list of tg-format articles from database
+summarized_articles = []  # create a list of compressed articles from database
 articles_to_send = []  # create a list of tg-format articles
 
 for word in key_words:  # change the case of keywords letters
@@ -77,7 +75,7 @@ for url in webs:  # collect all links from websites and write them to new_urls_l
     except:
         write_log(str(datetime.datetime.now().today().replace(microsecond=0)), url,
                   "URLs parsing fault")
-print(new_links)
+print('urls downloaded: ' + str(len(new_links)))
 
 
 try:  # collect already uploaded links from database and write them to links_from_db
@@ -85,19 +83,21 @@ try:  # collect already uploaded links from database and write them to links_fro
 except:
     write_log(str(datetime.datetime.now().today().replace(microsecond=0)), "---",
               "Can't connect to database to get already uploaded urls")
-print(links_from_db)
 
 
 check_duplicate_links(new_links, links_from_db)  # delete duplicates urls
-print(new_links)
+print('urls uploaded: ' + str(len(new_links)))
 
 
 for new_link in new_links:  # record unique links in the database and set status 'not_downloaded'
+    url = new_link[0]
+    link = new_link[1]
     try:
-        record_new_url(db_access_key, new_link, str(datetime.datetime.now().today().replace(microsecond=0)))
+        record_new_url(db_access_key, link, url, str(datetime.datetime.now().today().replace(microsecond=0)))
     except:
         write_log(str(datetime.datetime.now().today().replace(microsecond=0)), "---",
                   "Can't connect to database to upload new links")
+
 
 #  PARSER.PY
 try:  # collect all links from database to download their text
@@ -105,12 +105,12 @@ try:  # collect all links from database to download their text
 except:
     write_log(str(datetime.datetime.now().today().replace(microsecond=0)), "---",
               "Can't connect to database to get all urls and download their text")
-print(links_for_parsing)
+print('urls for parsing: ' + str(len(links_for_parsing)))
 
 
 for link in links_for_parsing:  # download links content to database
     try:
-        get_text_from_link(db_access_key, link, key_words, stop_words)
+        get_text_from_link(db_access_key, link)
     except:
         write_log(str(datetime.datetime.now().today().replace(microsecond=0)), link,
                   "Can't download link content")
@@ -118,58 +118,72 @@ for link in links_for_parsing:  # download links content to database
 
 #  SUMMARY.PY
 try:  # collect all content from database for summarising to content_for_translation
-    collect_content_for_summarising(db_access_key, webs, content_for_translation)
+    collect_content_for_summarising(db_access_key, webs, downloaded_articles)
 except:
     write_log(str(datetime.datetime.now().today().replace(microsecond=0)), "---",
               "Can't connect to database to get all content")
+print('all articles: ' + str(len(downloaded_articles)))
 
 
-translate_to_english(content_for_translation, english_content)  # translate content to english and write it to english_content
+detect_interesting_articles(downloaded_articles, content_for_translation, key_words, stop_words)
+print('interesting articles: ' + str(len(content_for_translation)))
+
+
+try:
+    translate_to_english(content_for_translation, english_content)  # translate content to english and write it to english_content
+except:
+    write_log(str(datetime.datetime.now().today().replace(microsecond=0)), "---",
+              "Can't translate article to english")
 
 
 for article_block in english_content:  # compress articles in english
     try:
         compress_article(article_block, compressed_content)
     except:
-        write_log(str(datetime.datetime.now().today().replace(microsecond=0)), article_block[0],
+        write_log(str(datetime.datetime.now().today().replace(microsecond=0)), str(article_block[0]),
                   "Can't compress the article")
+print('articles compressed: ' + str(len(compressed_content)))
+print(compressed_content)
 
 
 translate_back(compressed_content, ready_content)  # translate compressed articles back
-
+print('summaarized articles: ' + str(len(ready_content)))
 
 for article_block in ready_content:  # update summarised articles
+    id = article_block[0]
+    text = article_block[1]
     try:
-        summarised_articles_db_upload(db_access_key, article_block[0], article_block[1])
+        summarised_articles_db_upload(db_access_key, id, text)
     except:
-        write_log(str(datetime.datetime.now().today().replace(microsecond=0)), article_block[0],
+        write_log(str(datetime.datetime.now().today().replace(microsecond=0)), str(id),
                       "Can't connect to database to upload summary")
 
 
 #  TELEGRAM.PY
 try:  # collect all summaries from database to summarized_articles
-    collect_content_for_summarising(db_access_key, webs, summarized_articles)
+    get_summaries_from_db(db_access_key, webs, summarized_articles)
 except:
     write_log(str(datetime.datetime.now().today().replace(microsecond=0)), "---",
               "Can't connect to database to get all summaries")
 
 
-try:
-    get_telegram_format(summarized_articles, articles_to_send, language)  # set telegram format for each article
+try:  # set telegram format for each article
+    get_telegram_format(summarized_articles, articles_to_send, language)
 except:
     write_log(str(datetime.datetime.now().today().replace(microsecond=0)), '---',
               "telegram-format fault")
 
-
+count = 0
 for article_block in articles_to_send:  # send all articles in tg channel
+    title = article_block[0]
+    summary = article_block[1]
+    website = article_block[2]
+    link = article_block[3]
+
     try:
-        link_text = article_block[2]
-        link = article_block[3]
-        title = article_block[0]
-        text = article_block[1]
-        send_message(link_text, link, title, text)
+        send_message(title, summary, website, link)
+        count += 1
     except:
         write_log(str(datetime.datetime.now().today().replace(microsecond=0)), '---',
                   "telegram send fault")
-
-
+print('articles sent: ' + str(count))
