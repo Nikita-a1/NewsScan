@@ -39,7 +39,7 @@ class Summary:
         for article_block in downloaded_articles:
             article = article_block[1]
             for key_word in key_words:
-                if key_word in article:
+                if str(key_word) in article:
                     content_for_translation.append(article_block)
                     continue
 
@@ -69,39 +69,40 @@ class Summary:
             text = article_block[1]
             en_text = ""
 
-            if len(text) > 1000:
-                text = Summary.split_long_sentences(text)
-            else:
-                text = [text]
+            paragraphs = text.split('\n')
 
-            for paragraph in text:
-                translated_paragraph = translator.translate(paragraph, dest='en').text
-                en_text = en_text + translated_paragraph
+            for paragraph in paragraphs:
+                if paragraph:
+                    if len(paragraph) > 1000:
+                        sentences = Summary.split_long_sentences(paragraph)
+                        for sentence in sentences:
+                            translated_sentence = translator.translate(sentence, dest='en').text
+                            en_text += translated_sentence + ' '
+                    else:
+                        translated_paragraph = translator.translate(paragraph, dest='en').text
+                        en_text += translated_paragraph + ' '
 
+            re.sub(r'(?<=[.!?])(?=[^\s])', ' ', en_text)
             english_content.append((id, en_text))
 
     @staticmethod
     def compress_article(article_block, compressed_content):
         model = BartForConditionalGeneration.from_pretrained("sshleifer/distilbart-cnn-12-6")
         tokenizer = AutoTokenizer.from_pretrained("sshleifer/distilbart-cnn-12-6")
-
         id = article_block[0]
         content_to_summarize = article_block[1]
         summarized_content = ""
 
-        while len(summarized_content) == 0 or len(summarized_content) > 3000 and len(content_to_summarize) > 0:
-            content_to_summarize = Summary.split_long_sentences(content_to_summarize)
-            summarized_content = ""
-            for paragraph in content_to_summarize:
-                inputs = tokenizer([paragraph], return_tensors="pt")
-                summary_ids = model.generate(inputs["input_ids"], num_beams=3, min_length=0, max_length=15)
-                paragraph = tokenizer.batch_decode(summary_ids, skip_special_tokens=True, clean_up_tokenization_spaces=False)[0]
-                summarized_content += paragraph
-            content_to_summarize = summarized_content
+        split_content = Summary.split_long_sentences(content_to_summarize)
+
+        for paragraph in split_content:
+            inputs = tokenizer([paragraph], return_tensors="pt")
+            summary_ids = model.generate(inputs["input_ids"], num_beams=4, min_length=0)
+            paragraph = tokenizer.batch_decode(summary_ids, skip_special_tokens=True, clean_up_tokenization_spaces=False)[0]
+            summarized_content = summarized_content + paragraph + ' '
 
         compressed_content.append((id, summarized_content))
         print('done')
-
 
     @staticmethod
     def trans_back(compressed_content, ready_content):
@@ -109,9 +110,11 @@ class Summary:
         for article_block in compressed_content:
             id = article_block[0]
             text = article_block[1]
+
             result = translator.translate(text, dest='ru').text
-            while ' .' in result:
-                result = result.replace(' .', '.')
+            result = re.sub(r'(?<=[^.])([.!?])', r'\1 ', result)
+            result = ' '.join(result.split())
+
             ready_content.append((id, result))
 
     @staticmethod

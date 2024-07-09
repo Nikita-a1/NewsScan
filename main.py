@@ -61,6 +61,7 @@ summarized_articles = []  # create a list of compressed articles from database
 articles_to_send = []  # create a list of tg-format articles
 
 for word in key_words:  # change the case of keywords letters
+    word = str(word)
     new_word = word.lower()
     if new_word != word:
         key_words.append(new_word)
@@ -128,12 +129,12 @@ print('all articles: ' + str(len(downloaded_articles)))
 detect_interesting_articles(downloaded_articles, content_for_translation, key_words, stop_words)
 print('interesting articles: ' + str(len(content_for_translation)))
 
-
 try:
     translate_to_english(content_for_translation, english_content)  # translate content to english and write it to english_content
 except:
     write_log(str(datetime.datetime.now().today().replace(microsecond=0)), "---",
               "Can't translate article to english")
+print('articles translated: ' + str(len(english_content)))
 
 
 for article_block in english_content:  # compress articles in english
@@ -143,11 +144,11 @@ for article_block in english_content:  # compress articles in english
         write_log(str(datetime.datetime.now().today().replace(microsecond=0)), str(article_block[0]),
                   "Can't compress the article")
 print('articles compressed: ' + str(len(compressed_content)))
-print(compressed_content)
 
 
 translate_back(compressed_content, ready_content)  # translate compressed articles back
 print('summaarized articles: ' + str(len(ready_content)))
+
 
 for article_block in ready_content:  # update summarised articles
     id = article_block[0]
