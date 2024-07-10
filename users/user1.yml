@@ -1,22 +1,21 @@
-user_id: 123  # user id
+user_id: 1  # user id
 
 webs:  # list of sites for parsing
 #  - https://www.rbc.ru
 #  - https://quote.ru/
-  - https://vc.ru
+#  - https://vc.ru
   - https://ria.ru/
-  - https://russian.rt.com/
-  - https://aif.ru/
-  - https://ren.tv/
-  - https://lenta.ru/
-  - https://edition.cnn.com/
-  - https://news.rambler.ru/
-  - https://life.ru/
-  - https://rg.ru/
+#  - https://russian.rt.com/
+#  - https://aif.ru/
+#  - https://ren.tv/
+#  - https://lenta.ru/
+#  - https://edition.cnn.com/
+#  - https://news.rambler.ru/
+#  - https://life.ru/
+#  - https://rg.ru/
 
 key_words:  # list of keywords
-  - Нефть
-  - 400
+  - Путин
 
 stop_words:  # list of stopwords
   - слово1

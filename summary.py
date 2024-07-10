@@ -29,19 +29,23 @@ class Summary:
                     downloaded_articles.append(article_block)
 
     @staticmethod
-    def detect_interesting_articles(downloaded_articles, content_for_translation, key_words, stop_words):
+    def detect_interesting_articles(downloaded_articles, content_for_translation, users_requests):
+
         for article_block in downloaded_articles:
+            article_id = article_block[0]
             article = article_block[1]
-            for stop_word in stop_words:
-                if stop_word in article:
-                    downloaded_articles.remove(article_block)
-                    continue
-        for article_block in downloaded_articles:
-            article = article_block[1]
-            for key_word in key_words:
-                if str(key_word) in article:
-                    content_for_translation.append(article_block)
-                    continue
+            for user_request in users_requests:
+
+                for key_word in user_request['key_words']:
+                    if str(key_word) in article:
+                        content_for_translation.append(article_block)
+                        user_request['urls_to_send'].append(article_id)
+                        continue
+                for stop_word in user_request['stop_words']:
+                    if str(stop_word) in article:
+                        content_for_translation.remove(article_block)
+                        user_request['urls_to_send'].remove(article_id)
+                        continue
 
     @staticmethod
     def split_long_sentences(sentence):

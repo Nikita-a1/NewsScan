@@ -1,38 +1,32 @@
+import loader
 import urls_collector
 import parser
 import summary
 import telegram
 import log
-import yaml
 import datetime
 
+users_directory = 'users'  # specify the path for the directory with users files
+path_keys = 'keys.yml'
 
-PATH_config = 'config.yml'  # specify the path for the file
-PATH_keys = 'keys.yml'
-
-try:  # try to open config.yml file
-    with open(PATH_config, 'r', encoding='utf-8') as file:
-        config_data = yaml.safe_load(file)
+try:  # try to get users requests
+    webs, users_requests = loader.Load.get_users_requests(users_directory)
 except:
     log.Log.write_log(str(datetime.datetime.now().today().replace(microsecond=0)), "---",
-                      "Can't open the config.yml file")
+                      "Can't open the users directory")
 
-try:  # try to open keys.yml file
-    with open(PATH_keys, 'r', encoding='utf-8') as file:
-        keys_data = yaml.safe_load(file)
+try:  # try to get keys.yml file
+    db_access_key = loader.Load.get_keys_data(path_keys)
 except:
     log.Log.write_log(str(datetime.datetime.now().today().replace(microsecond=0)), "---",
                       "Can't open the keys.yml file")
 
-user_id = config_data['user_id']  # write data from the yml file to variables
-webs = config_data['webs']
-key_words = config_data['key_words']
-stop_words = config_data['stop_words']
-language = config_data['language']
-frequency = config_data['frequency']
-db_access_key = keys_data['database']
+
+
 
 write_log = log.Log.write_log
+update_users_table = loader.Load.update_users_table
+get_sent_urls = loader.Load.get_sent_urls
 collect_links_from_url = urls_collector.UrlsCollector.all_urls
 get_all_links_from_db = urls_collector.UrlsCollector.get_downloaded_urls
 check_duplicate_links = urls_collector.UrlsCollector.urls_duplicate_check
@@ -48,6 +42,7 @@ summarised_articles_db_upload = summary.Summary.summarised_articles_db_uploader
 get_summaries_from_db = telegram.Sender.get_summary_from_db
 get_telegram_format = telegram.Sender.telegram_format
 send_message = telegram.Sender.send_msg
+update_sent_urls = telegram.Sender.update_sent_urls
 
 new_links = []  # create a list of links from websites
 links_from_db = []  # create a list of uploaded links from database
@@ -60,11 +55,23 @@ ready_content = []  # create a list of compressed articles in native language
 summarized_articles = []  # create a list of compressed articles from database
 articles_to_send = []  # create a list of tg-format articles
 
-for word in key_words:  # change the case of keywords letters
-    word = str(word)
-    new_word = word.lower()
-    if new_word != word:
-        key_words.append(new_word)
+
+#  LOADER.PY
+for user_request in users_requests:
+    try:
+        update_users_table(db_access_key, user_request)
+    except:
+        log.Log.write_log(str(datetime.datetime.now().today().replace(microsecond=0)), "---",
+                          "Can't update users table")
+
+
+for user_request in users_requests:
+    try:
+        get_sent_urls(db_access_key, user_request)
+    except:
+        log.Log.write_log(str(datetime.datetime.now().today().replace(microsecond=0)), "---",
+                          "Can't get sent urls from database")
+
 
 #  URLS_COLLECTOR.PY
 for url in webs:  # collect all links from websites and write them to new_urls_list
@@ -126,8 +133,9 @@ except:
 print('all articles: ' + str(len(downloaded_articles)))
 
 
-detect_interesting_articles(downloaded_articles, content_for_translation, key_words, stop_words)
+detect_interesting_articles(downloaded_articles, content_for_translation, users_requests)
 print('interesting articles: ' + str(len(content_for_translation)))
+
 
 try:
     translate_to_english(content_for_translation, english_content)  # translate content to english and write it to english_content
@@ -169,22 +177,31 @@ except:
 
 
 try:  # set telegram format for each article
-    get_telegram_format(summarized_articles, articles_to_send, language)
+    get_telegram_format(summarized_articles, articles_to_send, users_requests)
 except:
     write_log(str(datetime.datetime.now().today().replace(microsecond=0)), '---',
               "telegram-format fault")
 
 count = 0
 for article_block in articles_to_send:  # send all articles in tg channel
-    title = article_block[0]
-    summary = article_block[1]
-    website = article_block[2]
-    link = article_block[3]
+    user_id = article_block[0]
+    title = article_block[1]
+    summary = article_block[2]
+    website = article_block[3]
+    link = article_block[4]
 
     try:
-        send_message(title, summary, website, link)
+        send_message(user_id, title, summary, website, link)
         count += 1
     except:
         write_log(str(datetime.datetime.now().today().replace(microsecond=0)), '---',
                   "telegram send fault")
 print('articles sent: ' + str(count))
+
+
+for user_request in users_requests:
+    try:
+        update_sent_urls(db_access_key, user_request)
+    except:
+        write_log(str(datetime.datetime.now().today().replace(microsecond=0)), '---',
+                  "can't update sent urls")
