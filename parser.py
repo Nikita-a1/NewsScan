@@ -86,7 +86,7 @@ class Parser:
                         length += len(text)
             if length > max_length:
                 for el in all_text:
-                    content = content + ' ' + el + '\n'
+                    content = content + el + '<paragraph>'
                 max_length = length
 
         request = soup.findAll('div', class_='article__text')
@@ -98,12 +98,12 @@ class Parser:
                     text = text.replace('  ', ' ')
                 while '\n' in text:
                     text = text.replace('\n', '')
-                content = content + ' ' + text
+                content = content + text + '<paragraph>'
 
         Parser.text_db_uploader(db_access_key, title, content, link)
 
     @staticmethod
-    def text_db_uploader(db_access_key, title, text, link):
+    def text_db_uploader(db_access_key, title, content, link):
         with connect(
                 host=db_access_key['host'],
                 user=db_access_key['user'],
@@ -111,7 +111,7 @@ class Parser:
                 database=db_access_key['database']
         ) as connection:
             request = "update NS_table set Title = '{}', Content = '{}', Status = 'downloaded' where URl = '{}';".format(
-                title, text, link)
+                title, content, link)
             with connection.cursor() as cursor:
                 cursor.execute(request)
                 cursor.fetchall()

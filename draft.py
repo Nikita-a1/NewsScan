@@ -1,5 +1,6 @@
+fruits = ["банан", "яблоко"]
 
-list = [('1', '2'), ('33', '444')]
+for i in range(len(fruits)):
+    fruits.insert(i*2 + 1, fruits[i].capitalize())
 
-list2 = [i[1] for i in list]
-print(list2)
+print(fruits)

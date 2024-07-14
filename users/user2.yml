@@ -2,7 +2,7 @@ user_id: 2  # user id
 
 webs:  # list of sites for parsing
 #  - https://www.rbc.ru
-#  - https://quote.ru/
+  - https://quote.ru/
 #  - https://vc.ru
 #  - https://ria.ru/
 #  - https://russian.rt.com/
@@ -12,11 +12,10 @@ webs:  # list of sites for parsing
 #  - https://edition.cnn.com/
 #  - https://news.rambler.ru/
 #  - https://life.ru/
-  - https://rg.ru/
+#  - https://rg.ru/
 
 key_words:  # list of keywords
-  - Ютуб
-  - YouTube
+  - Китай
 
 stop_words:  # list of stopwords
   - слово1

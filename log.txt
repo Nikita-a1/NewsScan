@@ -1,21 +1,110 @@
-
-2024-07-10 20:26:46 --- Can't get sent urls from database
-2024-07-10 20:26:46 --- Can't get sent urls from database
-2024-07-10 20:28:20 https://ria.ru/20240710/priem-1958771802.html Can't download link content
-2024-07-10 20:38:40 --- Can't get sent urls from database
-2024-07-10 20:38:40 --- Can't get sent urls from database
-2024-07-10 20:38:41 https://ria.ru URLs parsing fault
-2024-07-10 20:43:37 https://ria.ru/20240710/priem-1958771802.html Can't download link content
-2024-07-10 20:49:11 --- can't update sent urls
-2024-07-10 20:49:11 --- can't update sent urls
-2024-07-10 20:53:28 --- Can't update users table
-2024-07-10 20:54:47 https://ria.ru/20240710/priem-1958771802.html Can't download link content
-2024-07-10 20:54:51 --- can't update sent urls
-2024-07-10 20:54:51 --- can't update sent urls
-2024-07-10 21:02:52 https://ria.ru/20240710/priem-1958771802.html Can't download link content
-2024-07-10 21:02:54 --- can't update sent urls
-2024-07-10 21:02:54 --- can't update sent urls
-2024-07-10 21:04:50 https://ria.ru/20240710/priem-1958771802.html Can't download link content
-2024-07-10 21:04:51 --- can't update sent urls
-2024-07-10 21:04:51 --- can't update sent urls
-2024-07-10 21:07:14 https://ria.ru/20240710/priem-1958771802.html Can't download link content
+2024-07-12 10:05:36 https://ria.ru/20240711/smi-1958943047.html Can't download link content
+2024-07-12 10:06:53 --- Can't connect to database to get all content
+2024-07-12 10:06:53 --- Can't connect to database to get urls to send
+2024-07-12 10:06:53 --- Can't connect to database to get urls to send
+2024-07-12 10:06:53 --- telegram-format fault
+2024-07-12 10:13:11 https://ria.ru/20240711/smi-1958943047.html Can't download link content
+2024-07-12 10:21:11 44 Can't connect to database to upload summary
+2024-07-12 10:21:11 66 Can't connect to database to upload summary
+2024-07-12 10:21:11 109 Can't connect to database to upload summary
+2024-07-12 10:21:11 --- Can't connect to database to get urls to send
+2024-07-12 10:21:11 --- Can't connect to database to get urls to send
+2024-07-12 10:21:11 --- telegram-format fault
+2024-07-12 10:34:09 https://ria.ru/20240711/smi-1958943047.html Can't download link content
+2024-07-12 10:37:25 44 Can't connect to database to upload summary
+2024-07-12 10:37:25 --- Can't connect to database to get urls to send
+2024-07-12 10:37:25 --- Can't connect to database to get urls to send
+2024-07-12 10:37:25 --- telegram-format fault
+2024-07-12 10:49:19 --- Can't connect to database to get urls to send
+2024-07-12 10:49:19 --- Can't connect to database to get urls to send
+2024-07-12 10:49:20 --- telegram-format fault
+2024-07-12 12:05:03 --- Can't connect to database to get urls to send
+2024-07-12 12:05:03 --- Can't connect to database to get urls to send
+2024-07-12 12:05:04 --- telegram-format fault
+2024-07-12 12:11:09 --- Can't connect to database to get urls to send
+2024-07-12 12:11:09 --- Can't connect to database to get urls to send
+2024-07-12 12:11:10 --- telegram-format fault
+2024-07-12 12:19:57 --- telegram-format fault
+2024-07-12 12:19:57 --- can't update sent urls
+2024-07-12 12:19:57 --- can't update sent urls
+2024-07-12 12:23:18 --- telegram-format fault
+2024-07-12 12:23:18 --- can't update sent urls
+2024-07-12 12:23:18 --- can't update sent urls
+2024-07-12 12:26:38 --- telegram-format fault
+2024-07-12 12:29:18 --- telegram-format fault
+2024-07-12 12:31:18 --- telegram-format fault
+2024-07-12 12:33:07 --- telegram-format fault
+2024-07-12 12:33:40 --- telegram-format fault
+2024-07-12 12:34:58 --- telegram-format fault
+2024-07-12 12:35:34 --- telegram-format fault
+2024-07-12 12:36:02 --- telegram-format fault
+2024-07-12 12:41:00 --- telegram-format fault
+2024-07-12 12:42:34 --- telegram-format fault
+2024-07-12 12:46:12 --- telegram-format fault
+2024-07-12 12:46:12 --- can't update sent urls
+2024-07-12 12:46:12 --- can't update sent urls
+2024-07-12 12:52:21 --- telegram-format fault
+2024-07-12 12:54:39 --- telegram-format fault
+2024-07-12 12:58:58 --- telegram-format fault
+2024-07-12 13:00:14 --- telegram-format fault
+2024-07-12 13:02:50 --- telegram-format fault
+2024-07-12 13:04:31 --- telegram-format fault
+2024-07-12 14:15:36 --- telegram-format fault
+2024-07-12 17:11:56 --- telegram-format fault
+2024-07-12 17:20:48 --- telegram-format fault
+2024-07-12 18:26:20 --- telegram-format fault
+2024-07-12 18:28:41 --- telegram-format fault
+2024-07-12 19:47:47 --- telegram-format fault
+2024-07-12 19:50:12 https://ria.ru/20240712/aktsiz-1959303544.html?rcmd_alg=slotter Can't download link content
+2024-07-12 19:51:00 https://ria.ru URLs parsing fault
+2024-07-12 19:56:54 https://ria.ru/20240712/otel-1959340274.html?rcmd_alg=slotter Can't download link content
+2024-07-12 19:57:48 https://ria.ru/20240712/otel-1959340274.html?rcmd_alg=slotter Can't download link content
+2024-07-12 20:03:57 https://ria.ru URLs parsing fault
+2024-07-12 20:04:14 https://ria.ru URLs parsing fault
+2024-07-12 20:05:18 https://ria.ru URLs parsing fault
+2024-07-12 20:06:09 https://ria.ru URLs parsing fault
+2024-07-12 20:06:24 https://rg.ru URLs parsing fault
+2024-07-12 20:08:25 https://rg.ru URLs parsing fault
+2024-07-12 20:08:52 https://ria.ru/20240712/otel-1959340274.html?rcmd_alg=slotter Can't download link content
+2024-07-12 20:09:15 https://ria.ru URLs parsing fault
+2024-07-12 20:10:08 https://rsport.ria.ru/20240712/musaev-1959331611.html Can't download link content
+2024-07-12 20:10:32 https://rg.ru URLs parsing fault
+2024-07-12 20:12:20 https://ria.ru URLs parsing fault
+2024-07-12 20:12:52 https://rg.ru URLs parsing fault
+2024-07-12 20:12:59 https://ria.ru URLs parsing fault
+2024-07-12 20:13:53 https://ria.ru URLs parsing fault
+2024-07-12 20:18:41 --- telegram-format fault
+2024-07-12 20:28:52 --- telegram-format fault
+2024-07-12 20:32:58 --- Can't connect to database to upload urls to send
+2024-07-12 20:32:58 --- Can't connect to database to upload urls to send
+2024-07-12 20:32:58 --- telegram-format fault
+2024-07-12 20:33:36 --- Can't connect to database to upload urls to send
+2024-07-12 20:33:36 --- Can't connect to database to upload urls to send
+2024-07-12 20:33:36 --- telegram-format fault
+2024-07-13 11:13:41 --- telegram-format fault
+2024-07-13 11:15:18 --- telegram-format fault
+2024-07-13 11:15:40 --- telegram-format fault
+2024-07-13 11:16:19 --- telegram-format fault
+2024-07-13 11:16:28 --- telegram-format fault
+2024-07-13 11:17:07 --- telegram-format fault
+2024-07-13 12:14:46 --- telegram-format fault
+2024-07-13 12:37:47 --- telegram send fault
+2024-07-13 13:13:26 https://edition.cnn.com/2024/07/12/style/anant-ambani-radhika-merchant-wedding-mumbai-intl-hnk/index.html Can't download link content
+2024-07-13 13:14:57 https://edition.cnn.com/2024/07/12/middleeast/israel-netanyahu-ceasefire-talks-intl-latam/index.html Can't download link content
+2024-07-13 13:15:55 https://edition.cnn.com/2024/07/12/style/anant-ambani-radhika-merchant-wedding-mumbai-intl-hnk/index.html Can't download link content
+2024-07-13 13:17:01 https://edition.cnn.com/2024/07/13/world/video/israel-gaza-netzah-yehuda-investigation-polglase-full-digvid Can't download link content
+2024-07-13 13:18:42 https://edition.cnn.com/2024/07/12/world/video/ambani-wedding-india-billionaire-ripley-pkg-digvid Can't download link content
+2024-07-13 13:21:39 217 Can't connect to database to upload summary
+2024-07-13 13:21:39 242 Can't connect to database to upload summary
+2024-07-13 13:23:05 https://edition.cnn.com/2024/07/12/style/anant-ambani-radhika-merchant-wedding-mumbai-intl-hnk/index.html Can't download link content
+2024-07-13 13:23:08 https://edition.cnn.com/2024/07/13/world/video/israel-gaza-netzah-yehuda-investigation-polglase-full-digvid Can't download link content
+2024-07-13 13:23:11 https://edition.cnn.com/2024/07/12/world/video/ambani-wedding-india-billionaire-ripley-pkg-digvid Can't download link content
+2024-07-13 13:24:57 217 Can't connect to database to upload summary
+2024-07-13 13:24:57 242 Can't connect to database to upload summary
+2024-07-13 13:30:04 https://edition.cnn.com/2024/07/12/style/anant-ambani-radhika-merchant-wedding-mumbai-intl-hnk/index.html Can't download link content
+2024-07-13 13:30:06 https://edition.cnn.com/2024/07/13/world/video/israel-gaza-netzah-yehuda-investigation-polglase-full-digvid Can't download link content
+2024-07-13 13:30:09 https://edition.cnn.com/2024/07/12/world/video/ambani-wedding-india-billionaire-ripley-pkg-digvid Can't download link content
+2024-07-13 13:31:57 217 Can't connect to database to upload summary
+2024-07-13 13:31:57 242 Can't connect to database to upload summary
+2024-07-13 14:17:39 https://edition.cnn.com/2024/07/12/style/anant-ambani-radhika-merchant-wedding-mumbai-intl-hnk/index.html Can't download link content
+2024-07-14 11:18:51 297 Can't connect to database to upload summary

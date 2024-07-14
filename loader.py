@@ -27,6 +27,25 @@ class Load:
                      'stop_words': data['stop_words'], 'language': data['language'], 'urls_to_send': [],
                      'sent_urls': []})
 
+        for user_request in users_requests:
+            key_words = user_request['key_words']
+            for key_word in key_words:
+                new_word = key_word.lower()
+                if new_word not in key_words:
+                    key_words.append(new_word)
+                new_word = key_word.capitalize()
+                if new_word not in key_words:
+                    key_words.append(new_word)
+
+            stop_words = user_request['stop_words']
+            for stop_word in stop_words:
+                new_word = stop_word.lower()
+                if new_word not in stop_words:
+                    stop_words.append(new_word)
+                new_word = stop_word.capitalize()
+                if new_word not in stop_words:
+                    stop_words.append(new_word)
+
         return webs, users_requests
 
     @staticmethod
@@ -62,9 +81,10 @@ class Load:
                 password=db_access_key['password'],
                 database=db_access_key['database']
         ) as connection:
-            request = "select sent_URLs from Users_table where id = '{}'".format(user_request['user_id'])
+            request = "select Sent_URLs from Users_table where id = '{}';".format(user_request['user_id'])
             with connection.cursor() as cursor:
                 cursor.execute(request)
-                urls_sent = cursor.fetchall()
-                user_request['urls_sent'] = urls_sent
-                connection.commit()
+                sent_urls = cursor.fetchone()[0].split(' ')
+                for sent_url in sent_urls:
+                    if sent_url:
+                        user_request['sent_urls'].append(sent_url)

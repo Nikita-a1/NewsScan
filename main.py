@@ -7,7 +7,7 @@ import log
 import datetime
 
 users_directory = 'users'  # specify the path for the directory with users files
-path_keys = 'keys.yml'
+path_keys = 'keys.yml'  # specify the path for the hidden file
 
 try:  # try to get users requests
     webs, users_requests = loader.Load.get_users_requests(users_directory)
@@ -20,8 +20,6 @@ try:  # try to get keys.yml file
 except:
     log.Log.write_log(str(datetime.datetime.now().today().replace(microsecond=0)), "---",
                       "Can't open the keys.yml file")
-
-
 
 
 write_log = log.Log.write_log
@@ -38,8 +36,10 @@ detect_interesting_articles = summary.Summary.detect_interesting_articles
 translate_to_english = summary.Summary.trans_to_english
 compress_article = summary.Summary.compress_article
 translate_back = summary.Summary.trans_back
-summarised_articles_db_upload = summary.Summary.summarised_articles_db_uploader
+summarized_articles_db_upload = summary.Summary.summarized_articles_db_uploader
+urls_to_send_db_upload = summary.Summary.urls_to_send_db_uploader
 get_summaries_from_db = telegram.Sender.get_summary_from_db
+get_urls_to_send_from_db = telegram.Sender.get_urls_to_send_from_db
 get_telegram_format = telegram.Sender.telegram_format
 send_message = telegram.Sender.send_msg
 update_sent_urls = telegram.Sender.update_sent_urls
@@ -57,7 +57,7 @@ articles_to_send = []  # create a list of tg-format articles
 
 
 #  LOADER.PY
-for user_request in users_requests:
+for user_request in users_requests:  # update keywords and stop words in database
     try:
         update_users_table(db_access_key, user_request)
     except:
@@ -65,7 +65,7 @@ for user_request in users_requests:
                           "Can't update users table")
 
 
-for user_request in users_requests:
+for user_request in users_requests:  # get already sent urls from database
     try:
         get_sent_urls(db_access_key, user_request)
     except:
@@ -133,19 +133,21 @@ except:
 print('all articles: ' + str(len(downloaded_articles)))
 
 
-detect_interesting_articles(downloaded_articles, content_for_translation, users_requests)
+detect_interesting_articles(downloaded_articles, content_for_translation,
+                            users_requests)  # check articles for keywords and stop words
 print('interesting articles: ' + str(len(content_for_translation)))
 
 
 try:
-    translate_to_english(content_for_translation, english_content)  # translate content to english and write it to english_content
+    translate_to_english(content_for_translation,
+                         english_content)  # translate content to english and write it to english_content
 except:
     write_log(str(datetime.datetime.now().today().replace(microsecond=0)), "---",
               "Can't translate article to english")
 print('articles translated: ' + str(len(english_content)))
 
 
-for article_block in english_content:  # compress articles in english
+for article_block in english_content:  # compress english articles
     try:
         compress_article(article_block, compressed_content)
     except:
@@ -155,17 +157,25 @@ print('articles compressed: ' + str(len(compressed_content)))
 
 
 translate_back(compressed_content, ready_content)  # translate compressed articles back
-print('summaarized articles: ' + str(len(ready_content)))
+print('summarized articles: ' + str(len(ready_content)))
 
 
-for article_block in ready_content:  # update summarised articles
+for article_block in ready_content:  # update summarized articles
     id = article_block[0]
     text = article_block[1]
     try:
-        summarised_articles_db_upload(db_access_key, id, text)
+        summarized_articles_db_upload(db_access_key, id, text)
     except:
         write_log(str(datetime.datetime.now().today().replace(microsecond=0)), str(id),
                       "Can't connect to database to upload summary")
+
+
+for user_request in users_requests:  # update urls_to_send to database
+    try:
+        urls_to_send_db_upload(db_access_key, user_request)
+    except:
+        write_log(str(datetime.datetime.now().today().replace(microsecond=0)), '---',
+                  "Can't connect to database to upload urls to send")
 
 
 #  TELEGRAM.PY
@@ -176,30 +186,31 @@ except:
               "Can't connect to database to get all summaries")
 
 
+for user_request in users_requests:  # get urls_to_send from database
+    try:
+        get_urls_to_send_from_db(db_access_key, user_request)
+    except:
+        write_log(str(datetime.datetime.now().today().replace(microsecond=0)), "---",
+                  "Can't connect to database to get urls to send")
+
+
 try:  # set telegram format for each article
-    get_telegram_format(summarized_articles, articles_to_send, users_requests)
+    get_telegram_format(summarized_articles, articles_to_send)
 except:
     write_log(str(datetime.datetime.now().today().replace(microsecond=0)), '---',
               "telegram-format fault")
 
-count = 0
-for article_block in articles_to_send:  # send all articles in tg channel
-    user_id = article_block[0]
-    title = article_block[1]
-    summary = article_block[2]
-    website = article_block[3]
-    link = article_block[4]
 
-    try:
-        send_message(user_id, title, summary, website, link)
-        count += 1
-    except:
-        write_log(str(datetime.datetime.now().today().replace(microsecond=0)), '---',
-                  "telegram send fault")
-print('articles sent: ' + str(count))
+# send all articles in tg channel
+try:
+    send_message(users_requests, articles_to_send)
+except:
+    write_log(str(datetime.datetime.now().today().replace(microsecond=0)), '---',
+              "telegram send fault")
+print('sent')
 
 
-for user_request in users_requests:
+for user_request in users_requests:  # update sent_urls to database
     try:
         update_sent_urls(db_access_key, user_request)
     except:
