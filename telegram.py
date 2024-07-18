@@ -1,6 +1,5 @@
 from mysql.connector import connect
 import requests
-from googletrans import Translator
 
 
 class Sender:
@@ -56,21 +55,19 @@ class Sender:
             sentences = summary.split('. ')
             for i in range(len(sentences)):
                 sentence = sentences[i]
+                while '.' in sentence:
+                    sentence = sentence.replace('.', '')
                 if sentence and sentence != ' ':
-                    sentence += '.'
-                    new_article = new_article + '- ' + sentence + '\n'
+                    new_article = new_article + '- ' + sentence + '.' + '\n'
             articles_to_send.append([article_id, website, link, title, new_article])
 
     @staticmethod
-    def send_msg(users_requests, articles_to_send):
-        bot_token = '7359065426:AAH7DTsO5vgmwvSU1d110CEiPHi64nI1lUo'
-        channel_id = '-1002229910677'
+    def send_msg(users_requests, articles_to_send, bot_token):
 
         for user_request in users_requests:
-            user_id = user_request['user_id']
             urls_to_send = user_request['urls_to_send']
             sent_urls = user_request['sent_urls']
-            language = user_request['language']
+            channel_id = user_request['tg_channel']
 
             for article_block in articles_to_send:
                 article_id = article_block[0]
@@ -80,15 +77,11 @@ class Sender:
                 summary = article_block[4]
 
                 if str(article_id) in urls_to_send and str(article_id) not in sent_urls:
-                    translator = Translator()
 
-                    new_summary = translator.translate(summary, dest=language).text
-                    new_title = translator.translate(title, dest=language).text
-
-                    message = f"sent to user with id: {user_id}\n[{website}]({link}) *{new_title}*\n{new_summary}"
+                    message = f"[{website}]({link}) *{title}*\n{summary}"
 
                     url = f"https://api.telegram.org/bot{bot_token}/sendMessage"
-                    params = {'chat_id': channel_id, 'text': message, 'parse_mode': 'Markdown'}
+                    params = {'chat_id': channel_id, 'text': message, 'parse_mode': 'Markdown', 'disable_web_page_preview': True}
                     requests.post(url, data=params)
 
                     user_request['sent_urls'].append(str(article_id))

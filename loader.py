@@ -23,28 +23,9 @@ class Load:
                     webs.append(web)
 
                 users_requests.append(
-                    {'user_id': data['user_id'], 'webs': data['webs'], 'key_words': data['key_words'],
-                     'stop_words': data['stop_words'], 'language': data['language'], 'urls_to_send': [],
-                     'sent_urls': []})
-
-        for user_request in users_requests:
-            key_words = user_request['key_words']
-            for key_word in key_words:
-                new_word = key_word.lower()
-                if new_word not in key_words:
-                    key_words.append(new_word)
-                new_word = key_word.capitalize()
-                if new_word not in key_words:
-                    key_words.append(new_word)
-
-            stop_words = user_request['stop_words']
-            for stop_word in stop_words:
-                new_word = stop_word.lower()
-                if new_word not in stop_words:
-                    stop_words.append(new_word)
-                new_word = stop_word.capitalize()
-                if new_word not in stop_words:
-                    stop_words.append(new_word)
+                    {'user_id': data['user_id'], 'tg_channel': data['tg_channel'], 'webs': data['webs'],
+                     'key_words': data['key_words'],
+                     'stop_words': data['stop_words'], 'urls_to_send': [], 'sent_urls': []})
 
         return webs, users_requests
 
@@ -55,19 +36,25 @@ class Load:
             return keys_data['database']
 
     @staticmethod
+    def get_api_key(path_keys):
+        with open(path_keys, 'r', encoding='utf-8') as file:
+            keys_data = yaml.safe_load(file)
+            return keys_data['api_key'], keys_data['prompt'], keys_data['bot_token']
+
+    @staticmethod
     def update_users_table(db_access_key, user_request):
         user_id = user_request['user_id']
+        tg_channel = user_request['tg_channel']
         key_words = user_request['key_words']
         stop_words = user_request['stop_words']
-        language = user_request['language']
         with connect(
                 host=db_access_key['host'],
                 user=db_access_key['user'],
                 password=db_access_key['password'],
                 database=db_access_key['database']
         ) as connection:
-            request = """update Users_table set Key_words = "{}", Stop_words = "{}", Language = "{}" where id = "{}";""".format(
-                key_words, stop_words, language, user_id)
+            request = """update Users_table set Tg_channel = "{}", Key_words = "{}", Stop_words = "{}" where id = "{}";""".format(
+                tg_channel, key_words, stop_words, user_id)
             with connection.cursor() as cursor:
                 cursor.execute(request)
                 cursor.fetchall()

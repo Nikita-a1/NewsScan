@@ -1,26 +1,26 @@
 user_id: 2  # user id
 
+tg_channel: -1002168464302
+
 webs:  # list of sites for parsing
 #  - https://www.rbc.ru
-  - https://quote.ru/
+#  - https://quote.ru/
 #  - https://vc.ru
 #  - https://ria.ru/
 #  - https://russian.rt.com/
 #  - https://aif.ru/
-#  - https://ren.tv/
-#  - https://lenta.ru/
-#  - https://edition.cnn.com/
-#  - https://news.rambler.ru/
-#  - https://life.ru/
-#  - https://rg.ru/
+  - https://ren.tv/
+  - https://lenta.ru/
+  - https://edition.cnn.com/
+  - https://news.rambler.ru/
+  - https://life.ru/
+  - https://rg.ru/
 
 key_words:  # list of keywords
-  - Китай
+  - Газпром
 
 stop_words:  # list of stopwords
   - слово1
   - слово2
-
-language: ru
 
 frequency: 1  # the frequency of running the parser in hours

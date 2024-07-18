@@ -1,6 +1,11 @@
-fruits = ["банан", "яблоко"]
+import requests
 
-for i in range(len(fruits)):
-    fruits.insert(i*2 + 1, fruits[i].capitalize())
+def send_msg(bot_token, channel_id):
+    message = f"[{'https://quote.ru'}]({'https://quote.ru'}) *{'e'}*\n{'r'}"
 
-print(fruits)
+    url = f"https://api.telegram.org/bot{bot_token}/sendMessage"
+    params = {'chat_id': channel_id, 'text': message, 'parse_mode': 'Markdown',
+              'disable_web_page_preview': True}
+    requests.post(url, data=params)
+
+send_msg('7359065426:AAH7DTsO5vgmwvSU1d110CEiPHi64nI1lUo', '-1002168464302')

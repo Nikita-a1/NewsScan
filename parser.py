@@ -86,7 +86,7 @@ class Parser:
                         length += len(text)
             if length > max_length:
                 for el in all_text:
-                    content = content + el + '<paragraph>'
+                    content = content + el + ' '
                 max_length = length
 
         request = soup.findAll('div', class_='article__text')
@@ -98,7 +98,7 @@ class Parser:
                     text = text.replace('  ', ' ')
                 while '\n' in text:
                     text = text.replace('\n', '')
-                content = content + text + '<paragraph>'
+                content = content + text + ' '
 
         Parser.text_db_uploader(db_access_key, title, content, link)
 

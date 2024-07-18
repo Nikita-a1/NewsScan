@@ -108,3 +108,1509 @@
 2024-07-13 13:31:57 242 Can't connect to database to upload summary
 2024-07-13 14:17:39 https://edition.cnn.com/2024/07/12/style/anant-ambani-radhika-merchant-wedding-mumbai-intl-hnk/index.html Can't download link content
 2024-07-14 11:18:51 297 Can't connect to database to upload summary
+2024-07-16 11:29:24 --- Can't connect to database to upload new links
+2024-07-16 11:29:24 --- Can't connect to database to upload new links
+2024-07-16 11:29:24 --- Can't connect to database to upload new links
+2024-07-16 11:29:24 --- Can't connect to database to upload new links
+2024-07-16 11:29:24 --- Can't connect to database to upload new links
+2024-07-16 11:29:24 --- Can't connect to database to upload new links
+2024-07-16 11:29:24 --- Can't connect to database to upload new links
+2024-07-16 11:29:24 --- Can't connect to database to upload new links
+2024-07-16 11:29:24 --- Can't connect to database to upload new links
+2024-07-16 11:29:24 --- Can't connect to database to upload new links
+2024-07-16 11:29:24 --- Can't connect to database to upload new links
+2024-07-16 11:29:24 --- Can't connect to database to upload new links
+2024-07-16 11:29:24 --- Can't connect to database to upload new links
+2024-07-16 11:29:24 --- Can't connect to database to upload new links
+2024-07-16 11:29:24 --- Can't connect to database to upload new links
+2024-07-16 11:29:24 --- Can't connect to database to upload new links
+2024-07-16 11:29:24 --- Can't connect to database to upload new links
+2024-07-16 11:29:24 --- Can't connect to database to upload new links
+2024-07-16 11:29:24 --- Can't connect to database to upload new links
+2024-07-16 11:29:24 --- Can't connect to database to upload new links
+2024-07-16 11:29:24 --- Can't connect to database to upload new links
+2024-07-16 11:29:24 --- Can't connect to database to upload new links
+2024-07-16 11:29:24 --- Can't connect to database to upload new links
+2024-07-16 11:29:24 --- Can't connect to database to upload new links
+2024-07-16 11:29:24 --- Can't connect to database to upload new links
+2024-07-16 11:29:24 --- Can't connect to database to upload new links
+2024-07-16 11:29:24 --- Can't connect to database to upload new links
+2024-07-16 11:29:24 --- Can't connect to database to upload new links
+2024-07-16 11:29:24 --- Can't connect to database to upload new links
+2024-07-16 11:29:24 --- Can't connect to database to upload new links
+2024-07-16 11:29:24 --- Can't connect to database to upload new links
+2024-07-16 11:29:24 --- Can't connect to database to upload new links
+2024-07-16 11:29:24 --- Can't connect to database to upload new links
+2024-07-16 11:29:24 --- Can't connect to database to upload new links
+2024-07-16 11:29:24 --- Can't connect to database to upload new links
+2024-07-16 11:29:24 --- Can't connect to database to upload new links
+2024-07-16 11:29:24 --- Can't connect to database to upload new links
+2024-07-16 11:29:24 --- Can't connect to database to upload new links
+2024-07-16 11:29:24 --- Can't connect to database to upload new links
+2024-07-16 11:29:24 --- Can't connect to database to upload new links
+2024-07-16 11:29:24 --- Can't connect to database to upload new links
+2024-07-16 11:29:24 --- Can't connect to database to upload new links
+2024-07-16 11:29:24 --- Can't connect to database to upload new links
+2024-07-16 11:29:24 --- Can't connect to database to upload new links
+2024-07-16 11:29:24 --- Can't connect to database to upload new links
+2024-07-16 11:29:24 --- Can't connect to database to upload new links
+2024-07-16 11:29:24 --- Can't connect to database to upload new links
+2024-07-16 11:29:24 --- Can't connect to database to upload new links
+2024-07-16 11:29:24 --- Can't connect to database to upload new links
+2024-07-16 11:29:24 --- Can't connect to database to upload new links
+2024-07-16 11:29:24 --- Can't connect to database to upload new links
+2024-07-16 11:29:24 --- Can't connect to database to upload new links
+2024-07-16 11:29:24 --- Can't connect to database to get all urls and download their text
+2024-07-16 11:29:24 --- Can't connect to database to get all content
+2024-07-16 11:29:24 --- Can't connect to database to get all summaries
+2024-07-16 11:36:52 --- Can't connect to database to upload new links
+2024-07-16 11:36:52 --- Can't connect to database to upload new links
+2024-07-16 11:36:52 --- Can't connect to database to upload new links
+2024-07-16 11:36:52 --- Can't connect to database to upload new links
+2024-07-16 11:36:52 --- Can't connect to database to upload new links
+2024-07-16 11:36:52 --- Can't connect to database to upload new links
+2024-07-16 11:36:52 --- Can't connect to database to upload new links
+2024-07-16 11:36:52 --- Can't connect to database to upload new links
+2024-07-16 11:36:52 --- Can't connect to database to upload new links
+2024-07-16 11:36:52 --- Can't connect to database to upload new links
+2024-07-16 11:36:52 --- Can't connect to database to upload new links
+2024-07-16 11:36:52 --- Can't connect to database to upload new links
+2024-07-16 11:36:52 --- Can't connect to database to upload new links
+2024-07-16 11:36:52 --- Can't connect to database to upload new links
+2024-07-16 11:36:52 --- Can't connect to database to upload new links
+2024-07-16 11:36:52 --- Can't connect to database to upload new links
+2024-07-16 11:36:52 --- Can't connect to database to upload new links
+2024-07-16 11:36:52 --- Can't connect to database to upload new links
+2024-07-16 11:36:52 --- Can't connect to database to upload new links
+2024-07-16 11:36:52 --- Can't connect to database to upload new links
+2024-07-16 11:36:52 --- Can't connect to database to upload new links
+2024-07-16 11:36:52 --- Can't connect to database to upload new links
+2024-07-16 11:36:52 --- Can't connect to database to upload new links
+2024-07-16 11:36:52 --- Can't connect to database to upload new links
+2024-07-16 11:36:52 --- Can't connect to database to upload new links
+2024-07-16 11:36:52 --- Can't connect to database to upload new links
+2024-07-16 11:36:52 --- Can't connect to database to upload new links
+2024-07-16 11:36:52 --- Can't connect to database to upload new links
+2024-07-16 11:36:52 --- Can't connect to database to upload new links
+2024-07-16 11:36:52 --- Can't connect to database to upload new links
+2024-07-16 11:36:52 --- Can't connect to database to upload new links
+2024-07-16 11:36:52 --- Can't connect to database to upload new links
+2024-07-16 11:36:52 --- Can't connect to database to upload new links
+2024-07-16 11:36:52 --- Can't connect to database to upload new links
+2024-07-16 11:36:52 --- Can't connect to database to upload new links
+2024-07-16 11:36:52 --- Can't connect to database to upload new links
+2024-07-16 11:36:52 --- Can't connect to database to upload new links
+2024-07-16 11:36:52 --- Can't connect to database to upload new links
+2024-07-16 11:36:52 --- Can't connect to database to upload new links
+2024-07-16 11:36:52 --- Can't connect to database to upload new links
+2024-07-16 11:36:52 --- Can't connect to database to upload new links
+2024-07-16 11:36:52 --- Can't connect to database to upload new links
+2024-07-16 11:36:52 --- Can't connect to database to upload new links
+2024-07-16 11:36:52 --- Can't connect to database to upload new links
+2024-07-16 11:36:52 --- Can't connect to database to upload new links
+2024-07-16 11:36:52 --- Can't connect to database to upload new links
+2024-07-16 11:36:52 --- Can't connect to database to upload new links
+2024-07-16 11:36:52 --- Can't connect to database to upload new links
+2024-07-16 11:36:52 --- Can't connect to database to upload new links
+2024-07-16 11:36:52 --- Can't connect to database to upload new links
+2024-07-16 11:36:52 --- Can't connect to database to upload new links
+2024-07-16 11:36:52 --- Can't connect to database to upload new links
+2024-07-16 11:36:52 --- Can't connect to database to upload new links
+2024-07-16 11:36:52 --- Can't connect to database to upload new links
+2024-07-16 11:36:52 --- Can't connect to database to get all urls and download their text
+2024-07-16 11:36:52 --- Can't connect to database to get all content
+2024-07-16 11:36:52 --- Can't connect to database to get all summaries
+2024-07-16 11:38:30 --- Can't connect to database to upload new links
+2024-07-16 11:38:30 --- Can't connect to database to upload new links
+2024-07-16 11:38:30 --- Can't connect to database to upload new links
+2024-07-16 11:38:30 --- Can't connect to database to upload new links
+2024-07-16 11:38:30 --- Can't connect to database to upload new links
+2024-07-16 11:38:30 --- Can't connect to database to upload new links
+2024-07-16 11:38:30 --- Can't connect to database to upload new links
+2024-07-16 11:38:30 --- Can't connect to database to upload new links
+2024-07-16 11:38:30 --- Can't connect to database to upload new links
+2024-07-16 11:38:30 --- Can't connect to database to upload new links
+2024-07-16 11:38:30 --- Can't connect to database to upload new links
+2024-07-16 11:38:30 --- Can't connect to database to upload new links
+2024-07-16 11:38:30 --- Can't connect to database to upload new links
+2024-07-16 11:38:30 --- Can't connect to database to upload new links
+2024-07-16 11:38:30 --- Can't connect to database to upload new links
+2024-07-16 11:38:30 --- Can't connect to database to upload new links
+2024-07-16 11:38:30 --- Can't connect to database to upload new links
+2024-07-16 11:38:30 --- Can't connect to database to upload new links
+2024-07-16 11:38:30 --- Can't connect to database to upload new links
+2024-07-16 11:38:30 --- Can't connect to database to upload new links
+2024-07-16 11:38:30 --- Can't connect to database to upload new links
+2024-07-16 11:38:30 --- Can't connect to database to upload new links
+2024-07-16 11:38:30 --- Can't connect to database to upload new links
+2024-07-16 11:38:30 --- Can't connect to database to upload new links
+2024-07-16 11:38:30 --- Can't connect to database to upload new links
+2024-07-16 11:38:30 --- Can't connect to database to upload new links
+2024-07-16 11:38:30 --- Can't connect to database to upload new links
+2024-07-16 11:38:30 --- Can't connect to database to upload new links
+2024-07-16 11:38:30 --- Can't connect to database to upload new links
+2024-07-16 11:38:30 --- Can't connect to database to upload new links
+2024-07-16 11:38:30 --- Can't connect to database to upload new links
+2024-07-16 11:38:30 --- Can't connect to database to upload new links
+2024-07-16 11:38:30 --- Can't connect to database to upload new links
+2024-07-16 11:38:30 --- Can't connect to database to upload new links
+2024-07-16 11:38:30 --- Can't connect to database to upload new links
+2024-07-16 11:38:30 --- Can't connect to database to upload new links
+2024-07-16 11:38:30 --- Can't connect to database to upload new links
+2024-07-16 11:38:30 --- Can't connect to database to upload new links
+2024-07-16 11:38:30 --- Can't connect to database to upload new links
+2024-07-16 11:38:30 --- Can't connect to database to upload new links
+2024-07-16 11:38:31 --- Can't connect to database to upload new links
+2024-07-16 11:38:31 --- Can't connect to database to upload new links
+2024-07-16 11:38:31 --- Can't connect to database to upload new links
+2024-07-16 11:38:31 --- Can't connect to database to upload new links
+2024-07-16 11:38:31 --- Can't connect to database to upload new links
+2024-07-16 11:38:31 --- Can't connect to database to upload new links
+2024-07-16 11:38:31 --- Can't connect to database to upload new links
+2024-07-16 11:38:31 --- Can't connect to database to upload new links
+2024-07-16 11:38:31 --- Can't connect to database to upload new links
+2024-07-16 11:38:31 --- Can't connect to database to upload new links
+2024-07-16 11:38:31 --- Can't connect to database to upload new links
+2024-07-16 11:38:31 --- Can't connect to database to upload new links
+2024-07-16 11:38:31 --- Can't connect to database to upload new links
+2024-07-16 11:38:31 --- Can't connect to database to upload new links
+2024-07-16 11:38:31 --- Can't connect to database to get all urls and download their text
+2024-07-16 11:38:31 --- Can't connect to database to get all content
+2024-07-16 11:38:31 --- Can't connect to database to get all summaries
+2024-07-16 11:39:05 --- Can't connect to database to upload new links
+2024-07-16 11:39:05 --- Can't connect to database to upload new links
+2024-07-16 11:39:05 --- Can't connect to database to upload new links
+2024-07-16 11:39:05 --- Can't connect to database to upload new links
+2024-07-16 11:39:05 --- Can't connect to database to upload new links
+2024-07-16 11:39:05 --- Can't connect to database to upload new links
+2024-07-16 11:39:05 --- Can't connect to database to upload new links
+2024-07-16 11:39:05 --- Can't connect to database to upload new links
+2024-07-16 11:39:05 --- Can't connect to database to upload new links
+2024-07-16 11:39:05 --- Can't connect to database to upload new links
+2024-07-16 11:39:05 --- Can't connect to database to upload new links
+2024-07-16 11:39:05 --- Can't connect to database to upload new links
+2024-07-16 11:39:05 --- Can't connect to database to upload new links
+2024-07-16 11:39:05 --- Can't connect to database to upload new links
+2024-07-16 11:39:05 --- Can't connect to database to upload new links
+2024-07-16 11:39:05 --- Can't connect to database to upload new links
+2024-07-16 11:39:06 --- Can't connect to database to upload new links
+2024-07-16 11:39:06 --- Can't connect to database to upload new links
+2024-07-16 11:39:06 --- Can't connect to database to upload new links
+2024-07-16 11:39:06 --- Can't connect to database to upload new links
+2024-07-16 11:39:06 --- Can't connect to database to upload new links
+2024-07-16 11:39:06 --- Can't connect to database to upload new links
+2024-07-16 11:39:06 --- Can't connect to database to upload new links
+2024-07-16 11:39:06 --- Can't connect to database to upload new links
+2024-07-16 11:39:06 --- Can't connect to database to upload new links
+2024-07-16 11:39:06 --- Can't connect to database to upload new links
+2024-07-16 11:39:06 --- Can't connect to database to upload new links
+2024-07-16 11:39:06 --- Can't connect to database to upload new links
+2024-07-16 11:39:06 --- Can't connect to database to upload new links
+2024-07-16 11:39:06 --- Can't connect to database to upload new links
+2024-07-16 11:39:06 --- Can't connect to database to upload new links
+2024-07-16 11:39:06 --- Can't connect to database to upload new links
+2024-07-16 11:39:06 --- Can't connect to database to upload new links
+2024-07-16 11:39:06 --- Can't connect to database to upload new links
+2024-07-16 11:39:06 --- Can't connect to database to upload new links
+2024-07-16 11:39:06 --- Can't connect to database to upload new links
+2024-07-16 11:39:06 --- Can't connect to database to upload new links
+2024-07-16 11:39:06 --- Can't connect to database to upload new links
+2024-07-16 11:39:06 --- Can't connect to database to upload new links
+2024-07-16 11:39:06 --- Can't connect to database to upload new links
+2024-07-16 11:39:06 --- Can't connect to database to upload new links
+2024-07-16 11:39:06 --- Can't connect to database to upload new links
+2024-07-16 11:39:06 --- Can't connect to database to upload new links
+2024-07-16 11:39:06 --- Can't connect to database to upload new links
+2024-07-16 11:39:06 --- Can't connect to database to upload new links
+2024-07-16 11:39:06 --- Can't connect to database to upload new links
+2024-07-16 11:39:06 --- Can't connect to database to upload new links
+2024-07-16 11:39:06 --- Can't connect to database to upload new links
+2024-07-16 11:39:06 --- Can't connect to database to upload new links
+2024-07-16 11:39:06 --- Can't connect to database to upload new links
+2024-07-16 11:39:06 --- Can't connect to database to upload new links
+2024-07-16 11:39:06 --- Can't connect to database to upload new links
+2024-07-16 11:39:06 --- Can't connect to database to upload new links
+2024-07-16 11:39:06 --- Can't connect to database to upload new links
+2024-07-16 11:39:06 --- Can't connect to database to get all urls and download their text
+2024-07-16 11:39:06 --- Can't connect to database to get all content
+2024-07-16 11:39:06 --- Can't connect to database to get all summaries
+2024-07-16 11:47:03 https://quote.ru/news/article/668ead189a79478bd7d0390e?from=newsfeed Can't download link content
+2024-07-16 11:49:12 https://quote.ru/news/article/6694b9019a7947e9eb88cce0 Can't download link content
+2024-07-16 15:01:57 --- Can't open the keys.yml file to get db_access_key
+2024-07-16 15:01:57 --- Can't open the keys.yml file to get api_key
+2024-07-16 15:01:57 --- Can't update users table
+2024-07-16 15:01:57 --- Can't update users table
+2024-07-16 15:01:57 --- Can't get sent urls from database
+2024-07-16 15:01:57 --- Can't get sent urls from database
+2024-07-16 15:01:58 --- Can't connect to database to get already uploaded urls
+2024-07-16 15:01:58 --- Can't connect to database to upload new links
+2024-07-16 15:01:58 --- Can't connect to database to upload new links
+2024-07-16 15:01:58 --- Can't connect to database to upload new links
+2024-07-16 15:01:58 --- Can't connect to database to upload new links
+2024-07-16 15:01:58 --- Can't connect to database to upload new links
+2024-07-16 15:01:58 --- Can't connect to database to upload new links
+2024-07-16 15:01:58 --- Can't connect to database to upload new links
+2024-07-16 15:01:58 --- Can't connect to database to upload new links
+2024-07-16 15:01:58 --- Can't connect to database to upload new links
+2024-07-16 15:01:58 --- Can't connect to database to upload new links
+2024-07-16 15:01:58 --- Can't connect to database to upload new links
+2024-07-16 15:01:58 --- Can't connect to database to upload new links
+2024-07-16 15:01:58 --- Can't connect to database to upload new links
+2024-07-16 15:01:58 --- Can't connect to database to upload new links
+2024-07-16 15:01:58 --- Can't connect to database to upload new links
+2024-07-16 15:01:58 --- Can't connect to database to upload new links
+2024-07-16 15:01:58 --- Can't connect to database to upload new links
+2024-07-16 15:01:58 --- Can't connect to database to upload new links
+2024-07-16 15:01:58 --- Can't connect to database to upload new links
+2024-07-16 15:01:58 --- Can't connect to database to upload new links
+2024-07-16 15:01:58 --- Can't connect to database to upload new links
+2024-07-16 15:01:58 --- Can't connect to database to upload new links
+2024-07-16 15:01:58 --- Can't connect to database to upload new links
+2024-07-16 15:01:58 --- Can't connect to database to upload new links
+2024-07-16 15:01:58 --- Can't connect to database to upload new links
+2024-07-16 15:01:58 --- Can't connect to database to upload new links
+2024-07-16 15:01:58 --- Can't connect to database to upload new links
+2024-07-16 15:01:58 --- Can't connect to database to upload new links
+2024-07-16 15:01:58 --- Can't connect to database to upload new links
+2024-07-16 15:01:58 --- Can't connect to database to upload new links
+2024-07-16 15:01:58 --- Can't connect to database to upload new links
+2024-07-16 15:01:58 --- Can't connect to database to upload new links
+2024-07-16 15:01:58 --- Can't connect to database to upload new links
+2024-07-16 15:01:58 --- Can't connect to database to upload new links
+2024-07-16 15:01:58 --- Can't connect to database to upload new links
+2024-07-16 15:01:58 --- Can't connect to database to upload new links
+2024-07-16 15:01:58 --- Can't connect to database to upload new links
+2024-07-16 15:01:58 --- Can't connect to database to upload new links
+2024-07-16 15:01:58 --- Can't connect to database to upload new links
+2024-07-16 15:01:58 --- Can't connect to database to upload new links
+2024-07-16 15:01:58 --- Can't connect to database to upload new links
+2024-07-16 15:01:58 --- Can't connect to database to upload new links
+2024-07-16 15:01:58 --- Can't connect to database to upload new links
+2024-07-16 15:01:58 --- Can't connect to database to upload new links
+2024-07-16 15:01:58 --- Can't connect to database to upload new links
+2024-07-16 15:01:58 --- Can't connect to database to upload new links
+2024-07-16 15:01:58 --- Can't connect to database to upload new links
+2024-07-16 15:01:58 --- Can't connect to database to upload new links
+2024-07-16 15:01:58 --- Can't connect to database to upload new links
+2024-07-16 15:01:58 --- Can't connect to database to upload new links
+2024-07-16 15:01:58 --- Can't connect to database to upload new links
+2024-07-16 15:01:58 --- Can't connect to database to upload new links
+2024-07-16 15:01:58 --- Can't connect to database to upload new links
+2024-07-16 15:01:58 --- Can't connect to database to get all urls and download their text
+2024-07-16 15:01:58 --- Can't connect to database to get all content
+2024-07-16 15:01:58 --- Can't connect to database to upload urls to send
+2024-07-16 15:01:58 --- Can't connect to database to upload urls to send
+2024-07-16 15:01:58 --- Can't connect to database to get all summaries
+2024-07-16 15:01:58 --- Can't connect to database to get urls to send
+2024-07-16 15:01:58 --- Can't connect to database to get urls to send
+2024-07-16 15:01:58 --- can't update sent urls
+2024-07-16 15:01:58 --- can't update sent urls
+2024-07-16 15:03:29 --- Can't open the keys.yml file to get db_access_key
+2024-07-16 15:03:29 --- Can't open the keys.yml file to get api_key
+2024-07-16 15:03:29 --- Can't update users table
+2024-07-16 15:03:29 --- Can't update users table
+2024-07-16 15:03:29 --- Can't get sent urls from database
+2024-07-16 15:03:29 --- Can't get sent urls from database
+2024-07-16 15:03:31 --- Can't connect to database to get already uploaded urls
+2024-07-16 15:03:31 --- Can't connect to database to upload new links
+2024-07-16 15:03:31 --- Can't connect to database to upload new links
+2024-07-16 15:03:31 --- Can't connect to database to upload new links
+2024-07-16 15:03:31 --- Can't connect to database to upload new links
+2024-07-16 15:03:31 --- Can't connect to database to upload new links
+2024-07-16 15:03:31 --- Can't connect to database to upload new links
+2024-07-16 15:03:31 --- Can't connect to database to upload new links
+2024-07-16 15:03:31 --- Can't connect to database to upload new links
+2024-07-16 15:03:31 --- Can't connect to database to upload new links
+2024-07-16 15:03:31 --- Can't connect to database to upload new links
+2024-07-16 15:03:31 --- Can't connect to database to upload new links
+2024-07-16 15:03:31 --- Can't connect to database to upload new links
+2024-07-16 15:03:31 --- Can't connect to database to upload new links
+2024-07-16 15:03:31 --- Can't connect to database to upload new links
+2024-07-16 15:03:31 --- Can't connect to database to upload new links
+2024-07-16 15:03:31 --- Can't connect to database to upload new links
+2024-07-16 15:03:31 --- Can't connect to database to upload new links
+2024-07-16 15:03:31 --- Can't connect to database to upload new links
+2024-07-16 15:03:31 --- Can't connect to database to upload new links
+2024-07-16 15:03:31 --- Can't connect to database to upload new links
+2024-07-16 15:03:31 --- Can't connect to database to upload new links
+2024-07-16 15:03:31 --- Can't connect to database to upload new links
+2024-07-16 15:03:31 --- Can't connect to database to upload new links
+2024-07-16 15:03:31 --- Can't connect to database to upload new links
+2024-07-16 15:03:31 --- Can't connect to database to upload new links
+2024-07-16 15:03:31 --- Can't connect to database to upload new links
+2024-07-16 15:03:31 --- Can't connect to database to upload new links
+2024-07-16 15:03:31 --- Can't connect to database to upload new links
+2024-07-16 15:03:31 --- Can't connect to database to upload new links
+2024-07-16 15:03:31 --- Can't connect to database to upload new links
+2024-07-16 15:03:31 --- Can't connect to database to upload new links
+2024-07-16 15:03:31 --- Can't connect to database to upload new links
+2024-07-16 15:03:31 --- Can't connect to database to upload new links
+2024-07-16 15:03:31 --- Can't connect to database to upload new links
+2024-07-16 15:03:31 --- Can't connect to database to upload new links
+2024-07-16 15:03:31 --- Can't connect to database to upload new links
+2024-07-16 15:03:31 --- Can't connect to database to upload new links
+2024-07-16 15:03:31 --- Can't connect to database to upload new links
+2024-07-16 15:03:31 --- Can't connect to database to upload new links
+2024-07-16 15:03:31 --- Can't connect to database to upload new links
+2024-07-16 15:03:31 --- Can't connect to database to upload new links
+2024-07-16 15:03:31 --- Can't connect to database to upload new links
+2024-07-16 15:03:31 --- Can't connect to database to upload new links
+2024-07-16 15:03:31 --- Can't connect to database to upload new links
+2024-07-16 15:03:31 --- Can't connect to database to upload new links
+2024-07-16 15:03:31 --- Can't connect to database to upload new links
+2024-07-16 15:03:31 --- Can't connect to database to upload new links
+2024-07-16 15:03:31 --- Can't connect to database to upload new links
+2024-07-16 15:03:31 --- Can't connect to database to upload new links
+2024-07-16 15:03:31 --- Can't connect to database to upload new links
+2024-07-16 15:03:31 --- Can't connect to database to upload new links
+2024-07-16 15:03:31 --- Can't connect to database to upload new links
+2024-07-16 15:03:31 --- Can't connect to database to get all urls and download their text
+2024-07-16 15:03:31 --- Can't connect to database to get all content
+2024-07-16 15:03:31 --- Can't connect to database to upload urls to send
+2024-07-16 15:03:31 --- Can't connect to database to upload urls to send
+2024-07-16 15:03:31 --- Can't connect to database to get all summaries
+2024-07-16 15:03:31 --- Can't connect to database to get urls to send
+2024-07-16 15:03:31 --- Can't connect to database to get urls to send
+2024-07-16 15:03:31 --- can't update sent urls
+2024-07-16 15:03:31 --- can't update sent urls
+2024-07-16 15:03:49 --- Can't open the keys.yml file to get db_access_key
+2024-07-16 15:03:49 --- Can't open the keys.yml file to get api_key
+2024-07-16 15:03:49 --- Can't update users table
+2024-07-16 15:03:49 --- Can't update users table
+2024-07-16 15:03:49 --- Can't get sent urls from database
+2024-07-16 15:03:49 --- Can't get sent urls from database
+2024-07-16 15:03:50 --- Can't connect to database to get already uploaded urls
+2024-07-16 15:03:50 --- Can't connect to database to upload new links
+2024-07-16 15:03:50 --- Can't connect to database to upload new links
+2024-07-16 15:03:50 --- Can't connect to database to upload new links
+2024-07-16 15:03:50 --- Can't connect to database to upload new links
+2024-07-16 15:03:50 --- Can't connect to database to upload new links
+2024-07-16 15:03:50 --- Can't connect to database to upload new links
+2024-07-16 15:03:50 --- Can't connect to database to upload new links
+2024-07-16 15:03:50 --- Can't connect to database to upload new links
+2024-07-16 15:03:50 --- Can't connect to database to upload new links
+2024-07-16 15:03:50 --- Can't connect to database to upload new links
+2024-07-16 15:03:50 --- Can't connect to database to upload new links
+2024-07-16 15:03:50 --- Can't connect to database to upload new links
+2024-07-16 15:03:50 --- Can't connect to database to upload new links
+2024-07-16 15:03:50 --- Can't connect to database to upload new links
+2024-07-16 15:03:50 --- Can't connect to database to upload new links
+2024-07-16 15:03:50 --- Can't connect to database to upload new links
+2024-07-16 15:03:50 --- Can't connect to database to upload new links
+2024-07-16 15:03:50 --- Can't connect to database to upload new links
+2024-07-16 15:03:50 --- Can't connect to database to upload new links
+2024-07-16 15:03:50 --- Can't connect to database to upload new links
+2024-07-16 15:03:50 --- Can't connect to database to upload new links
+2024-07-16 15:03:50 --- Can't connect to database to upload new links
+2024-07-16 15:03:50 --- Can't connect to database to upload new links
+2024-07-16 15:03:50 --- Can't connect to database to upload new links
+2024-07-16 15:03:50 --- Can't connect to database to upload new links
+2024-07-16 15:03:50 --- Can't connect to database to upload new links
+2024-07-16 15:03:50 --- Can't connect to database to upload new links
+2024-07-16 15:03:50 --- Can't connect to database to upload new links
+2024-07-16 15:03:50 --- Can't connect to database to upload new links
+2024-07-16 15:03:50 --- Can't connect to database to upload new links
+2024-07-16 15:03:50 --- Can't connect to database to upload new links
+2024-07-16 15:03:50 --- Can't connect to database to upload new links
+2024-07-16 15:03:50 --- Can't connect to database to upload new links
+2024-07-16 15:03:50 --- Can't connect to database to upload new links
+2024-07-16 15:03:50 --- Can't connect to database to upload new links
+2024-07-16 15:03:50 --- Can't connect to database to upload new links
+2024-07-16 15:03:50 --- Can't connect to database to upload new links
+2024-07-16 15:03:50 --- Can't connect to database to upload new links
+2024-07-16 15:03:50 --- Can't connect to database to upload new links
+2024-07-16 15:03:50 --- Can't connect to database to upload new links
+2024-07-16 15:03:50 --- Can't connect to database to upload new links
+2024-07-16 15:03:50 --- Can't connect to database to upload new links
+2024-07-16 15:03:50 --- Can't connect to database to upload new links
+2024-07-16 15:03:50 --- Can't connect to database to upload new links
+2024-07-16 15:03:50 --- Can't connect to database to upload new links
+2024-07-16 15:03:50 --- Can't connect to database to upload new links
+2024-07-16 15:03:50 --- Can't connect to database to upload new links
+2024-07-16 15:03:50 --- Can't connect to database to upload new links
+2024-07-16 15:03:50 --- Can't connect to database to upload new links
+2024-07-16 15:03:50 --- Can't connect to database to upload new links
+2024-07-16 15:03:50 --- Can't connect to database to upload new links
+2024-07-16 15:03:50 --- Can't connect to database to upload new links
+2024-07-16 15:03:50 --- Can't connect to database to get all urls and download their text
+2024-07-16 15:03:50 --- Can't connect to database to get all content
+2024-07-16 15:03:50 --- Can't connect to database to upload urls to send
+2024-07-16 15:03:50 --- Can't connect to database to upload urls to send
+2024-07-16 15:03:50 --- Can't connect to database to get all summaries
+2024-07-16 15:03:50 --- Can't connect to database to get urls to send
+2024-07-16 15:03:50 --- Can't connect to database to get urls to send
+2024-07-16 15:03:50 --- can't update sent urls
+2024-07-16 15:03:50 --- can't update sent urls
+2024-07-16 15:04:06 --- Can't open the keys.yml file to get db_access_key
+2024-07-16 15:04:06 --- Can't open the keys.yml file to get api_key
+2024-07-16 15:04:06 --- Can't update users table
+2024-07-16 15:04:06 --- Can't update users table
+2024-07-16 15:04:06 --- Can't get sent urls from database
+2024-07-16 15:04:06 --- Can't get sent urls from database
+2024-07-16 15:04:07 --- Can't connect to database to get already uploaded urls
+2024-07-16 15:04:07 --- Can't connect to database to upload new links
+2024-07-16 15:04:07 --- Can't connect to database to upload new links
+2024-07-16 15:04:07 --- Can't connect to database to upload new links
+2024-07-16 15:04:07 --- Can't connect to database to upload new links
+2024-07-16 15:04:07 --- Can't connect to database to upload new links
+2024-07-16 15:04:07 --- Can't connect to database to upload new links
+2024-07-16 15:04:07 --- Can't connect to database to upload new links
+2024-07-16 15:04:07 --- Can't connect to database to upload new links
+2024-07-16 15:04:07 --- Can't connect to database to upload new links
+2024-07-16 15:04:07 --- Can't connect to database to upload new links
+2024-07-16 15:04:07 --- Can't connect to database to upload new links
+2024-07-16 15:04:07 --- Can't connect to database to upload new links
+2024-07-16 15:04:07 --- Can't connect to database to upload new links
+2024-07-16 15:04:07 --- Can't connect to database to upload new links
+2024-07-16 15:04:07 --- Can't connect to database to upload new links
+2024-07-16 15:04:07 --- Can't connect to database to upload new links
+2024-07-16 15:04:07 --- Can't connect to database to upload new links
+2024-07-16 15:04:07 --- Can't connect to database to upload new links
+2024-07-16 15:04:07 --- Can't connect to database to upload new links
+2024-07-16 15:04:07 --- Can't connect to database to upload new links
+2024-07-16 15:04:07 --- Can't connect to database to upload new links
+2024-07-16 15:04:07 --- Can't connect to database to upload new links
+2024-07-16 15:04:07 --- Can't connect to database to upload new links
+2024-07-16 15:04:07 --- Can't connect to database to upload new links
+2024-07-16 15:04:07 --- Can't connect to database to upload new links
+2024-07-16 15:04:07 --- Can't connect to database to upload new links
+2024-07-16 15:04:07 --- Can't connect to database to upload new links
+2024-07-16 15:04:07 --- Can't connect to database to upload new links
+2024-07-16 15:04:07 --- Can't connect to database to upload new links
+2024-07-16 15:04:07 --- Can't connect to database to upload new links
+2024-07-16 15:04:07 --- Can't connect to database to upload new links
+2024-07-16 15:04:07 --- Can't connect to database to upload new links
+2024-07-16 15:04:07 --- Can't connect to database to upload new links
+2024-07-16 15:04:07 --- Can't connect to database to upload new links
+2024-07-16 15:04:07 --- Can't connect to database to upload new links
+2024-07-16 15:04:07 --- Can't connect to database to upload new links
+2024-07-16 15:04:07 --- Can't connect to database to upload new links
+2024-07-16 15:04:07 --- Can't connect to database to upload new links
+2024-07-16 15:04:07 --- Can't connect to database to upload new links
+2024-07-16 15:04:07 --- Can't connect to database to upload new links
+2024-07-16 15:04:07 --- Can't connect to database to upload new links
+2024-07-16 15:04:07 --- Can't connect to database to upload new links
+2024-07-16 15:04:07 --- Can't connect to database to upload new links
+2024-07-16 15:04:07 --- Can't connect to database to upload new links
+2024-07-16 15:04:07 --- Can't connect to database to upload new links
+2024-07-16 15:04:07 --- Can't connect to database to upload new links
+2024-07-16 15:04:07 --- Can't connect to database to upload new links
+2024-07-16 15:04:07 --- Can't connect to database to upload new links
+2024-07-16 15:04:07 --- Can't connect to database to upload new links
+2024-07-16 15:04:07 --- Can't connect to database to upload new links
+2024-07-16 15:04:07 --- Can't connect to database to upload new links
+2024-07-16 15:04:07 --- Can't connect to database to upload new links
+2024-07-16 15:04:07 --- Can't connect to database to get all urls and download their text
+2024-07-16 15:04:07 --- Can't connect to database to get all content
+2024-07-16 15:04:07 --- Can't connect to database to upload urls to send
+2024-07-16 15:04:07 --- Can't connect to database to upload urls to send
+2024-07-16 15:04:07 --- Can't connect to database to get all summaries
+2024-07-16 15:04:07 --- Can't connect to database to get urls to send
+2024-07-16 15:04:07 --- Can't connect to database to get urls to send
+2024-07-16 15:04:07 --- can't update sent urls
+2024-07-16 15:04:07 --- can't update sent urls
+2024-07-16 15:04:53 --- Can't open the keys.yml file to get api_key
+2024-07-16 15:04:53 --- Can't update users table
+2024-07-16 15:04:53 --- Can't update users table
+2024-07-16 15:04:53 --- Can't get sent urls from database
+2024-07-16 15:04:53 --- Can't get sent urls from database
+2024-07-16 15:04:56 https://quote.ru/news/article/668ead189a79478bd7d0390e Can't download link content
+2024-07-16 15:07:21 --- Can't update users table
+2024-07-16 15:07:21 --- Can't update users table
+2024-07-16 15:07:21 --- Can't get sent urls from database
+2024-07-16 15:07:21 --- Can't get sent urls from database
+2024-07-16 15:07:22 https://quote.ru URLs parsing fault
+2024-07-16 15:24:10 --- Can't update users table
+2024-07-16 15:24:10 --- Can't update users table
+2024-07-16 15:24:10 --- Can't get sent urls from database
+2024-07-16 15:24:10 --- Can't get sent urls from database
+2024-07-16 15:25:24 2 Can't compress the article
+2024-07-16 15:25:25 3 Can't compress the article
+2024-07-16 15:25:25 5 Can't compress the article
+2024-07-16 15:25:26 14 Can't compress the article
+2024-07-16 15:25:26 21 Can't compress the article
+2024-07-16 15:25:26 24 Can't compress the article
+2024-07-16 15:25:27 26 Can't compress the article
+2024-07-16 15:25:27 27 Can't compress the article
+2024-07-16 15:25:28 30 Can't compress the article
+2024-07-16 15:25:28 36 Can't compress the article
+2024-07-16 15:25:29 37 Can't compress the article
+2024-07-16 15:25:29 41 Can't compress the article
+2024-07-16 15:25:29 43 Can't compress the article
+2024-07-16 15:25:30 46 Can't compress the article
+2024-07-16 15:25:30 51 Can't compress the article
+2024-07-16 15:25:30 --- telegram send fault
+2024-07-16 15:30:35 --- Can't update users table
+2024-07-16 15:30:35 --- Can't update users table
+2024-07-16 15:30:35 --- Can't get sent urls from database
+2024-07-16 15:30:35 --- Can't get sent urls from database
+2024-07-16 15:30:39 2 Can't compress the article
+2024-07-16 15:30:39 3 Can't compress the article
+2024-07-16 15:30:40 5 Can't compress the article
+2024-07-16 15:30:40 14 Can't compress the article
+2024-07-16 15:31:03 21 Can't compress the article
+2024-07-16 15:33:43 --- Can't update users table
+2024-07-16 15:33:43 --- Can't update users table
+2024-07-16 15:33:43 --- Can't get sent urls from database
+2024-07-16 15:33:43 --- Can't get sent urls from database
+2024-07-16 15:33:43 https://www.rbc.ru URLs parsing fault
+2024-07-16 15:33:43 https://quote.ru URLs parsing fault
+2024-07-16 15:33:45 2 Can't compress the article
+2024-07-16 15:35:15 --- Can't get sent urls from database
+2024-07-16 15:35:15 --- Can't get sent urls from database
+2024-07-16 15:35:15 https://quote.ru URLs parsing fault
+2024-07-16 15:36:32 --- Can't get sent urls from database
+2024-07-16 15:36:32 --- Can't get sent urls from database
+2024-07-16 15:36:34 https://editorial.rbc.ru/mangof24s-r-kavkusnaper-m?from=newsfeed Can't download link content
+2024-07-16 15:37:15 --- Can't get sent urls from database
+2024-07-16 15:37:15 --- Can't get sent urls from database
+2024-07-16 15:37:18 https://editorial.rbc.ru/mangof24s-r-kavkusnaper-m?from=newsfeed Can't download link content
+2024-07-16 15:39:16 --- Can't get sent urls from database
+2024-07-16 15:39:16 --- Can't get sent urls from database
+2024-07-16 15:39:17 https://quote.ru URLs parsing fault
+2024-07-16 15:40:12 https://editorial.rbc.ru/mangof24s-r-kavkusnaper-m?from=newsfeed Can't download link content
+2024-07-16 15:40:24 2 Can't compress the article
+2024-07-16 15:40:24 3 Can't compress the article
+2024-07-16 15:40:24 5 Can't compress the article
+2024-07-16 15:40:25 14 Can't compress the article
+2024-07-16 15:40:25 21 Can't compress the article
+2024-07-16 15:40:26 24 Can't compress the article
+2024-07-16 15:40:26 26 Can't compress the article
+2024-07-16 15:40:26 27 Can't compress the article
+2024-07-16 15:40:27 30 Can't compress the article
+2024-07-16 15:40:27 36 Can't compress the article
+2024-07-16 15:40:28 37 Can't compress the article
+2024-07-16 15:40:28 41 Can't compress the article
+2024-07-16 15:40:29 43 Can't compress the article
+2024-07-16 15:40:29 46 Can't compress the article
+2024-07-16 15:40:30 51 Can't compress the article
+2024-07-16 15:40:30 --- telegram send fault
+2024-07-16 15:47:39 2 Can't compress the article
+2024-07-16 15:47:39 3 Can't compress the article
+2024-07-16 15:47:40 5 Can't compress the article
+2024-07-16 15:47:40 14 Can't compress the article
+2024-07-16 15:47:41 21 Can't compress the article
+2024-07-16 15:47:41 24 Can't compress the article
+2024-07-16 15:47:41 26 Can't compress the article
+2024-07-16 15:47:42 27 Can't compress the article
+2024-07-16 15:47:42 30 Can't compress the article
+2024-07-16 15:47:43 36 Can't compress the article
+2024-07-16 15:47:43 37 Can't compress the article
+2024-07-16 15:47:44 41 Can't compress the article
+2024-07-16 15:47:44 43 Can't compress the article
+2024-07-16 15:47:44 46 Can't compress the article
+2024-07-16 15:47:45 51 Can't compress the article
+2024-07-16 15:47:45 60 Can't compress the article
+2024-07-16 15:47:46 62 Can't compress the article
+2024-07-16 15:47:46 65 Can't compress the article
+2024-07-16 15:47:46 --- telegram send fault
+2024-07-16 15:49:46 2 Can't compress the article
+2024-07-16 15:49:47 3 Can't compress the article
+2024-07-16 15:49:47 5 Can't compress the article
+2024-07-16 15:49:47 14 Can't compress the article
+2024-07-16 15:49:48 21 Can't compress the article
+2024-07-16 15:49:48 24 Can't compress the article
+2024-07-16 15:56:16 --- telegram send fault
+2024-07-16 16:00:33 https://www.rbc.ru URLs parsing fault
+2024-07-16 16:01:37 https://www.rbc.ru URLs parsing fault
+2024-07-16 16:02:28 https://www.rbc.ru URLs parsing fault
+2024-07-16 16:06:04 5 Can't compress the article
+2024-07-16 16:08:37 https://www.rbc.ru URLs parsing fault
+2024-07-16 16:11:07 https://www.rbc.ru URLs parsing fault
+2024-07-16 16:12:49 --- telegram send fault
+2024-07-16 16:15:54 --- telegram send fault
+2024-07-16 20:36:39 --- Can't update users table
+2024-07-16 20:36:39 --- Can't update users table
+2024-07-16 20:36:39 --- Can't get sent urls from database
+2024-07-16 20:36:39 --- Can't get sent urls from database
+2024-07-16 20:36:54 --- Can't connect to database to get already uploaded urls
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to upload new links
+2024-07-16 20:36:54 --- Can't connect to database to get all urls and download their text
+2024-07-16 20:36:54 --- Can't connect to database to get all content
+2024-07-16 20:36:54 --- Can't connect to database to get all summaries
+2024-07-16 20:36:54 --- Can't connect to database to get urls to send
+2024-07-16 20:36:54 --- Can't connect to database to get urls to send
+2024-07-16 20:43:04 https://edition.cnn.com/2024/07/16/health/video/microplastics-nanoplastics-plastic-pollution-credit-card-digvid Can't download link content
+2024-07-16 20:43:40 https://edition.cnn.com/2024/07/16/us/video/chicago-tornado-warning-metereologists-reaction-digvid Can't download link content
+2024-07-16 20:43:59 https://lenta.ru/news/2024/07/16/byvshego-postavschika-formy-dlya-rosgvardii-otpravili-v-sizo-v-chem-ego-obvinyayut/ Can't download link content
+2024-07-16 20:44:23 https://lenta.ru/extlink/2024/07/12/v-podmoskovie-razbilsya-passazhirskiy-samolet-s-frantsuzskimi-dvigatelyami-kto-ispolzuet-eti-laynery-i-kuda-oni-letayut/?intlnk=true Can't download link content
+2024-07-16 20:44:25 https://lenta.ru/extlink/2024/07/15/v-indii-sostoyalas-svadba-veka-na-nee-potratili-600-millionov-dollarov-za-torzhestvom-sledil-ves-mir/?intlnk=true Can't download link content
+2024-07-16 20:44:38 https://russian.rt.com/ussr/article/1341591-naemniki-vsu-prestupleniya Can't download link content
+2024-07-16 20:45:02 https://lenta.ru/news/2024/07/16/v-ssha-zayavili-chto-ukraina-razrabatyvaet-plan-zaversheniya-konflikta-s-rossiey-v-chem-on-zaklyuchaetsya/ Can't download link content
+2024-07-16 20:45:34 https://vc.ru/marketing/1313327-esli-nado-prodat-na-avito-obrashaites-futbolnyi-klub-iz-kazani-vystavil-sebya-na-prodazhu-na-avito-za-53-mln-rublei-ego-kupil-mestnyi-biznesmen Can't download link content
+2024-07-16 20:46:26 https://russian.rt.com/ussr/article/1341591-naemniki-vsu-prestupleniya#href_spot-im Can't download link content
+2024-07-16 20:47:00 https://vc.ru/marketing/1313327-esli-nado-prodat-na-avito-obrashaites-futbolnyi-klub-iz-kazani-vystavil-sebya-na-prodazhu-na-avito-za-53-mln-rublei-ego-kupil-mestnyi-biznesmen#comments Can't download link content
+2024-07-16 20:48:58 https://lenta.ru/articles/2024/07/07/labio/ Can't download link content
+2024-07-16 20:49:26 https://lenta.ru/articles/2024/07/14/hemsworth/ Can't download link content
+2024-07-16 20:49:33 https://lenta.ru/brief/2024/07/14/kotelnikovrazborrr/ Can't download link content
+2024-07-16 20:50:24 https://lenta.ru/extlink/2024/07/13/dvoe-priblizhennyh-byvshego-zamministra-oborony-ivanova-skonchalis-v-odin-den/?intlnk=true Can't download link content
+2024-07-16 20:50:42 https://lenta.ru/articles/2024/07/08/pol/ Can't download link content
+2024-07-16 20:52:21 https://life.ru/p/1608090 Can't download link content
+2024-07-16 20:52:43 https://edition.cnn.com/2024/07/16/science/new-zealand-spade-toothed-whale-intl-hnk/index.html Can't download link content
+2024-07-16 20:53:49 https://life.ru/p/1671992 Can't download link content
+2024-07-16 20:55:42 https://lenta.ru/news/2024/07/15/ambani-svadba-12-14-iyulya/ Can't download link content
+2024-07-16 20:57:18 17 Can't compress the article
+2024-07-16 20:57:18 45 Can't compress the article
+2024-07-16 20:57:19 50 Can't compress the article
+2024-07-16 20:57:19 60 Can't compress the article
+2024-07-16 20:57:19 62 Can't compress the article
+2024-07-16 20:57:20 63 Can't compress the article
+2024-07-16 20:57:20 72 Can't compress the article
+2024-07-16 20:57:21 81 Can't compress the article
+2024-07-16 20:57:21 84 Can't compress the article
+2024-07-16 20:57:21 87 Can't compress the article
+2024-07-16 20:57:22 91 Can't compress the article
+2024-07-16 20:57:23 100 Can't compress the article
+2024-07-16 20:57:23 102 Can't compress the article
+2024-07-16 20:57:23 106 Can't compress the article
+2024-07-16 20:57:25 107 Can't compress the article
+2024-07-16 20:57:26 141 Can't compress the article
+2024-07-16 20:57:26 154 Can't compress the article
+2024-07-16 20:57:27 156 Can't compress the article
+2024-07-16 20:57:28 168 Can't compress the article
+2024-07-16 20:57:29 192 Can't compress the article
+2024-07-16 20:57:29 196 Can't compress the article
+2024-07-16 20:57:30 201 Can't compress the article
+2024-07-16 20:57:31 203 Can't compress the article
+2024-07-16 20:57:31 220 Can't compress the article
+2024-07-16 20:57:32 234 Can't compress the article
+2024-07-16 20:57:32 237 Can't compress the article
+2024-07-16 20:57:32 249 Can't compress the article
+2024-07-16 20:57:33 251 Can't compress the article
+2024-07-16 20:57:33 255 Can't compress the article
+2024-07-16 20:57:34 272 Can't compress the article
+2024-07-16 20:57:34 273 Can't compress the article
+2024-07-16 20:57:34 274 Can't compress the article
+2024-07-16 20:57:35 276 Can't compress the article
+2024-07-16 20:57:35 280 Can't compress the article
+2024-07-16 20:57:36 298 Can't compress the article
+2024-07-16 20:57:36 305 Can't compress the article
+2024-07-16 20:57:36 338 Can't compress the article
+2024-07-16 20:57:37 354 Can't compress the article
+2024-07-16 20:57:37 379 Can't compress the article
+2024-07-16 20:57:38 382 Can't compress the article
+2024-07-16 20:57:38 402 Can't compress the article
+2024-07-16 20:57:38 412 Can't compress the article
+2024-07-16 20:57:39 415 Can't compress the article
+2024-07-16 20:57:39 440 Can't compress the article
+2024-07-16 20:57:40 459 Can't compress the article
+2024-07-16 20:57:40 461 Can't compress the article
+2024-07-16 20:57:41 485 Can't compress the article
+2024-07-16 20:57:41 501 Can't compress the article
+2024-07-16 20:57:41 502 Can't compress the article
+2024-07-16 20:57:42 512 Can't compress the article
+2024-07-16 20:57:42 518 Can't compress the article
+2024-07-16 20:57:43 543 Can't compress the article
+2024-07-16 20:57:43 552 Can't compress the article
+2024-07-16 20:57:43 557 Can't compress the article
+2024-07-16 20:57:44 568 Can't compress the article
+2024-07-16 20:57:44 588 Can't compress the article
+2024-07-16 20:57:45 590 Can't compress the article
+2024-07-16 20:57:45 599 Can't compress the article
+2024-07-16 20:57:46 607 Can't compress the article
+2024-07-16 20:57:46 619 Can't compress the article
+2024-07-16 20:57:46 622 Can't compress the article
+2024-07-16 20:57:47 646 Can't compress the article
+2024-07-16 20:57:47 647 Can't compress the article
+2024-07-16 20:57:47 651 Can't compress the article
+2024-07-16 20:57:47 666 Can't compress the article
+2024-07-16 20:57:48 672 Can't compress the article
+2024-07-16 20:57:49 673 Can't compress the article
+2024-07-16 20:57:49 682 Can't compress the article
+2024-07-16 20:57:49 688 Can't compress the article
+2024-07-16 20:57:50 692 Can't compress the article
+2024-07-16 20:57:50 705 Can't compress the article
+2024-07-16 20:57:50 709 Can't compress the article
+2024-07-17 12:01:45 https://vc.ru/marketing/1313327-esli-nado-prodat-na-avito-obrashaites-futbolnyi-klub-iz-kazani-vystavil-sebya-na-prodazhu-na-avito-za-53-mln-rublei-ego-kupil-mestnyi-biznesmen Can't download link content
+2024-07-17 12:01:45 https://vc.ru/marketing/1313327-esli-nado-prodat-na-avito-obrashaites-futbolnyi-klub-iz-kazani-vystavil-sebya-na-prodazhu-na-avito-za-53-mln-rublei-ego-kupil-mestnyi-biznesmen#comments Can't download link content
+2024-07-17 12:03:40 https://ria.ru/20240717/evropa-1960044795.html Can't download link content
+2024-07-17 12:03:50 17 Can't compress the article
+2024-07-17 12:03:50 45 Can't compress the article
+2024-07-17 12:03:51 50 Can't compress the article
+2024-07-17 12:03:51 60 Can't compress the article
+2024-07-17 12:03:52 62 Can't compress the article
+2024-07-17 12:03:52 63 Can't compress the article
+2024-07-17 12:03:53 72 Can't compress the article
+2024-07-17 12:03:53 106 Can't compress the article
+2024-07-17 12:03:54 220 Can't compress the article
+2024-07-17 12:03:54 237 Can't compress the article
+2024-07-17 12:03:54 485 Can't compress the article
+2024-07-17 12:03:55 502 Can't compress the article
+2024-07-17 12:03:55 557 Can't compress the article
+2024-07-17 12:03:56 599 Can't compress the article
+2024-07-17 12:03:56 646 Can't compress the article
+2024-07-17 12:03:56 651 Can't compress the article
+2024-07-17 12:03:57 666 Can't compress the article
+2024-07-17 12:03:57 672 Can't compress the article
+2024-07-17 12:03:58 713 Can't compress the article
+2024-07-17 12:03:58 716 Can't compress the article
+2024-07-17 12:03:58 717 Can't compress the article
+2024-07-17 12:03:59 720 Can't compress the article
+2024-07-17 12:03:59 733 Can't compress the article
+2024-07-17 12:04:00 737 Can't compress the article
+2024-07-17 12:04:00 747 Can't compress the article
+2024-07-17 12:04:01 750 Can't compress the article
+2024-07-17 12:04:01 761 Can't compress the article
+2024-07-17 12:04:02 764 Can't compress the article
+2024-07-17 12:04:02 783 Can't compress the article
+2024-07-17 12:04:02 788 Can't compress the article
+2024-07-17 12:04:03 790 Can't compress the article
+2024-07-17 12:04:03 794 Can't compress the article
+2024-07-17 12:07:27 https://vc.ru/marketing/1313327-esli-nado-prodat-na-avito-obrashaites-futbolnyi-klub-iz-kazani-vystavil-sebya-na-prodazhu-na-avito-za-53-mln-rublei-ego-kupil-mestnyi-biznesmen Can't download link content
+2024-07-17 12:07:28 https://vc.ru/marketing/1313327-esli-nado-prodat-na-avito-obrashaites-futbolnyi-klub-iz-kazani-vystavil-sebya-na-prodazhu-na-avito-za-53-mln-rublei-ego-kupil-mestnyi-biznesmen#comments Can't download link content
+2024-07-17 12:07:30 https://ria.ru/20240717/evropa-1960044795.html Can't download link content
+2024-07-17 12:07:40 17 Can't compress the article
+2024-07-17 12:07:41 45 Can't compress the article
+2024-07-17 12:07:41 50 Can't compress the article
+2024-07-17 12:07:41 60 Can't compress the article
+2024-07-17 12:07:42 62 Can't compress the article
+2024-07-17 12:07:42 63 Can't compress the article
+2024-07-17 12:07:43 72 Can't compress the article
+2024-07-17 12:07:43 106 Can't compress the article
+2024-07-17 12:07:45 220 Can't compress the article
+2024-07-17 12:07:45 237 Can't compress the article
+2024-07-17 12:07:46 485 Can't compress the article
+2024-07-17 12:07:46 502 Can't compress the article
+2024-07-17 12:07:47 557 Can't compress the article
+2024-07-17 12:07:47 599 Can't compress the article
+2024-07-17 12:07:48 646 Can't compress the article
+2024-07-17 12:07:48 651 Can't compress the article
+2024-07-17 12:07:49 666 Can't compress the article
+2024-07-17 12:07:50 672 Can't compress the article
+2024-07-17 12:07:51 713 Can't compress the article
+2024-07-17 12:07:51 716 Can't compress the article
+2024-07-17 12:07:51 717 Can't compress the article
+2024-07-17 12:07:52 720 Can't compress the article
+2024-07-17 12:07:52 733 Can't compress the article
+2024-07-17 12:07:53 737 Can't compress the article
+2024-07-17 12:07:53 747 Can't compress the article
+2024-07-17 12:07:54 750 Can't compress the article
+2024-07-17 12:07:54 761 Can't compress the article
+2024-07-17 12:07:54 764 Can't compress the article
+2024-07-17 12:07:55 783 Can't compress the article
+2024-07-17 12:07:55 788 Can't compress the article
+2024-07-17 12:07:55 790 Can't compress the article
+2024-07-17 12:07:56 794 Can't compress the article
+2024-07-17 12:11:04 https://edition.cnn.com/2024/07/16/health/video/microplastics-nanoplastics-plastic-pollution-credit-card-digvid Can't download link content
+2024-07-17 12:11:09 https://edition.cnn.com/2024/07/16/us/video/chicago-tornado-warning-metereologists-reaction-digvid Can't download link content
+2024-07-17 12:11:11 https://lenta.ru/news/2024/07/16/byvshego-postavschika-formy-dlya-rosgvardii-otpravili-v-sizo-v-chem-ego-obvinyayut/ Can't download link content
+2024-07-17 12:11:14 https://lenta.ru/extlink/2024/07/12/v-podmoskovie-razbilsya-passazhirskiy-samolet-s-frantsuzskimi-dvigatelyami-kto-ispolzuet-eti-laynery-i-kuda-oni-letayut/?intlnk=true Can't download link content
+2024-07-17 12:11:16 https://lenta.ru/extlink/2024/07/15/v-indii-sostoyalas-svadba-veka-na-nee-potratili-600-millionov-dollarov-za-torzhestvom-sledil-ves-mir/?intlnk=true Can't download link content
+2024-07-17 12:11:18 https://russian.rt.com/ussr/article/1341591-naemniki-vsu-prestupleniya Can't download link content
+2024-07-17 12:11:21 https://lenta.ru/news/2024/07/16/v-ssha-zayavili-chto-ukraina-razrabatyvaet-plan-zaversheniya-konflikta-s-rossiey-v-chem-on-zaklyuchaetsya/ Can't download link content
+2024-07-17 12:11:24 https://vc.ru/marketing/1313327-esli-nado-prodat-na-avito-obrashaites-futbolnyi-klub-iz-kazani-vystavil-sebya-na-prodazhu-na-avito-za-53-mln-rublei-ego-kupil-mestnyi-biznesmen Can't download link content
+2024-07-17 12:11:26 https://russian.rt.com/ussr/article/1341591-naemniki-vsu-prestupleniya#href_spot-im Can't download link content
+2024-07-17 12:11:28 https://vc.ru/marketing/1313327-esli-nado-prodat-na-avito-obrashaites-futbolnyi-klub-iz-kazani-vystavil-sebya-na-prodazhu-na-avito-za-53-mln-rublei-ego-kupil-mestnyi-biznesmen#comments Can't download link content
+2024-07-17 12:11:31 https://lenta.ru/articles/2024/07/07/labio/ Can't download link content
+2024-07-17 12:11:33 https://lenta.ru/articles/2024/07/14/hemsworth/ Can't download link content
+2024-07-17 12:11:36 https://lenta.ru/brief/2024/07/14/kotelnikovrazborrr/ Can't download link content
+2024-07-17 12:11:38 https://lenta.ru/extlink/2024/07/13/dvoe-priblizhennyh-byvshego-zamministra-oborony-ivanova-skonchalis-v-odin-den/?intlnk=true Can't download link content
+2024-07-17 12:11:41 https://lenta.ru/articles/2024/07/08/pol/ Can't download link content
+2024-07-17 12:11:43 https://life.ru/p/1608090 Can't download link content
+2024-07-17 12:11:47 https://edition.cnn.com/2024/07/16/science/new-zealand-spade-toothed-whale-intl-hnk/index.html Can't download link content
+2024-07-17 12:11:49 https://life.ru/p/1671992 Can't download link content
+2024-07-17 12:11:51 https://lenta.ru/news/2024/07/15/ambani-svadba-12-14-iyulya/ Can't download link content
+2024-07-17 12:11:54 https://ria.ru/20240717/evropa-1960044795.html Can't download link content
+2024-07-17 12:18:33 https://lenta.ru/news/2024/07/17/byvshiy-angel-victoria-s-secret-snyalas-v-oblegayuschem-naryade-bez-byustgaltera/ Can't download link content
+2024-07-17 12:22:01 https://edition.cnn.com/2024/07/17/politics/video/jd-vance-trump-biden-campaign-response-digvid Can't download link content
+2024-07-17 12:24:02 https://edition.cnn.com/2024/07/16/politics/video/nikki-haley-trump-endorsement-republican-national-convention-digvid Can't download link content
+2024-07-17 12:57:59 https://edition.cnn.com/2024/07/16/health/video/microplastics-nanoplastics-plastic-pollution-credit-card-digvid Can't download link content
+2024-07-17 12:58:04 https://edition.cnn.com/2024/07/16/us/video/chicago-tornado-warning-metereologists-reaction-digvid Can't download link content
+2024-07-17 12:58:06 https://lenta.ru/news/2024/07/16/byvshego-postavschika-formy-dlya-rosgvardii-otpravili-v-sizo-v-chem-ego-obvinyayut/ Can't download link content
+2024-07-17 12:58:09 https://lenta.ru/extlink/2024/07/12/v-podmoskovie-razbilsya-passazhirskiy-samolet-s-frantsuzskimi-dvigatelyami-kto-ispolzuet-eti-laynery-i-kuda-oni-letayut/?intlnk=true Can't download link content
+2024-07-17 12:58:11 https://lenta.ru/extlink/2024/07/15/v-indii-sostoyalas-svadba-veka-na-nee-potratili-600-millionov-dollarov-za-torzhestvom-sledil-ves-mir/?intlnk=true Can't download link content
+2024-07-17 12:58:13 https://russian.rt.com/ussr/article/1341591-naemniki-vsu-prestupleniya Can't download link content
+2024-07-17 12:58:15 https://lenta.ru/news/2024/07/16/v-ssha-zayavili-chto-ukraina-razrabatyvaet-plan-zaversheniya-konflikta-s-rossiey-v-chem-on-zaklyuchaetsya/ Can't download link content
+2024-07-17 12:58:19 https://vc.ru/marketing/1313327-esli-nado-prodat-na-avito-obrashaites-futbolnyi-klub-iz-kazani-vystavil-sebya-na-prodazhu-na-avito-za-53-mln-rublei-ego-kupil-mestnyi-biznesmen Can't download link content
+2024-07-17 12:58:21 https://russian.rt.com/ussr/article/1341591-naemniki-vsu-prestupleniya#href_spot-im Can't download link content
+2024-07-17 12:58:24 https://vc.ru/marketing/1313327-esli-nado-prodat-na-avito-obrashaites-futbolnyi-klub-iz-kazani-vystavil-sebya-na-prodazhu-na-avito-za-53-mln-rublei-ego-kupil-mestnyi-biznesmen#comments Can't download link content
+2024-07-17 12:58:26 https://lenta.ru/articles/2024/07/07/labio/ Can't download link content
+2024-07-17 12:58:29 https://lenta.ru/articles/2024/07/14/hemsworth/ Can't download link content
+2024-07-17 12:58:31 https://lenta.ru/brief/2024/07/14/kotelnikovrazborrr/ Can't download link content
+2024-07-17 12:58:33 https://lenta.ru/extlink/2024/07/13/dvoe-priblizhennyh-byvshego-zamministra-oborony-ivanova-skonchalis-v-odin-den/?intlnk=true Can't download link content
+2024-07-17 12:58:36 https://lenta.ru/articles/2024/07/08/pol/ Can't download link content
+2024-07-17 12:58:38 https://life.ru/p/1608090 Can't download link content
+2024-07-17 12:58:43 https://edition.cnn.com/2024/07/16/science/new-zealand-spade-toothed-whale-intl-hnk/index.html Can't download link content
+2024-07-17 12:58:45 https://life.ru/p/1671992 Can't download link content
+2024-07-17 12:58:47 https://lenta.ru/news/2024/07/15/ambani-svadba-12-14-iyulya/ Can't download link content
+2024-07-17 12:58:50 https://ria.ru/20240717/evropa-1960044795.html Can't download link content
+2024-07-17 12:58:53 https://lenta.ru/news/2024/07/17/byvshiy-angel-victoria-s-secret-snyalas-v-oblegayuschem-naryade-bez-byustgaltera/ Can't download link content
+2024-07-17 12:58:57 https://edition.cnn.com/2024/07/17/politics/video/jd-vance-trump-biden-campaign-response-digvid Can't download link content
+2024-07-17 12:59:01 https://edition.cnn.com/2024/07/16/politics/video/nikki-haley-trump-endorsement-republican-national-convention-digvid Can't download link content
+2024-07-17 13:03:23 https://edition.cnn.com/2024/07/17/world/video/river-seine-paris-hidalgo-olympic-ldn-digvid Can't download link content

@@ -1,12 +1,14 @@
 user_id: 1  # user id
 
+tg_channel: -1002217281756
+
 webs:  # list of sites for parsing
-#  - https://www.rbc.ru
+  - https://www.rbc.ru
   - https://quote.ru/
-#  - https://vc.ru
-#  - https://ria.ru/
-#  - https://russian.rt.com/
-#  - https://aif.ru/
+  - https://vc.ru
+  - https://ria.ru/
+  - https://russian.rt.com/
+  - https://aif.ru/
 #  - https://ren.tv/
 #  - https://lenta.ru/
 #  - https://edition.cnn.com/
@@ -15,12 +17,12 @@ webs:  # list of sites for parsing
 #  - https://rg.ru/
 
 key_words:  # list of keywords
-  - США
+  - футбол
+  - Испания
 
 stop_words:  # list of stopwords
   - слово1
   - слово2
 
-language: en
-
 frequency: 1  # the frequency of running the parser in hours
+

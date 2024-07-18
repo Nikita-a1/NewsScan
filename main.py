@@ -9,17 +9,23 @@ import datetime
 users_directory = 'users'  # specify the path for the directory with users files
 path_keys = 'keys.yml'  # specify the path for the hidden file
 
-try:  # try to get users requests
+try:  # try to get users requests from users directory
     webs, users_requests = loader.Load.get_users_requests(users_directory)
 except:
     log.Log.write_log(str(datetime.datetime.now().today().replace(microsecond=0)), "---",
                       "Can't open the users directory")
 
-try:  # try to get keys.yml file
+try:  # try to get db_access_key from keys.yml file
     db_access_key = loader.Load.get_keys_data(path_keys)
 except:
     log.Log.write_log(str(datetime.datetime.now().today().replace(microsecond=0)), "---",
-                      "Can't open the keys.yml file")
+                      "Can't open the keys.yml file to get db_access_key")
+
+try:
+    api_key, prompt, bot_token = loader.Load.get_api_key(path_keys)
+except:
+    log.Log.write_log(str(datetime.datetime.now().today().replace(microsecond=0)), "---",
+                      "Can't open the keys.yml file to get api_key")
 
 
 write_log = log.Log.write_log
@@ -33,9 +39,7 @@ collect_links_for_parsing = parser.Parser.urls_db_download
 get_text_from_link = parser.Parser.text_downloader
 collect_content_for_summarising = summary.Summary.content_db_download
 detect_interesting_articles = summary.Summary.detect_interesting_articles
-translate_to_english = summary.Summary.trans_to_english
 compress_article = summary.Summary.compress_article
-translate_back = summary.Summary.trans_back
 summarized_articles_db_upload = summary.Summary.summarized_articles_db_uploader
 urls_to_send_db_upload = summary.Summary.urls_to_send_db_uploader
 get_summaries_from_db = telegram.Sender.get_summary_from_db
@@ -48,10 +52,8 @@ new_links = []  # create a list of links from websites
 links_from_db = []  # create a list of uploaded links from database
 links_for_parsing = []  # create a list of links for parsing
 downloaded_articles = []  # create a list of articles from db with 'downloaded' status
-content_for_translation = []  # create a list of articles with keywords to translate
-english_content = []  # create a list of english articles
+content_for_summarization = []  # create a list of articles with keywords to translate
 compressed_content = []  # create a list of compressed articles in english
-ready_content = []  # create a list of compressed articles in native language
 summarized_articles = []  # create a list of compressed articles from database
 articles_to_send = []  # create a list of tg-format articles
 
@@ -133,34 +135,20 @@ except:
 print('all articles: ' + str(len(downloaded_articles)))
 
 
-detect_interesting_articles(downloaded_articles, content_for_translation,
+detect_interesting_articles(downloaded_articles, content_for_summarization,
                             users_requests)  # check articles for keywords and stop words
-print('interesting articles: ' + str(len(content_for_translation)))
+print('interesting articles: ' + str(len(content_for_summarization)))
 
 
-try:
-    translate_to_english(content_for_translation,
-                         english_content)  # translate content to english and write it to english_content
-except:
-    write_log(str(datetime.datetime.now().today().replace(microsecond=0)), "---",
-              "Can't translate article to english")
-print('articles translated: ' + str(len(english_content)))
-
-
-for article_block in english_content:  # compress english articles
+for article_block in content_for_summarization:  # compress articles
     try:
-        compress_article(article_block, compressed_content)
+        compress_article(article_block, compressed_content, api_key, prompt)
     except:
         write_log(str(datetime.datetime.now().today().replace(microsecond=0)), str(article_block[0]),
                   "Can't compress the article")
-print('articles compressed: ' + str(len(compressed_content)))
 
 
-translate_back(compressed_content, ready_content)  # translate compressed articles back
-print('summarized articles: ' + str(len(ready_content)))
-
-
-for article_block in ready_content:  # update summarized articles
+for article_block in compressed_content:  # update summarized articles
     id = article_block[0]
     text = article_block[1]
     try:
@@ -203,7 +191,7 @@ except:
 
 # send all articles in tg channel
 try:
-    send_message(users_requests, articles_to_send)
+    send_message(users_requests, articles_to_send, bot_token)
 except:
     write_log(str(datetime.datetime.now().today().replace(microsecond=0)), '---',
               "telegram send fault")
