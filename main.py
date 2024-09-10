@@ -6,6 +6,7 @@ import telegram
 import log
 import datetime
 
+
 users_directory = 'users'  # specify the path for the directory with users files
 path_keys = 'keys.yml'  # specify the path for the hidden file
 
@@ -13,7 +14,7 @@ try:  # try to get users requests from users directory
     webs, users_requests = loader.Load.get_users_requests(users_directory)
 except:
     log.Log.write_log(str(datetime.datetime.now().today().replace(microsecond=0)), "---",
-                      "Can't open the users directory")
+                      "Can't open the users directory and get data")
 
 try:  # try to get db_access_key from keys.yml file
     db_access_key = loader.Load.get_keys_data(path_keys)
@@ -21,7 +22,7 @@ except:
     log.Log.write_log(str(datetime.datetime.now().today().replace(microsecond=0)), "---",
                       "Can't open the keys.yml file to get db_access_key")
 
-try:
+try:  # try to get data from keys.yml file
     api_key, prompt, bot_token = loader.Load.get_api_key(path_keys)
 except:
     log.Log.write_log(str(datetime.datetime.now().today().replace(microsecond=0)), "---",
@@ -41,10 +42,7 @@ collect_content_for_summarising = summary.Summary.content_db_download
 detect_interesting_articles = summary.Summary.detect_interesting_articles
 compress_article = summary.Summary.compress_article
 summarized_articles_db_upload = summary.Summary.summarized_articles_db_uploader
-urls_to_send_db_upload = summary.Summary.urls_to_send_db_uploader
 get_summaries_from_db = telegram.Sender.get_summary_from_db
-get_urls_to_send_from_db = telegram.Sender.get_urls_to_send_from_db
-get_telegram_format = telegram.Sender.telegram_format
 send_message = telegram.Sender.send_msg
 update_sent_urls = telegram.Sender.update_sent_urls
 
@@ -54,7 +52,6 @@ links_for_parsing = []  # create a list of links for parsing
 downloaded_articles = []  # create a list of articles from db with 'downloaded' status
 content_for_summarization = []  # create a list of articles with keywords to translate
 compressed_content = []  # create a list of compressed articles in english
-summarized_articles = []  # create a list of compressed articles from database
 articles_to_send = []  # create a list of tg-format articles
 
 
@@ -158,35 +155,12 @@ for article_block in compressed_content:  # update summarized articles
                       "Can't connect to database to upload summary")
 
 
-for user_request in users_requests:  # update urls_to_send to database
-    try:
-        urls_to_send_db_upload(db_access_key, user_request)
-    except:
-        write_log(str(datetime.datetime.now().today().replace(microsecond=0)), '---',
-                  "Can't connect to database to upload urls to send")
-
-
 #  TELEGRAM.PY
 try:  # collect all summaries from database to summarized_articles
-    get_summaries_from_db(db_access_key, webs, summarized_articles)
+    get_summaries_from_db(db_access_key, webs, articles_to_send)
 except:
     write_log(str(datetime.datetime.now().today().replace(microsecond=0)), "---",
               "Can't connect to database to get all summaries")
-
-
-for user_request in users_requests:  # get urls_to_send from database
-    try:
-        get_urls_to_send_from_db(db_access_key, user_request)
-    except:
-        write_log(str(datetime.datetime.now().today().replace(microsecond=0)), "---",
-                  "Can't connect to database to get urls to send")
-
-
-try:  # set telegram format for each article
-    get_telegram_format(summarized_articles, articles_to_send)
-except:
-    write_log(str(datetime.datetime.now().today().replace(microsecond=0)), '---',
-              "telegram-format fault")
 
 
 # send all articles in tg channel

@@ -1,1616 +1,409 @@
-2024-07-12 10:05:36 https://ria.ru/20240711/smi-1958943047.html Can't download link content
-2024-07-12 10:06:53 --- Can't connect to database to get all content
-2024-07-12 10:06:53 --- Can't connect to database to get urls to send
-2024-07-12 10:06:53 --- Can't connect to database to get urls to send
-2024-07-12 10:06:53 --- telegram-format fault
-2024-07-12 10:13:11 https://ria.ru/20240711/smi-1958943047.html Can't download link content
-2024-07-12 10:21:11 44 Can't connect to database to upload summary
-2024-07-12 10:21:11 66 Can't connect to database to upload summary
-2024-07-12 10:21:11 109 Can't connect to database to upload summary
-2024-07-12 10:21:11 --- Can't connect to database to get urls to send
-2024-07-12 10:21:11 --- Can't connect to database to get urls to send
-2024-07-12 10:21:11 --- telegram-format fault
-2024-07-12 10:34:09 https://ria.ru/20240711/smi-1958943047.html Can't download link content
-2024-07-12 10:37:25 44 Can't connect to database to upload summary
-2024-07-12 10:37:25 --- Can't connect to database to get urls to send
-2024-07-12 10:37:25 --- Can't connect to database to get urls to send
-2024-07-12 10:37:25 --- telegram-format fault
-2024-07-12 10:49:19 --- Can't connect to database to get urls to send
-2024-07-12 10:49:19 --- Can't connect to database to get urls to send
-2024-07-12 10:49:20 --- telegram-format fault
-2024-07-12 12:05:03 --- Can't connect to database to get urls to send
-2024-07-12 12:05:03 --- Can't connect to database to get urls to send
-2024-07-12 12:05:04 --- telegram-format fault
-2024-07-12 12:11:09 --- Can't connect to database to get urls to send
-2024-07-12 12:11:09 --- Can't connect to database to get urls to send
-2024-07-12 12:11:10 --- telegram-format fault
-2024-07-12 12:19:57 --- telegram-format fault
-2024-07-12 12:19:57 --- can't update sent urls
-2024-07-12 12:19:57 --- can't update sent urls
-2024-07-12 12:23:18 --- telegram-format fault
-2024-07-12 12:23:18 --- can't update sent urls
-2024-07-12 12:23:18 --- can't update sent urls
-2024-07-12 12:26:38 --- telegram-format fault
-2024-07-12 12:29:18 --- telegram-format fault
-2024-07-12 12:31:18 --- telegram-format fault
-2024-07-12 12:33:07 --- telegram-format fault
-2024-07-12 12:33:40 --- telegram-format fault
-2024-07-12 12:34:58 --- telegram-format fault
-2024-07-12 12:35:34 --- telegram-format fault
-2024-07-12 12:36:02 --- telegram-format fault
-2024-07-12 12:41:00 --- telegram-format fault
-2024-07-12 12:42:34 --- telegram-format fault
-2024-07-12 12:46:12 --- telegram-format fault
-2024-07-12 12:46:12 --- can't update sent urls
-2024-07-12 12:46:12 --- can't update sent urls
-2024-07-12 12:52:21 --- telegram-format fault
-2024-07-12 12:54:39 --- telegram-format fault
-2024-07-12 12:58:58 --- telegram-format fault
-2024-07-12 13:00:14 --- telegram-format fault
-2024-07-12 13:02:50 --- telegram-format fault
-2024-07-12 13:04:31 --- telegram-format fault
-2024-07-12 14:15:36 --- telegram-format fault
-2024-07-12 17:11:56 --- telegram-format fault
-2024-07-12 17:20:48 --- telegram-format fault
-2024-07-12 18:26:20 --- telegram-format fault
-2024-07-12 18:28:41 --- telegram-format fault
-2024-07-12 19:47:47 --- telegram-format fault
-2024-07-12 19:50:12 https://ria.ru/20240712/aktsiz-1959303544.html?rcmd_alg=slotter Can't download link content
-2024-07-12 19:51:00 https://ria.ru URLs parsing fault
-2024-07-12 19:56:54 https://ria.ru/20240712/otel-1959340274.html?rcmd_alg=slotter Can't download link content
-2024-07-12 19:57:48 https://ria.ru/20240712/otel-1959340274.html?rcmd_alg=slotter Can't download link content
-2024-07-12 20:03:57 https://ria.ru URLs parsing fault
-2024-07-12 20:04:14 https://ria.ru URLs parsing fault
-2024-07-12 20:05:18 https://ria.ru URLs parsing fault
-2024-07-12 20:06:09 https://ria.ru URLs parsing fault
-2024-07-12 20:06:24 https://rg.ru URLs parsing fault
-2024-07-12 20:08:25 https://rg.ru URLs parsing fault
-2024-07-12 20:08:52 https://ria.ru/20240712/otel-1959340274.html?rcmd_alg=slotter Can't download link content
-2024-07-12 20:09:15 https://ria.ru URLs parsing fault
-2024-07-12 20:10:08 https://rsport.ria.ru/20240712/musaev-1959331611.html Can't download link content
-2024-07-12 20:10:32 https://rg.ru URLs parsing fault
-2024-07-12 20:12:20 https://ria.ru URLs parsing fault
-2024-07-12 20:12:52 https://rg.ru URLs parsing fault
-2024-07-12 20:12:59 https://ria.ru URLs parsing fault
-2024-07-12 20:13:53 https://ria.ru URLs parsing fault
-2024-07-12 20:18:41 --- telegram-format fault
-2024-07-12 20:28:52 --- telegram-format fault
-2024-07-12 20:32:58 --- Can't connect to database to upload urls to send
-2024-07-12 20:32:58 --- Can't connect to database to upload urls to send
-2024-07-12 20:32:58 --- telegram-format fault
-2024-07-12 20:33:36 --- Can't connect to database to upload urls to send
-2024-07-12 20:33:36 --- Can't connect to database to upload urls to send
-2024-07-12 20:33:36 --- telegram-format fault
-2024-07-13 11:13:41 --- telegram-format fault
-2024-07-13 11:15:18 --- telegram-format fault
-2024-07-13 11:15:40 --- telegram-format fault
-2024-07-13 11:16:19 --- telegram-format fault
-2024-07-13 11:16:28 --- telegram-format fault
-2024-07-13 11:17:07 --- telegram-format fault
-2024-07-13 12:14:46 --- telegram-format fault
-2024-07-13 12:37:47 --- telegram send fault
-2024-07-13 13:13:26 https://edition.cnn.com/2024/07/12/style/anant-ambani-radhika-merchant-wedding-mumbai-intl-hnk/index.html Can't download link content
-2024-07-13 13:14:57 https://edition.cnn.com/2024/07/12/middleeast/israel-netanyahu-ceasefire-talks-intl-latam/index.html Can't download link content
-2024-07-13 13:15:55 https://edition.cnn.com/2024/07/12/style/anant-ambani-radhika-merchant-wedding-mumbai-intl-hnk/index.html Can't download link content
-2024-07-13 13:17:01 https://edition.cnn.com/2024/07/13/world/video/israel-gaza-netzah-yehuda-investigation-polglase-full-digvid Can't download link content
-2024-07-13 13:18:42 https://edition.cnn.com/2024/07/12/world/video/ambani-wedding-india-billionaire-ripley-pkg-digvid Can't download link content
-2024-07-13 13:21:39 217 Can't connect to database to upload summary
-2024-07-13 13:21:39 242 Can't connect to database to upload summary
-2024-07-13 13:23:05 https://edition.cnn.com/2024/07/12/style/anant-ambani-radhika-merchant-wedding-mumbai-intl-hnk/index.html Can't download link content
-2024-07-13 13:23:08 https://edition.cnn.com/2024/07/13/world/video/israel-gaza-netzah-yehuda-investigation-polglase-full-digvid Can't download link content
-2024-07-13 13:23:11 https://edition.cnn.com/2024/07/12/world/video/ambani-wedding-india-billionaire-ripley-pkg-digvid Can't download link content
-2024-07-13 13:24:57 217 Can't connect to database to upload summary
-2024-07-13 13:24:57 242 Can't connect to database to upload summary
-2024-07-13 13:30:04 https://edition.cnn.com/2024/07/12/style/anant-ambani-radhika-merchant-wedding-mumbai-intl-hnk/index.html Can't download link content
-2024-07-13 13:30:06 https://edition.cnn.com/2024/07/13/world/video/israel-gaza-netzah-yehuda-investigation-polglase-full-digvid Can't download link content
-2024-07-13 13:30:09 https://edition.cnn.com/2024/07/12/world/video/ambani-wedding-india-billionaire-ripley-pkg-digvid Can't download link content
-2024-07-13 13:31:57 217 Can't connect to database to upload summary
-2024-07-13 13:31:57 242 Can't connect to database to upload summary
-2024-07-13 14:17:39 https://edition.cnn.com/2024/07/12/style/anant-ambani-radhika-merchant-wedding-mumbai-intl-hnk/index.html Can't download link content
-2024-07-14 11:18:51 297 Can't connect to database to upload summary
-2024-07-16 11:29:24 --- Can't connect to database to upload new links
-2024-07-16 11:29:24 --- Can't connect to database to upload new links
-2024-07-16 11:29:24 --- Can't connect to database to upload new links
-2024-07-16 11:29:24 --- Can't connect to database to upload new links
-2024-07-16 11:29:24 --- Can't connect to database to upload new links
-2024-07-16 11:29:24 --- Can't connect to database to upload new links
-2024-07-16 11:29:24 --- Can't connect to database to upload new links
-2024-07-16 11:29:24 --- Can't connect to database to upload new links
-2024-07-16 11:29:24 --- Can't connect to database to upload new links
-2024-07-16 11:29:24 --- Can't connect to database to upload new links
-2024-07-16 11:29:24 --- Can't connect to database to upload new links
-2024-07-16 11:29:24 --- Can't connect to database to upload new links
-2024-07-16 11:29:24 --- Can't connect to database to upload new links
-2024-07-16 11:29:24 --- Can't connect to database to upload new links
-2024-07-16 11:29:24 --- Can't connect to database to upload new links
-2024-07-16 11:29:24 --- Can't connect to database to upload new links
-2024-07-16 11:29:24 --- Can't connect to database to upload new links
-2024-07-16 11:29:24 --- Can't connect to database to upload new links
-2024-07-16 11:29:24 --- Can't connect to database to upload new links
-2024-07-16 11:29:24 --- Can't connect to database to upload new links
-2024-07-16 11:29:24 --- Can't connect to database to upload new links
-2024-07-16 11:29:24 --- Can't connect to database to upload new links
-2024-07-16 11:29:24 --- Can't connect to database to upload new links
-2024-07-16 11:29:24 --- Can't connect to database to upload new links
-2024-07-16 11:29:24 --- Can't connect to database to upload new links
-2024-07-16 11:29:24 --- Can't connect to database to upload new links
-2024-07-16 11:29:24 --- Can't connect to database to upload new links
-2024-07-16 11:29:24 --- Can't connect to database to upload new links
-2024-07-16 11:29:24 --- Can't connect to database to upload new links
-2024-07-16 11:29:24 --- Can't connect to database to upload new links
-2024-07-16 11:29:24 --- Can't connect to database to upload new links
-2024-07-16 11:29:24 --- Can't connect to database to upload new links
-2024-07-16 11:29:24 --- Can't connect to database to upload new links
-2024-07-16 11:29:24 --- Can't connect to database to upload new links
-2024-07-16 11:29:24 --- Can't connect to database to upload new links
-2024-07-16 11:29:24 --- Can't connect to database to upload new links
-2024-07-16 11:29:24 --- Can't connect to database to upload new links
-2024-07-16 11:29:24 --- Can't connect to database to upload new links
-2024-07-16 11:29:24 --- Can't connect to database to upload new links
-2024-07-16 11:29:24 --- Can't connect to database to upload new links
-2024-07-16 11:29:24 --- Can't connect to database to upload new links
-2024-07-16 11:29:24 --- Can't connect to database to upload new links
-2024-07-16 11:29:24 --- Can't connect to database to upload new links
-2024-07-16 11:29:24 --- Can't connect to database to upload new links
-2024-07-16 11:29:24 --- Can't connect to database to upload new links
-2024-07-16 11:29:24 --- Can't connect to database to upload new links
-2024-07-16 11:29:24 --- Can't connect to database to upload new links
-2024-07-16 11:29:24 --- Can't connect to database to upload new links
-2024-07-16 11:29:24 --- Can't connect to database to upload new links
-2024-07-16 11:29:24 --- Can't connect to database to upload new links
-2024-07-16 11:29:24 --- Can't connect to database to upload new links
-2024-07-16 11:29:24 --- Can't connect to database to upload new links
-2024-07-16 11:29:24 --- Can't connect to database to get all urls and download their text
-2024-07-16 11:29:24 --- Can't connect to database to get all content
-2024-07-16 11:29:24 --- Can't connect to database to get all summaries
-2024-07-16 11:36:52 --- Can't connect to database to upload new links
-2024-07-16 11:36:52 --- Can't connect to database to upload new links
-2024-07-16 11:36:52 --- Can't connect to database to upload new links
-2024-07-16 11:36:52 --- Can't connect to database to upload new links
-2024-07-16 11:36:52 --- Can't connect to database to upload new links
-2024-07-16 11:36:52 --- Can't connect to database to upload new links
-2024-07-16 11:36:52 --- Can't connect to database to upload new links
-2024-07-16 11:36:52 --- Can't connect to database to upload new links
-2024-07-16 11:36:52 --- Can't connect to database to upload new links
-2024-07-16 11:36:52 --- Can't connect to database to upload new links
-2024-07-16 11:36:52 --- Can't connect to database to upload new links
-2024-07-16 11:36:52 --- Can't connect to database to upload new links
-2024-07-16 11:36:52 --- Can't connect to database to upload new links
-2024-07-16 11:36:52 --- Can't connect to database to upload new links
-2024-07-16 11:36:52 --- Can't connect to database to upload new links
-2024-07-16 11:36:52 --- Can't connect to database to upload new links
-2024-07-16 11:36:52 --- Can't connect to database to upload new links
-2024-07-16 11:36:52 --- Can't connect to database to upload new links
-2024-07-16 11:36:52 --- Can't connect to database to upload new links
-2024-07-16 11:36:52 --- Can't connect to database to upload new links
-2024-07-16 11:36:52 --- Can't connect to database to upload new links
-2024-07-16 11:36:52 --- Can't connect to database to upload new links
-2024-07-16 11:36:52 --- Can't connect to database to upload new links
-2024-07-16 11:36:52 --- Can't connect to database to upload new links
-2024-07-16 11:36:52 --- Can't connect to database to upload new links
-2024-07-16 11:36:52 --- Can't connect to database to upload new links
-2024-07-16 11:36:52 --- Can't connect to database to upload new links
-2024-07-16 11:36:52 --- Can't connect to database to upload new links
-2024-07-16 11:36:52 --- Can't connect to database to upload new links
-2024-07-16 11:36:52 --- Can't connect to database to upload new links
-2024-07-16 11:36:52 --- Can't connect to database to upload new links
-2024-07-16 11:36:52 --- Can't connect to database to upload new links
-2024-07-16 11:36:52 --- Can't connect to database to upload new links
-2024-07-16 11:36:52 --- Can't connect to database to upload new links
-2024-07-16 11:36:52 --- Can't connect to database to upload new links
-2024-07-16 11:36:52 --- Can't connect to database to upload new links
-2024-07-16 11:36:52 --- Can't connect to database to upload new links
-2024-07-16 11:36:52 --- Can't connect to database to upload new links
-2024-07-16 11:36:52 --- Can't connect to database to upload new links
-2024-07-16 11:36:52 --- Can't connect to database to upload new links
-2024-07-16 11:36:52 --- Can't connect to database to upload new links
-2024-07-16 11:36:52 --- Can't connect to database to upload new links
-2024-07-16 11:36:52 --- Can't connect to database to upload new links
-2024-07-16 11:36:52 --- Can't connect to database to upload new links
-2024-07-16 11:36:52 --- Can't connect to database to upload new links
-2024-07-16 11:36:52 --- Can't connect to database to upload new links
-2024-07-16 11:36:52 --- Can't connect to database to upload new links
-2024-07-16 11:36:52 --- Can't connect to database to upload new links
-2024-07-16 11:36:52 --- Can't connect to database to upload new links
-2024-07-16 11:36:52 --- Can't connect to database to upload new links
-2024-07-16 11:36:52 --- Can't connect to database to upload new links
-2024-07-16 11:36:52 --- Can't connect to database to upload new links
-2024-07-16 11:36:52 --- Can't connect to database to upload new links
-2024-07-16 11:36:52 --- Can't connect to database to upload new links
-2024-07-16 11:36:52 --- Can't connect to database to get all urls and download their text
-2024-07-16 11:36:52 --- Can't connect to database to get all content
-2024-07-16 11:36:52 --- Can't connect to database to get all summaries
-2024-07-16 11:38:30 --- Can't connect to database to upload new links
-2024-07-16 11:38:30 --- Can't connect to database to upload new links
-2024-07-16 11:38:30 --- Can't connect to database to upload new links
-2024-07-16 11:38:30 --- Can't connect to database to upload new links
-2024-07-16 11:38:30 --- Can't connect to database to upload new links
-2024-07-16 11:38:30 --- Can't connect to database to upload new links
-2024-07-16 11:38:30 --- Can't connect to database to upload new links
-2024-07-16 11:38:30 --- Can't connect to database to upload new links
-2024-07-16 11:38:30 --- Can't connect to database to upload new links
-2024-07-16 11:38:30 --- Can't connect to database to upload new links
-2024-07-16 11:38:30 --- Can't connect to database to upload new links
-2024-07-16 11:38:30 --- Can't connect to database to upload new links
-2024-07-16 11:38:30 --- Can't connect to database to upload new links
-2024-07-16 11:38:30 --- Can't connect to database to upload new links
-2024-07-16 11:38:30 --- Can't connect to database to upload new links
-2024-07-16 11:38:30 --- Can't connect to database to upload new links
-2024-07-16 11:38:30 --- Can't connect to database to upload new links
-2024-07-16 11:38:30 --- Can't connect to database to upload new links
-2024-07-16 11:38:30 --- Can't connect to database to upload new links
-2024-07-16 11:38:30 --- Can't connect to database to upload new links
-2024-07-16 11:38:30 --- Can't connect to database to upload new links
-2024-07-16 11:38:30 --- Can't connect to database to upload new links
-2024-07-16 11:38:30 --- Can't connect to database to upload new links
-2024-07-16 11:38:30 --- Can't connect to database to upload new links
-2024-07-16 11:38:30 --- Can't connect to database to upload new links
-2024-07-16 11:38:30 --- Can't connect to database to upload new links
-2024-07-16 11:38:30 --- Can't connect to database to upload new links
-2024-07-16 11:38:30 --- Can't connect to database to upload new links
-2024-07-16 11:38:30 --- Can't connect to database to upload new links
-2024-07-16 11:38:30 --- Can't connect to database to upload new links
-2024-07-16 11:38:30 --- Can't connect to database to upload new links
-2024-07-16 11:38:30 --- Can't connect to database to upload new links
-2024-07-16 11:38:30 --- Can't connect to database to upload new links
-2024-07-16 11:38:30 --- Can't connect to database to upload new links
-2024-07-16 11:38:30 --- Can't connect to database to upload new links
-2024-07-16 11:38:30 --- Can't connect to database to upload new links
-2024-07-16 11:38:30 --- Can't connect to database to upload new links
-2024-07-16 11:38:30 --- Can't connect to database to upload new links
-2024-07-16 11:38:30 --- Can't connect to database to upload new links
-2024-07-16 11:38:30 --- Can't connect to database to upload new links
-2024-07-16 11:38:31 --- Can't connect to database to upload new links
-2024-07-16 11:38:31 --- Can't connect to database to upload new links
-2024-07-16 11:38:31 --- Can't connect to database to upload new links
-2024-07-16 11:38:31 --- Can't connect to database to upload new links
-2024-07-16 11:38:31 --- Can't connect to database to upload new links
-2024-07-16 11:38:31 --- Can't connect to database to upload new links
-2024-07-16 11:38:31 --- Can't connect to database to upload new links
-2024-07-16 11:38:31 --- Can't connect to database to upload new links
-2024-07-16 11:38:31 --- Can't connect to database to upload new links
-2024-07-16 11:38:31 --- Can't connect to database to upload new links
-2024-07-16 11:38:31 --- Can't connect to database to upload new links
-2024-07-16 11:38:31 --- Can't connect to database to upload new links
-2024-07-16 11:38:31 --- Can't connect to database to upload new links
-2024-07-16 11:38:31 --- Can't connect to database to upload new links
-2024-07-16 11:38:31 --- Can't connect to database to get all urls and download their text
-2024-07-16 11:38:31 --- Can't connect to database to get all content
-2024-07-16 11:38:31 --- Can't connect to database to get all summaries
-2024-07-16 11:39:05 --- Can't connect to database to upload new links
-2024-07-16 11:39:05 --- Can't connect to database to upload new links
-2024-07-16 11:39:05 --- Can't connect to database to upload new links
-2024-07-16 11:39:05 --- Can't connect to database to upload new links
-2024-07-16 11:39:05 --- Can't connect to database to upload new links
-2024-07-16 11:39:05 --- Can't connect to database to upload new links
-2024-07-16 11:39:05 --- Can't connect to database to upload new links
-2024-07-16 11:39:05 --- Can't connect to database to upload new links
-2024-07-16 11:39:05 --- Can't connect to database to upload new links
-2024-07-16 11:39:05 --- Can't connect to database to upload new links
-2024-07-16 11:39:05 --- Can't connect to database to upload new links
-2024-07-16 11:39:05 --- Can't connect to database to upload new links
-2024-07-16 11:39:05 --- Can't connect to database to upload new links
-2024-07-16 11:39:05 --- Can't connect to database to upload new links
-2024-07-16 11:39:05 --- Can't connect to database to upload new links
-2024-07-16 11:39:05 --- Can't connect to database to upload new links
-2024-07-16 11:39:06 --- Can't connect to database to upload new links
-2024-07-16 11:39:06 --- Can't connect to database to upload new links
-2024-07-16 11:39:06 --- Can't connect to database to upload new links
-2024-07-16 11:39:06 --- Can't connect to database to upload new links
-2024-07-16 11:39:06 --- Can't connect to database to upload new links
-2024-07-16 11:39:06 --- Can't connect to database to upload new links
-2024-07-16 11:39:06 --- Can't connect to database to upload new links
-2024-07-16 11:39:06 --- Can't connect to database to upload new links
-2024-07-16 11:39:06 --- Can't connect to database to upload new links
-2024-07-16 11:39:06 --- Can't connect to database to upload new links
-2024-07-16 11:39:06 --- Can't connect to database to upload new links
-2024-07-16 11:39:06 --- Can't connect to database to upload new links
-2024-07-16 11:39:06 --- Can't connect to database to upload new links
-2024-07-16 11:39:06 --- Can't connect to database to upload new links
-2024-07-16 11:39:06 --- Can't connect to database to upload new links
-2024-07-16 11:39:06 --- Can't connect to database to upload new links
-2024-07-16 11:39:06 --- Can't connect to database to upload new links
-2024-07-16 11:39:06 --- Can't connect to database to upload new links
-2024-07-16 11:39:06 --- Can't connect to database to upload new links
-2024-07-16 11:39:06 --- Can't connect to database to upload new links
-2024-07-16 11:39:06 --- Can't connect to database to upload new links
-2024-07-16 11:39:06 --- Can't connect to database to upload new links
-2024-07-16 11:39:06 --- Can't connect to database to upload new links
-2024-07-16 11:39:06 --- Can't connect to database to upload new links
-2024-07-16 11:39:06 --- Can't connect to database to upload new links
-2024-07-16 11:39:06 --- Can't connect to database to upload new links
-2024-07-16 11:39:06 --- Can't connect to database to upload new links
-2024-07-16 11:39:06 --- Can't connect to database to upload new links
-2024-07-16 11:39:06 --- Can't connect to database to upload new links
-2024-07-16 11:39:06 --- Can't connect to database to upload new links
-2024-07-16 11:39:06 --- Can't connect to database to upload new links
-2024-07-16 11:39:06 --- Can't connect to database to upload new links
-2024-07-16 11:39:06 --- Can't connect to database to upload new links
-2024-07-16 11:39:06 --- Can't connect to database to upload new links
-2024-07-16 11:39:06 --- Can't connect to database to upload new links
-2024-07-16 11:39:06 --- Can't connect to database to upload new links
-2024-07-16 11:39:06 --- Can't connect to database to upload new links
-2024-07-16 11:39:06 --- Can't connect to database to upload new links
-2024-07-16 11:39:06 --- Can't connect to database to get all urls and download their text
-2024-07-16 11:39:06 --- Can't connect to database to get all content
-2024-07-16 11:39:06 --- Can't connect to database to get all summaries
-2024-07-16 11:47:03 https://quote.ru/news/article/668ead189a79478bd7d0390e?from=newsfeed Can't download link content
-2024-07-16 11:49:12 https://quote.ru/news/article/6694b9019a7947e9eb88cce0 Can't download link content
-2024-07-16 15:01:57 --- Can't open the keys.yml file to get db_access_key
-2024-07-16 15:01:57 --- Can't open the keys.yml file to get api_key
-2024-07-16 15:01:57 --- Can't update users table
-2024-07-16 15:01:57 --- Can't update users table
-2024-07-16 15:01:57 --- Can't get sent urls from database
-2024-07-16 15:01:57 --- Can't get sent urls from database
-2024-07-16 15:01:58 --- Can't connect to database to get already uploaded urls
-2024-07-16 15:01:58 --- Can't connect to database to upload new links
-2024-07-16 15:01:58 --- Can't connect to database to upload new links
-2024-07-16 15:01:58 --- Can't connect to database to upload new links
-2024-07-16 15:01:58 --- Can't connect to database to upload new links
-2024-07-16 15:01:58 --- Can't connect to database to upload new links
-2024-07-16 15:01:58 --- Can't connect to database to upload new links
-2024-07-16 15:01:58 --- Can't connect to database to upload new links
-2024-07-16 15:01:58 --- Can't connect to database to upload new links
-2024-07-16 15:01:58 --- Can't connect to database to upload new links
-2024-07-16 15:01:58 --- Can't connect to database to upload new links
-2024-07-16 15:01:58 --- Can't connect to database to upload new links
-2024-07-16 15:01:58 --- Can't connect to database to upload new links
-2024-07-16 15:01:58 --- Can't connect to database to upload new links
-2024-07-16 15:01:58 --- Can't connect to database to upload new links
-2024-07-16 15:01:58 --- Can't connect to database to upload new links
-2024-07-16 15:01:58 --- Can't connect to database to upload new links
-2024-07-16 15:01:58 --- Can't connect to database to upload new links
-2024-07-16 15:01:58 --- Can't connect to database to upload new links
-2024-07-16 15:01:58 --- Can't connect to database to upload new links
-2024-07-16 15:01:58 --- Can't connect to database to upload new links
-2024-07-16 15:01:58 --- Can't connect to database to upload new links
-2024-07-16 15:01:58 --- Can't connect to database to upload new links
-2024-07-16 15:01:58 --- Can't connect to database to upload new links
-2024-07-16 15:01:58 --- Can't connect to database to upload new links
-2024-07-16 15:01:58 --- Can't connect to database to upload new links
-2024-07-16 15:01:58 --- Can't connect to database to upload new links
-2024-07-16 15:01:58 --- Can't connect to database to upload new links
-2024-07-16 15:01:58 --- Can't connect to database to upload new links
-2024-07-16 15:01:58 --- Can't connect to database to upload new links
-2024-07-16 15:01:58 --- Can't connect to database to upload new links
-2024-07-16 15:01:58 --- Can't connect to database to upload new links
-2024-07-16 15:01:58 --- Can't connect to database to upload new links
-2024-07-16 15:01:58 --- Can't connect to database to upload new links
-2024-07-16 15:01:58 --- Can't connect to database to upload new links
-2024-07-16 15:01:58 --- Can't connect to database to upload new links
-2024-07-16 15:01:58 --- Can't connect to database to upload new links
-2024-07-16 15:01:58 --- Can't connect to database to upload new links
-2024-07-16 15:01:58 --- Can't connect to database to upload new links
-2024-07-16 15:01:58 --- Can't connect to database to upload new links
-2024-07-16 15:01:58 --- Can't connect to database to upload new links
-2024-07-16 15:01:58 --- Can't connect to database to upload new links
-2024-07-16 15:01:58 --- Can't connect to database to upload new links
-2024-07-16 15:01:58 --- Can't connect to database to upload new links
-2024-07-16 15:01:58 --- Can't connect to database to upload new links
-2024-07-16 15:01:58 --- Can't connect to database to upload new links
-2024-07-16 15:01:58 --- Can't connect to database to upload new links
-2024-07-16 15:01:58 --- Can't connect to database to upload new links
-2024-07-16 15:01:58 --- Can't connect to database to upload new links
-2024-07-16 15:01:58 --- Can't connect to database to upload new links
-2024-07-16 15:01:58 --- Can't connect to database to upload new links
-2024-07-16 15:01:58 --- Can't connect to database to upload new links
-2024-07-16 15:01:58 --- Can't connect to database to upload new links
-2024-07-16 15:01:58 --- Can't connect to database to upload new links
-2024-07-16 15:01:58 --- Can't connect to database to get all urls and download their text
-2024-07-16 15:01:58 --- Can't connect to database to get all content
-2024-07-16 15:01:58 --- Can't connect to database to upload urls to send
-2024-07-16 15:01:58 --- Can't connect to database to upload urls to send
-2024-07-16 15:01:58 --- Can't connect to database to get all summaries
-2024-07-16 15:01:58 --- Can't connect to database to get urls to send
-2024-07-16 15:01:58 --- Can't connect to database to get urls to send
-2024-07-16 15:01:58 --- can't update sent urls
-2024-07-16 15:01:58 --- can't update sent urls
-2024-07-16 15:03:29 --- Can't open the keys.yml file to get db_access_key
-2024-07-16 15:03:29 --- Can't open the keys.yml file to get api_key
-2024-07-16 15:03:29 --- Can't update users table
-2024-07-16 15:03:29 --- Can't update users table
-2024-07-16 15:03:29 --- Can't get sent urls from database
-2024-07-16 15:03:29 --- Can't get sent urls from database
-2024-07-16 15:03:31 --- Can't connect to database to get already uploaded urls
-2024-07-16 15:03:31 --- Can't connect to database to upload new links
-2024-07-16 15:03:31 --- Can't connect to database to upload new links
-2024-07-16 15:03:31 --- Can't connect to database to upload new links
-2024-07-16 15:03:31 --- Can't connect to database to upload new links
-2024-07-16 15:03:31 --- Can't connect to database to upload new links
-2024-07-16 15:03:31 --- Can't connect to database to upload new links
-2024-07-16 15:03:31 --- Can't connect to database to upload new links
-2024-07-16 15:03:31 --- Can't connect to database to upload new links
-2024-07-16 15:03:31 --- Can't connect to database to upload new links
-2024-07-16 15:03:31 --- Can't connect to database to upload new links
-2024-07-16 15:03:31 --- Can't connect to database to upload new links
-2024-07-16 15:03:31 --- Can't connect to database to upload new links
-2024-07-16 15:03:31 --- Can't connect to database to upload new links
-2024-07-16 15:03:31 --- Can't connect to database to upload new links
-2024-07-16 15:03:31 --- Can't connect to database to upload new links
-2024-07-16 15:03:31 --- Can't connect to database to upload new links
-2024-07-16 15:03:31 --- Can't connect to database to upload new links
-2024-07-16 15:03:31 --- Can't connect to database to upload new links
-2024-07-16 15:03:31 --- Can't connect to database to upload new links
-2024-07-16 15:03:31 --- Can't connect to database to upload new links
-2024-07-16 15:03:31 --- Can't connect to database to upload new links
-2024-07-16 15:03:31 --- Can't connect to database to upload new links
-2024-07-16 15:03:31 --- Can't connect to database to upload new links
-2024-07-16 15:03:31 --- Can't connect to database to upload new links
-2024-07-16 15:03:31 --- Can't connect to database to upload new links
-2024-07-16 15:03:31 --- Can't connect to database to upload new links
-2024-07-16 15:03:31 --- Can't connect to database to upload new links
-2024-07-16 15:03:31 --- Can't connect to database to upload new links
-2024-07-16 15:03:31 --- Can't connect to database to upload new links
-2024-07-16 15:03:31 --- Can't connect to database to upload new links
-2024-07-16 15:03:31 --- Can't connect to database to upload new links
-2024-07-16 15:03:31 --- Can't connect to database to upload new links
-2024-07-16 15:03:31 --- Can't connect to database to upload new links
-2024-07-16 15:03:31 --- Can't connect to database to upload new links
-2024-07-16 15:03:31 --- Can't connect to database to upload new links
-2024-07-16 15:03:31 --- Can't connect to database to upload new links
-2024-07-16 15:03:31 --- Can't connect to database to upload new links
-2024-07-16 15:03:31 --- Can't connect to database to upload new links
-2024-07-16 15:03:31 --- Can't connect to database to upload new links
-2024-07-16 15:03:31 --- Can't connect to database to upload new links
-2024-07-16 15:03:31 --- Can't connect to database to upload new links
-2024-07-16 15:03:31 --- Can't connect to database to upload new links
-2024-07-16 15:03:31 --- Can't connect to database to upload new links
-2024-07-16 15:03:31 --- Can't connect to database to upload new links
-2024-07-16 15:03:31 --- Can't connect to database to upload new links
-2024-07-16 15:03:31 --- Can't connect to database to upload new links
-2024-07-16 15:03:31 --- Can't connect to database to upload new links
-2024-07-16 15:03:31 --- Can't connect to database to upload new links
-2024-07-16 15:03:31 --- Can't connect to database to upload new links
-2024-07-16 15:03:31 --- Can't connect to database to upload new links
-2024-07-16 15:03:31 --- Can't connect to database to upload new links
-2024-07-16 15:03:31 --- Can't connect to database to upload new links
-2024-07-16 15:03:31 --- Can't connect to database to get all urls and download their text
-2024-07-16 15:03:31 --- Can't connect to database to get all content
-2024-07-16 15:03:31 --- Can't connect to database to upload urls to send
-2024-07-16 15:03:31 --- Can't connect to database to upload urls to send
-2024-07-16 15:03:31 --- Can't connect to database to get all summaries
-2024-07-16 15:03:31 --- Can't connect to database to get urls to send
-2024-07-16 15:03:31 --- Can't connect to database to get urls to send
-2024-07-16 15:03:31 --- can't update sent urls
-2024-07-16 15:03:31 --- can't update sent urls
-2024-07-16 15:03:49 --- Can't open the keys.yml file to get db_access_key
-2024-07-16 15:03:49 --- Can't open the keys.yml file to get api_key
-2024-07-16 15:03:49 --- Can't update users table
-2024-07-16 15:03:49 --- Can't update users table
-2024-07-16 15:03:49 --- Can't get sent urls from database
-2024-07-16 15:03:49 --- Can't get sent urls from database
-2024-07-16 15:03:50 --- Can't connect to database to get already uploaded urls
-2024-07-16 15:03:50 --- Can't connect to database to upload new links
-2024-07-16 15:03:50 --- Can't connect to database to upload new links
-2024-07-16 15:03:50 --- Can't connect to database to upload new links
-2024-07-16 15:03:50 --- Can't connect to database to upload new links
-2024-07-16 15:03:50 --- Can't connect to database to upload new links
-2024-07-16 15:03:50 --- Can't connect to database to upload new links
-2024-07-16 15:03:50 --- Can't connect to database to upload new links
-2024-07-16 15:03:50 --- Can't connect to database to upload new links
-2024-07-16 15:03:50 --- Can't connect to database to upload new links
-2024-07-16 15:03:50 --- Can't connect to database to upload new links
-2024-07-16 15:03:50 --- Can't connect to database to upload new links
-2024-07-16 15:03:50 --- Can't connect to database to upload new links
-2024-07-16 15:03:50 --- Can't connect to database to upload new links
-2024-07-16 15:03:50 --- Can't connect to database to upload new links
-2024-07-16 15:03:50 --- Can't connect to database to upload new links
-2024-07-16 15:03:50 --- Can't connect to database to upload new links
-2024-07-16 15:03:50 --- Can't connect to database to upload new links
-2024-07-16 15:03:50 --- Can't connect to database to upload new links
-2024-07-16 15:03:50 --- Can't connect to database to upload new links
-2024-07-16 15:03:50 --- Can't connect to database to upload new links
-2024-07-16 15:03:50 --- Can't connect to database to upload new links
-2024-07-16 15:03:50 --- Can't connect to database to upload new links
-2024-07-16 15:03:50 --- Can't connect to database to upload new links
-2024-07-16 15:03:50 --- Can't connect to database to upload new links
-2024-07-16 15:03:50 --- Can't connect to database to upload new links
-2024-07-16 15:03:50 --- Can't connect to database to upload new links
-2024-07-16 15:03:50 --- Can't connect to database to upload new links
-2024-07-16 15:03:50 --- Can't connect to database to upload new links
-2024-07-16 15:03:50 --- Can't connect to database to upload new links
-2024-07-16 15:03:50 --- Can't connect to database to upload new links
-2024-07-16 15:03:50 --- Can't connect to database to upload new links
-2024-07-16 15:03:50 --- Can't connect to database to upload new links
-2024-07-16 15:03:50 --- Can't connect to database to upload new links
-2024-07-16 15:03:50 --- Can't connect to database to upload new links
-2024-07-16 15:03:50 --- Can't connect to database to upload new links
-2024-07-16 15:03:50 --- Can't connect to database to upload new links
-2024-07-16 15:03:50 --- Can't connect to database to upload new links
-2024-07-16 15:03:50 --- Can't connect to database to upload new links
-2024-07-16 15:03:50 --- Can't connect to database to upload new links
-2024-07-16 15:03:50 --- Can't connect to database to upload new links
-2024-07-16 15:03:50 --- Can't connect to database to upload new links
-2024-07-16 15:03:50 --- Can't connect to database to upload new links
-2024-07-16 15:03:50 --- Can't connect to database to upload new links
-2024-07-16 15:03:50 --- Can't connect to database to upload new links
-2024-07-16 15:03:50 --- Can't connect to database to upload new links
-2024-07-16 15:03:50 --- Can't connect to database to upload new links
-2024-07-16 15:03:50 --- Can't connect to database to upload new links
-2024-07-16 15:03:50 --- Can't connect to database to upload new links
-2024-07-16 15:03:50 --- Can't connect to database to upload new links
-2024-07-16 15:03:50 --- Can't connect to database to upload new links
-2024-07-16 15:03:50 --- Can't connect to database to upload new links
-2024-07-16 15:03:50 --- Can't connect to database to upload new links
-2024-07-16 15:03:50 --- Can't connect to database to get all urls and download their text
-2024-07-16 15:03:50 --- Can't connect to database to get all content
-2024-07-16 15:03:50 --- Can't connect to database to upload urls to send
-2024-07-16 15:03:50 --- Can't connect to database to upload urls to send
-2024-07-16 15:03:50 --- Can't connect to database to get all summaries
-2024-07-16 15:03:50 --- Can't connect to database to get urls to send
-2024-07-16 15:03:50 --- Can't connect to database to get urls to send
-2024-07-16 15:03:50 --- can't update sent urls
-2024-07-16 15:03:50 --- can't update sent urls
-2024-07-16 15:04:06 --- Can't open the keys.yml file to get db_access_key
-2024-07-16 15:04:06 --- Can't open the keys.yml file to get api_key
-2024-07-16 15:04:06 --- Can't update users table
-2024-07-16 15:04:06 --- Can't update users table
-2024-07-16 15:04:06 --- Can't get sent urls from database
-2024-07-16 15:04:06 --- Can't get sent urls from database
-2024-07-16 15:04:07 --- Can't connect to database to get already uploaded urls
-2024-07-16 15:04:07 --- Can't connect to database to upload new links
-2024-07-16 15:04:07 --- Can't connect to database to upload new links
-2024-07-16 15:04:07 --- Can't connect to database to upload new links
-2024-07-16 15:04:07 --- Can't connect to database to upload new links
-2024-07-16 15:04:07 --- Can't connect to database to upload new links
-2024-07-16 15:04:07 --- Can't connect to database to upload new links
-2024-07-16 15:04:07 --- Can't connect to database to upload new links
-2024-07-16 15:04:07 --- Can't connect to database to upload new links
-2024-07-16 15:04:07 --- Can't connect to database to upload new links
-2024-07-16 15:04:07 --- Can't connect to database to upload new links
-2024-07-16 15:04:07 --- Can't connect to database to upload new links
-2024-07-16 15:04:07 --- Can't connect to database to upload new links
-2024-07-16 15:04:07 --- Can't connect to database to upload new links
-2024-07-16 15:04:07 --- Can't connect to database to upload new links
-2024-07-16 15:04:07 --- Can't connect to database to upload new links
-2024-07-16 15:04:07 --- Can't connect to database to upload new links
-2024-07-16 15:04:07 --- Can't connect to database to upload new links
-2024-07-16 15:04:07 --- Can't connect to database to upload new links
-2024-07-16 15:04:07 --- Can't connect to database to upload new links
-2024-07-16 15:04:07 --- Can't connect to database to upload new links
-2024-07-16 15:04:07 --- Can't connect to database to upload new links
-2024-07-16 15:04:07 --- Can't connect to database to upload new links
-2024-07-16 15:04:07 --- Can't connect to database to upload new links
-2024-07-16 15:04:07 --- Can't connect to database to upload new links
-2024-07-16 15:04:07 --- Can't connect to database to upload new links
-2024-07-16 15:04:07 --- Can't connect to database to upload new links
-2024-07-16 15:04:07 --- Can't connect to database to upload new links
-2024-07-16 15:04:07 --- Can't connect to database to upload new links
-2024-07-16 15:04:07 --- Can't connect to database to upload new links
-2024-07-16 15:04:07 --- Can't connect to database to upload new links
-2024-07-16 15:04:07 --- Can't connect to database to upload new links
-2024-07-16 15:04:07 --- Can't connect to database to upload new links
-2024-07-16 15:04:07 --- Can't connect to database to upload new links
-2024-07-16 15:04:07 --- Can't connect to database to upload new links
-2024-07-16 15:04:07 --- Can't connect to database to upload new links
-2024-07-16 15:04:07 --- Can't connect to database to upload new links
-2024-07-16 15:04:07 --- Can't connect to database to upload new links
-2024-07-16 15:04:07 --- Can't connect to database to upload new links
-2024-07-16 15:04:07 --- Can't connect to database to upload new links
-2024-07-16 15:04:07 --- Can't connect to database to upload new links
-2024-07-16 15:04:07 --- Can't connect to database to upload new links
-2024-07-16 15:04:07 --- Can't connect to database to upload new links
-2024-07-16 15:04:07 --- Can't connect to database to upload new links
-2024-07-16 15:04:07 --- Can't connect to database to upload new links
-2024-07-16 15:04:07 --- Can't connect to database to upload new links
-2024-07-16 15:04:07 --- Can't connect to database to upload new links
-2024-07-16 15:04:07 --- Can't connect to database to upload new links
-2024-07-16 15:04:07 --- Can't connect to database to upload new links
-2024-07-16 15:04:07 --- Can't connect to database to upload new links
-2024-07-16 15:04:07 --- Can't connect to database to upload new links
-2024-07-16 15:04:07 --- Can't connect to database to upload new links
-2024-07-16 15:04:07 --- Can't connect to database to upload new links
-2024-07-16 15:04:07 --- Can't connect to database to get all urls and download their text
-2024-07-16 15:04:07 --- Can't connect to database to get all content
-2024-07-16 15:04:07 --- Can't connect to database to upload urls to send
-2024-07-16 15:04:07 --- Can't connect to database to upload urls to send
-2024-07-16 15:04:07 --- Can't connect to database to get all summaries
-2024-07-16 15:04:07 --- Can't connect to database to get urls to send
-2024-07-16 15:04:07 --- Can't connect to database to get urls to send
-2024-07-16 15:04:07 --- can't update sent urls
-2024-07-16 15:04:07 --- can't update sent urls
-2024-07-16 15:04:53 --- Can't open the keys.yml file to get api_key
-2024-07-16 15:04:53 --- Can't update users table
-2024-07-16 15:04:53 --- Can't update users table
-2024-07-16 15:04:53 --- Can't get sent urls from database
-2024-07-16 15:04:53 --- Can't get sent urls from database
-2024-07-16 15:04:56 https://quote.ru/news/article/668ead189a79478bd7d0390e Can't download link content
-2024-07-16 15:07:21 --- Can't update users table
-2024-07-16 15:07:21 --- Can't update users table
-2024-07-16 15:07:21 --- Can't get sent urls from database
-2024-07-16 15:07:21 --- Can't get sent urls from database
-2024-07-16 15:07:22 https://quote.ru URLs parsing fault
-2024-07-16 15:24:10 --- Can't update users table
-2024-07-16 15:24:10 --- Can't update users table
-2024-07-16 15:24:10 --- Can't get sent urls from database
-2024-07-16 15:24:10 --- Can't get sent urls from database
-2024-07-16 15:25:24 2 Can't compress the article
-2024-07-16 15:25:25 3 Can't compress the article
-2024-07-16 15:25:25 5 Can't compress the article
-2024-07-16 15:25:26 14 Can't compress the article
-2024-07-16 15:25:26 21 Can't compress the article
-2024-07-16 15:25:26 24 Can't compress the article
-2024-07-16 15:25:27 26 Can't compress the article
-2024-07-16 15:25:27 27 Can't compress the article
-2024-07-16 15:25:28 30 Can't compress the article
-2024-07-16 15:25:28 36 Can't compress the article
-2024-07-16 15:25:29 37 Can't compress the article
-2024-07-16 15:25:29 41 Can't compress the article
-2024-07-16 15:25:29 43 Can't compress the article
-2024-07-16 15:25:30 46 Can't compress the article
-2024-07-16 15:25:30 51 Can't compress the article
-2024-07-16 15:25:30 --- telegram send fault
-2024-07-16 15:30:35 --- Can't update users table
-2024-07-16 15:30:35 --- Can't update users table
-2024-07-16 15:30:35 --- Can't get sent urls from database
-2024-07-16 15:30:35 --- Can't get sent urls from database
-2024-07-16 15:30:39 2 Can't compress the article
-2024-07-16 15:30:39 3 Can't compress the article
-2024-07-16 15:30:40 5 Can't compress the article
-2024-07-16 15:30:40 14 Can't compress the article
-2024-07-16 15:31:03 21 Can't compress the article
-2024-07-16 15:33:43 --- Can't update users table
-2024-07-16 15:33:43 --- Can't update users table
-2024-07-16 15:33:43 --- Can't get sent urls from database
-2024-07-16 15:33:43 --- Can't get sent urls from database
-2024-07-16 15:33:43 https://www.rbc.ru URLs parsing fault
-2024-07-16 15:33:43 https://quote.ru URLs parsing fault
-2024-07-16 15:33:45 2 Can't compress the article
-2024-07-16 15:35:15 --- Can't get sent urls from database
-2024-07-16 15:35:15 --- Can't get sent urls from database
-2024-07-16 15:35:15 https://quote.ru URLs parsing fault
-2024-07-16 15:36:32 --- Can't get sent urls from database
-2024-07-16 15:36:32 --- Can't get sent urls from database
-2024-07-16 15:36:34 https://editorial.rbc.ru/mangof24s-r-kavkusnaper-m?from=newsfeed Can't download link content
-2024-07-16 15:37:15 --- Can't get sent urls from database
-2024-07-16 15:37:15 --- Can't get sent urls from database
-2024-07-16 15:37:18 https://editorial.rbc.ru/mangof24s-r-kavkusnaper-m?from=newsfeed Can't download link content
-2024-07-16 15:39:16 --- Can't get sent urls from database
-2024-07-16 15:39:16 --- Can't get sent urls from database
-2024-07-16 15:39:17 https://quote.ru URLs parsing fault
-2024-07-16 15:40:12 https://editorial.rbc.ru/mangof24s-r-kavkusnaper-m?from=newsfeed Can't download link content
-2024-07-16 15:40:24 2 Can't compress the article
-2024-07-16 15:40:24 3 Can't compress the article
-2024-07-16 15:40:24 5 Can't compress the article
-2024-07-16 15:40:25 14 Can't compress the article
-2024-07-16 15:40:25 21 Can't compress the article
-2024-07-16 15:40:26 24 Can't compress the article
-2024-07-16 15:40:26 26 Can't compress the article
-2024-07-16 15:40:26 27 Can't compress the article
-2024-07-16 15:40:27 30 Can't compress the article
-2024-07-16 15:40:27 36 Can't compress the article
-2024-07-16 15:40:28 37 Can't compress the article
-2024-07-16 15:40:28 41 Can't compress the article
-2024-07-16 15:40:29 43 Can't compress the article
-2024-07-16 15:40:29 46 Can't compress the article
-2024-07-16 15:40:30 51 Can't compress the article
-2024-07-16 15:40:30 --- telegram send fault
-2024-07-16 15:47:39 2 Can't compress the article
-2024-07-16 15:47:39 3 Can't compress the article
-2024-07-16 15:47:40 5 Can't compress the article
-2024-07-16 15:47:40 14 Can't compress the article
-2024-07-16 15:47:41 21 Can't compress the article
-2024-07-16 15:47:41 24 Can't compress the article
-2024-07-16 15:47:41 26 Can't compress the article
-2024-07-16 15:47:42 27 Can't compress the article
-2024-07-16 15:47:42 30 Can't compress the article
-2024-07-16 15:47:43 36 Can't compress the article
-2024-07-16 15:47:43 37 Can't compress the article
-2024-07-16 15:47:44 41 Can't compress the article
-2024-07-16 15:47:44 43 Can't compress the article
-2024-07-16 15:47:44 46 Can't compress the article
-2024-07-16 15:47:45 51 Can't compress the article
-2024-07-16 15:47:45 60 Can't compress the article
-2024-07-16 15:47:46 62 Can't compress the article
-2024-07-16 15:47:46 65 Can't compress the article
-2024-07-16 15:47:46 --- telegram send fault
-2024-07-16 15:49:46 2 Can't compress the article
-2024-07-16 15:49:47 3 Can't compress the article
-2024-07-16 15:49:47 5 Can't compress the article
-2024-07-16 15:49:47 14 Can't compress the article
-2024-07-16 15:49:48 21 Can't compress the article
-2024-07-16 15:49:48 24 Can't compress the article
-2024-07-16 15:56:16 --- telegram send fault
-2024-07-16 16:00:33 https://www.rbc.ru URLs parsing fault
-2024-07-16 16:01:37 https://www.rbc.ru URLs parsing fault
-2024-07-16 16:02:28 https://www.rbc.ru URLs parsing fault
-2024-07-16 16:06:04 5 Can't compress the article
-2024-07-16 16:08:37 https://www.rbc.ru URLs parsing fault
-2024-07-16 16:11:07 https://www.rbc.ru URLs parsing fault
-2024-07-16 16:12:49 --- telegram send fault
-2024-07-16 16:15:54 --- telegram send fault
-2024-07-16 20:36:39 --- Can't update users table
-2024-07-16 20:36:39 --- Can't update users table
-2024-07-16 20:36:39 --- Can't get sent urls from database
-2024-07-16 20:36:39 --- Can't get sent urls from database
-2024-07-16 20:36:54 --- Can't connect to database to get already uploaded urls
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to upload new links
-2024-07-16 20:36:54 --- Can't connect to database to get all urls and download their text
-2024-07-16 20:36:54 --- Can't connect to database to get all content
-2024-07-16 20:36:54 --- Can't connect to database to get all summaries
-2024-07-16 20:36:54 --- Can't connect to database to get urls to send
-2024-07-16 20:36:54 --- Can't connect to database to get urls to send
-2024-07-16 20:43:04 https://edition.cnn.com/2024/07/16/health/video/microplastics-nanoplastics-plastic-pollution-credit-card-digvid Can't download link content
-2024-07-16 20:43:40 https://edition.cnn.com/2024/07/16/us/video/chicago-tornado-warning-metereologists-reaction-digvid Can't download link content
-2024-07-16 20:43:59 https://lenta.ru/news/2024/07/16/byvshego-postavschika-formy-dlya-rosgvardii-otpravili-v-sizo-v-chem-ego-obvinyayut/ Can't download link content
-2024-07-16 20:44:23 https://lenta.ru/extlink/2024/07/12/v-podmoskovie-razbilsya-passazhirskiy-samolet-s-frantsuzskimi-dvigatelyami-kto-ispolzuet-eti-laynery-i-kuda-oni-letayut/?intlnk=true Can't download link content
-2024-07-16 20:44:25 https://lenta.ru/extlink/2024/07/15/v-indii-sostoyalas-svadba-veka-na-nee-potratili-600-millionov-dollarov-za-torzhestvom-sledil-ves-mir/?intlnk=true Can't download link content
-2024-07-16 20:44:38 https://russian.rt.com/ussr/article/1341591-naemniki-vsu-prestupleniya Can't download link content
-2024-07-16 20:45:02 https://lenta.ru/news/2024/07/16/v-ssha-zayavili-chto-ukraina-razrabatyvaet-plan-zaversheniya-konflikta-s-rossiey-v-chem-on-zaklyuchaetsya/ Can't download link content
-2024-07-16 20:45:34 https://vc.ru/marketing/1313327-esli-nado-prodat-na-avito-obrashaites-futbolnyi-klub-iz-kazani-vystavil-sebya-na-prodazhu-na-avito-za-53-mln-rublei-ego-kupil-mestnyi-biznesmen Can't download link content
-2024-07-16 20:46:26 https://russian.rt.com/ussr/article/1341591-naemniki-vsu-prestupleniya#href_spot-im Can't download link content
-2024-07-16 20:47:00 https://vc.ru/marketing/1313327-esli-nado-prodat-na-avito-obrashaites-futbolnyi-klub-iz-kazani-vystavil-sebya-na-prodazhu-na-avito-za-53-mln-rublei-ego-kupil-mestnyi-biznesmen#comments Can't download link content
-2024-07-16 20:48:58 https://lenta.ru/articles/2024/07/07/labio/ Can't download link content
-2024-07-16 20:49:26 https://lenta.ru/articles/2024/07/14/hemsworth/ Can't download link content
-2024-07-16 20:49:33 https://lenta.ru/brief/2024/07/14/kotelnikovrazborrr/ Can't download link content
-2024-07-16 20:50:24 https://lenta.ru/extlink/2024/07/13/dvoe-priblizhennyh-byvshego-zamministra-oborony-ivanova-skonchalis-v-odin-den/?intlnk=true Can't download link content
-2024-07-16 20:50:42 https://lenta.ru/articles/2024/07/08/pol/ Can't download link content
-2024-07-16 20:52:21 https://life.ru/p/1608090 Can't download link content
-2024-07-16 20:52:43 https://edition.cnn.com/2024/07/16/science/new-zealand-spade-toothed-whale-intl-hnk/index.html Can't download link content
-2024-07-16 20:53:49 https://life.ru/p/1671992 Can't download link content
-2024-07-16 20:55:42 https://lenta.ru/news/2024/07/15/ambani-svadba-12-14-iyulya/ Can't download link content
-2024-07-16 20:57:18 17 Can't compress the article
-2024-07-16 20:57:18 45 Can't compress the article
-2024-07-16 20:57:19 50 Can't compress the article
-2024-07-16 20:57:19 60 Can't compress the article
-2024-07-16 20:57:19 62 Can't compress the article
-2024-07-16 20:57:20 63 Can't compress the article
-2024-07-16 20:57:20 72 Can't compress the article
-2024-07-16 20:57:21 81 Can't compress the article
-2024-07-16 20:57:21 84 Can't compress the article
-2024-07-16 20:57:21 87 Can't compress the article
-2024-07-16 20:57:22 91 Can't compress the article
-2024-07-16 20:57:23 100 Can't compress the article
-2024-07-16 20:57:23 102 Can't compress the article
-2024-07-16 20:57:23 106 Can't compress the article
-2024-07-16 20:57:25 107 Can't compress the article
-2024-07-16 20:57:26 141 Can't compress the article
-2024-07-16 20:57:26 154 Can't compress the article
-2024-07-16 20:57:27 156 Can't compress the article
-2024-07-16 20:57:28 168 Can't compress the article
-2024-07-16 20:57:29 192 Can't compress the article
-2024-07-16 20:57:29 196 Can't compress the article
-2024-07-16 20:57:30 201 Can't compress the article
-2024-07-16 20:57:31 203 Can't compress the article
-2024-07-16 20:57:31 220 Can't compress the article
-2024-07-16 20:57:32 234 Can't compress the article
-2024-07-16 20:57:32 237 Can't compress the article
-2024-07-16 20:57:32 249 Can't compress the article
-2024-07-16 20:57:33 251 Can't compress the article
-2024-07-16 20:57:33 255 Can't compress the article
-2024-07-16 20:57:34 272 Can't compress the article
-2024-07-16 20:57:34 273 Can't compress the article
-2024-07-16 20:57:34 274 Can't compress the article
-2024-07-16 20:57:35 276 Can't compress the article
-2024-07-16 20:57:35 280 Can't compress the article
-2024-07-16 20:57:36 298 Can't compress the article
-2024-07-16 20:57:36 305 Can't compress the article
-2024-07-16 20:57:36 338 Can't compress the article
-2024-07-16 20:57:37 354 Can't compress the article
-2024-07-16 20:57:37 379 Can't compress the article
-2024-07-16 20:57:38 382 Can't compress the article
-2024-07-16 20:57:38 402 Can't compress the article
-2024-07-16 20:57:38 412 Can't compress the article
-2024-07-16 20:57:39 415 Can't compress the article
-2024-07-16 20:57:39 440 Can't compress the article
-2024-07-16 20:57:40 459 Can't compress the article
-2024-07-16 20:57:40 461 Can't compress the article
-2024-07-16 20:57:41 485 Can't compress the article
-2024-07-16 20:57:41 501 Can't compress the article
-2024-07-16 20:57:41 502 Can't compress the article
-2024-07-16 20:57:42 512 Can't compress the article
-2024-07-16 20:57:42 518 Can't compress the article
-2024-07-16 20:57:43 543 Can't compress the article
-2024-07-16 20:57:43 552 Can't compress the article
-2024-07-16 20:57:43 557 Can't compress the article
-2024-07-16 20:57:44 568 Can't compress the article
-2024-07-16 20:57:44 588 Can't compress the article
-2024-07-16 20:57:45 590 Can't compress the article
-2024-07-16 20:57:45 599 Can't compress the article
-2024-07-16 20:57:46 607 Can't compress the article
-2024-07-16 20:57:46 619 Can't compress the article
-2024-07-16 20:57:46 622 Can't compress the article
-2024-07-16 20:57:47 646 Can't compress the article
-2024-07-16 20:57:47 647 Can't compress the article
-2024-07-16 20:57:47 651 Can't compress the article
-2024-07-16 20:57:47 666 Can't compress the article
-2024-07-16 20:57:48 672 Can't compress the article
-2024-07-16 20:57:49 673 Can't compress the article
-2024-07-16 20:57:49 682 Can't compress the article
-2024-07-16 20:57:49 688 Can't compress the article
-2024-07-16 20:57:50 692 Can't compress the article
-2024-07-16 20:57:50 705 Can't compress the article
-2024-07-16 20:57:50 709 Can't compress the article
-2024-07-17 12:01:45 https://vc.ru/marketing/1313327-esli-nado-prodat-na-avito-obrashaites-futbolnyi-klub-iz-kazani-vystavil-sebya-na-prodazhu-na-avito-za-53-mln-rublei-ego-kupil-mestnyi-biznesmen Can't download link content
-2024-07-17 12:01:45 https://vc.ru/marketing/1313327-esli-nado-prodat-na-avito-obrashaites-futbolnyi-klub-iz-kazani-vystavil-sebya-na-prodazhu-na-avito-za-53-mln-rublei-ego-kupil-mestnyi-biznesmen#comments Can't download link content
-2024-07-17 12:03:40 https://ria.ru/20240717/evropa-1960044795.html Can't download link content
-2024-07-17 12:03:50 17 Can't compress the article
-2024-07-17 12:03:50 45 Can't compress the article
-2024-07-17 12:03:51 50 Can't compress the article
-2024-07-17 12:03:51 60 Can't compress the article
-2024-07-17 12:03:52 62 Can't compress the article
-2024-07-17 12:03:52 63 Can't compress the article
-2024-07-17 12:03:53 72 Can't compress the article
-2024-07-17 12:03:53 106 Can't compress the article
-2024-07-17 12:03:54 220 Can't compress the article
-2024-07-17 12:03:54 237 Can't compress the article
-2024-07-17 12:03:54 485 Can't compress the article
-2024-07-17 12:03:55 502 Can't compress the article
-2024-07-17 12:03:55 557 Can't compress the article
-2024-07-17 12:03:56 599 Can't compress the article
-2024-07-17 12:03:56 646 Can't compress the article
-2024-07-17 12:03:56 651 Can't compress the article
-2024-07-17 12:03:57 666 Can't compress the article
-2024-07-17 12:03:57 672 Can't compress the article
-2024-07-17 12:03:58 713 Can't compress the article
-2024-07-17 12:03:58 716 Can't compress the article
-2024-07-17 12:03:58 717 Can't compress the article
-2024-07-17 12:03:59 720 Can't compress the article
-2024-07-17 12:03:59 733 Can't compress the article
-2024-07-17 12:04:00 737 Can't compress the article
-2024-07-17 12:04:00 747 Can't compress the article
-2024-07-17 12:04:01 750 Can't compress the article
-2024-07-17 12:04:01 761 Can't compress the article
-2024-07-17 12:04:02 764 Can't compress the article
-2024-07-17 12:04:02 783 Can't compress the article
-2024-07-17 12:04:02 788 Can't compress the article
-2024-07-17 12:04:03 790 Can't compress the article
-2024-07-17 12:04:03 794 Can't compress the article
-2024-07-17 12:07:27 https://vc.ru/marketing/1313327-esli-nado-prodat-na-avito-obrashaites-futbolnyi-klub-iz-kazani-vystavil-sebya-na-prodazhu-na-avito-za-53-mln-rublei-ego-kupil-mestnyi-biznesmen Can't download link content
-2024-07-17 12:07:28 https://vc.ru/marketing/1313327-esli-nado-prodat-na-avito-obrashaites-futbolnyi-klub-iz-kazani-vystavil-sebya-na-prodazhu-na-avito-za-53-mln-rublei-ego-kupil-mestnyi-biznesmen#comments Can't download link content
-2024-07-17 12:07:30 https://ria.ru/20240717/evropa-1960044795.html Can't download link content
-2024-07-17 12:07:40 17 Can't compress the article
-2024-07-17 12:07:41 45 Can't compress the article
-2024-07-17 12:07:41 50 Can't compress the article
-2024-07-17 12:07:41 60 Can't compress the article
-2024-07-17 12:07:42 62 Can't compress the article
-2024-07-17 12:07:42 63 Can't compress the article
-2024-07-17 12:07:43 72 Can't compress the article
-2024-07-17 12:07:43 106 Can't compress the article
-2024-07-17 12:07:45 220 Can't compress the article
-2024-07-17 12:07:45 237 Can't compress the article
-2024-07-17 12:07:46 485 Can't compress the article
-2024-07-17 12:07:46 502 Can't compress the article
-2024-07-17 12:07:47 557 Can't compress the article
-2024-07-17 12:07:47 599 Can't compress the article
-2024-07-17 12:07:48 646 Can't compress the article
-2024-07-17 12:07:48 651 Can't compress the article
-2024-07-17 12:07:49 666 Can't compress the article
-2024-07-17 12:07:50 672 Can't compress the article
-2024-07-17 12:07:51 713 Can't compress the article
-2024-07-17 12:07:51 716 Can't compress the article
-2024-07-17 12:07:51 717 Can't compress the article
-2024-07-17 12:07:52 720 Can't compress the article
-2024-07-17 12:07:52 733 Can't compress the article
-2024-07-17 12:07:53 737 Can't compress the article
-2024-07-17 12:07:53 747 Can't compress the article
-2024-07-17 12:07:54 750 Can't compress the article
-2024-07-17 12:07:54 761 Can't compress the article
-2024-07-17 12:07:54 764 Can't compress the article
-2024-07-17 12:07:55 783 Can't compress the article
-2024-07-17 12:07:55 788 Can't compress the article
-2024-07-17 12:07:55 790 Can't compress the article
-2024-07-17 12:07:56 794 Can't compress the article
-2024-07-17 12:11:04 https://edition.cnn.com/2024/07/16/health/video/microplastics-nanoplastics-plastic-pollution-credit-card-digvid Can't download link content
-2024-07-17 12:11:09 https://edition.cnn.com/2024/07/16/us/video/chicago-tornado-warning-metereologists-reaction-digvid Can't download link content
-2024-07-17 12:11:11 https://lenta.ru/news/2024/07/16/byvshego-postavschika-formy-dlya-rosgvardii-otpravili-v-sizo-v-chem-ego-obvinyayut/ Can't download link content
-2024-07-17 12:11:14 https://lenta.ru/extlink/2024/07/12/v-podmoskovie-razbilsya-passazhirskiy-samolet-s-frantsuzskimi-dvigatelyami-kto-ispolzuet-eti-laynery-i-kuda-oni-letayut/?intlnk=true Can't download link content
-2024-07-17 12:11:16 https://lenta.ru/extlink/2024/07/15/v-indii-sostoyalas-svadba-veka-na-nee-potratili-600-millionov-dollarov-za-torzhestvom-sledil-ves-mir/?intlnk=true Can't download link content
-2024-07-17 12:11:18 https://russian.rt.com/ussr/article/1341591-naemniki-vsu-prestupleniya Can't download link content
-2024-07-17 12:11:21 https://lenta.ru/news/2024/07/16/v-ssha-zayavili-chto-ukraina-razrabatyvaet-plan-zaversheniya-konflikta-s-rossiey-v-chem-on-zaklyuchaetsya/ Can't download link content
-2024-07-17 12:11:24 https://vc.ru/marketing/1313327-esli-nado-prodat-na-avito-obrashaites-futbolnyi-klub-iz-kazani-vystavil-sebya-na-prodazhu-na-avito-za-53-mln-rublei-ego-kupil-mestnyi-biznesmen Can't download link content
-2024-07-17 12:11:26 https://russian.rt.com/ussr/article/1341591-naemniki-vsu-prestupleniya#href_spot-im Can't download link content
-2024-07-17 12:11:28 https://vc.ru/marketing/1313327-esli-nado-prodat-na-avito-obrashaites-futbolnyi-klub-iz-kazani-vystavil-sebya-na-prodazhu-na-avito-za-53-mln-rublei-ego-kupil-mestnyi-biznesmen#comments Can't download link content
-2024-07-17 12:11:31 https://lenta.ru/articles/2024/07/07/labio/ Can't download link content
-2024-07-17 12:11:33 https://lenta.ru/articles/2024/07/14/hemsworth/ Can't download link content
-2024-07-17 12:11:36 https://lenta.ru/brief/2024/07/14/kotelnikovrazborrr/ Can't download link content
-2024-07-17 12:11:38 https://lenta.ru/extlink/2024/07/13/dvoe-priblizhennyh-byvshego-zamministra-oborony-ivanova-skonchalis-v-odin-den/?intlnk=true Can't download link content
-2024-07-17 12:11:41 https://lenta.ru/articles/2024/07/08/pol/ Can't download link content
-2024-07-17 12:11:43 https://life.ru/p/1608090 Can't download link content
-2024-07-17 12:11:47 https://edition.cnn.com/2024/07/16/science/new-zealand-spade-toothed-whale-intl-hnk/index.html Can't download link content
-2024-07-17 12:11:49 https://life.ru/p/1671992 Can't download link content
-2024-07-17 12:11:51 https://lenta.ru/news/2024/07/15/ambani-svadba-12-14-iyulya/ Can't download link content
-2024-07-17 12:11:54 https://ria.ru/20240717/evropa-1960044795.html Can't download link content
-2024-07-17 12:18:33 https://lenta.ru/news/2024/07/17/byvshiy-angel-victoria-s-secret-snyalas-v-oblegayuschem-naryade-bez-byustgaltera/ Can't download link content
-2024-07-17 12:22:01 https://edition.cnn.com/2024/07/17/politics/video/jd-vance-trump-biden-campaign-response-digvid Can't download link content
-2024-07-17 12:24:02 https://edition.cnn.com/2024/07/16/politics/video/nikki-haley-trump-endorsement-republican-national-convention-digvid Can't download link content
-2024-07-17 12:57:59 https://edition.cnn.com/2024/07/16/health/video/microplastics-nanoplastics-plastic-pollution-credit-card-digvid Can't download link content
-2024-07-17 12:58:04 https://edition.cnn.com/2024/07/16/us/video/chicago-tornado-warning-metereologists-reaction-digvid Can't download link content
-2024-07-17 12:58:06 https://lenta.ru/news/2024/07/16/byvshego-postavschika-formy-dlya-rosgvardii-otpravili-v-sizo-v-chem-ego-obvinyayut/ Can't download link content
-2024-07-17 12:58:09 https://lenta.ru/extlink/2024/07/12/v-podmoskovie-razbilsya-passazhirskiy-samolet-s-frantsuzskimi-dvigatelyami-kto-ispolzuet-eti-laynery-i-kuda-oni-letayut/?intlnk=true Can't download link content
-2024-07-17 12:58:11 https://lenta.ru/extlink/2024/07/15/v-indii-sostoyalas-svadba-veka-na-nee-potratili-600-millionov-dollarov-za-torzhestvom-sledil-ves-mir/?intlnk=true Can't download link content
-2024-07-17 12:58:13 https://russian.rt.com/ussr/article/1341591-naemniki-vsu-prestupleniya Can't download link content
-2024-07-17 12:58:15 https://lenta.ru/news/2024/07/16/v-ssha-zayavili-chto-ukraina-razrabatyvaet-plan-zaversheniya-konflikta-s-rossiey-v-chem-on-zaklyuchaetsya/ Can't download link content
-2024-07-17 12:58:19 https://vc.ru/marketing/1313327-esli-nado-prodat-na-avito-obrashaites-futbolnyi-klub-iz-kazani-vystavil-sebya-na-prodazhu-na-avito-za-53-mln-rublei-ego-kupil-mestnyi-biznesmen Can't download link content
-2024-07-17 12:58:21 https://russian.rt.com/ussr/article/1341591-naemniki-vsu-prestupleniya#href_spot-im Can't download link content
-2024-07-17 12:58:24 https://vc.ru/marketing/1313327-esli-nado-prodat-na-avito-obrashaites-futbolnyi-klub-iz-kazani-vystavil-sebya-na-prodazhu-na-avito-za-53-mln-rublei-ego-kupil-mestnyi-biznesmen#comments Can't download link content
-2024-07-17 12:58:26 https://lenta.ru/articles/2024/07/07/labio/ Can't download link content
-2024-07-17 12:58:29 https://lenta.ru/articles/2024/07/14/hemsworth/ Can't download link content
-2024-07-17 12:58:31 https://lenta.ru/brief/2024/07/14/kotelnikovrazborrr/ Can't download link content
-2024-07-17 12:58:33 https://lenta.ru/extlink/2024/07/13/dvoe-priblizhennyh-byvshego-zamministra-oborony-ivanova-skonchalis-v-odin-den/?intlnk=true Can't download link content
-2024-07-17 12:58:36 https://lenta.ru/articles/2024/07/08/pol/ Can't download link content
-2024-07-17 12:58:38 https://life.ru/p/1608090 Can't download link content
-2024-07-17 12:58:43 https://edition.cnn.com/2024/07/16/science/new-zealand-spade-toothed-whale-intl-hnk/index.html Can't download link content
-2024-07-17 12:58:45 https://life.ru/p/1671992 Can't download link content
-2024-07-17 12:58:47 https://lenta.ru/news/2024/07/15/ambani-svadba-12-14-iyulya/ Can't download link content
-2024-07-17 12:58:50 https://ria.ru/20240717/evropa-1960044795.html Can't download link content
-2024-07-17 12:58:53 https://lenta.ru/news/2024/07/17/byvshiy-angel-victoria-s-secret-snyalas-v-oblegayuschem-naryade-bez-byustgaltera/ Can't download link content
-2024-07-17 12:58:57 https://edition.cnn.com/2024/07/17/politics/video/jd-vance-trump-biden-campaign-response-digvid Can't download link content
-2024-07-17 12:59:01 https://edition.cnn.com/2024/07/16/politics/video/nikki-haley-trump-endorsement-republican-national-convention-digvid Can't download link content
-2024-07-17 13:03:23 https://edition.cnn.com/2024/07/17/world/video/river-seine-paris-hidalgo-olympic-ldn-digvid Can't download link content
+2024-08-30 09:45:44 --- Can't open the users directory
+2024-08-30 09:54:56 --- Can't update users table
+2024-08-30 09:54:56 --- Can't get sent urls from database
+2024-08-30 09:54:56 --- Can't get sent urls from database
+2024-08-30 09:54:57 https://quote.ru URLs parsing fault
+2024-08-30 09:58:47 --- Can't get sent urls from database
+2024-08-30 09:58:47 --- Can't get sent urls from database
+2024-08-30 09:58:48 https://rbc.ru URLs parsing fault
+2024-08-30 09:59:02 --- Can't update users table
+2024-08-30 09:59:02 --- Can't update users table
+2024-08-30 09:59:02 --- Can't get sent urls from database
+2024-08-30 09:59:02 --- Can't get sent urls from database
+2024-08-30 09:59:05 https://thebell.io URLs parsing fault
+2024-08-31 13:45:32 https://rbc.ru URLs parsing fault
+2024-08-31 13:55:10 https://quote.ru/news/article/66d0b0d79a794701eeb18ba6 Can't download link content
+2024-08-31 13:56:17 https://quote.ru/news/article/66cf12819a79471f40743dfc Can't download link content
+2024-08-31 13:56:33 https://quote.ru/news/article/66cf12819a79471f40743dfc Can't download link content
+2024-08-31 13:56:48 https://www.rbc.ru/textonlines/18/04/2024/6216fb4d9a79474dc80e8821?from=newsfeed Can't download link content
+2024-08-31 13:59:11 https://thebell.io URLs parsing fault
+2024-08-31 14:05:10 https://thebell.io URLs parsing fault
+2024-08-31 14:05:39 https://thebell.io URLs parsing fault
+2024-08-31 14:09:50 https://www.interfax.ru/business URLs parsing fault
+2024-08-31 14:09:56 https://www.kommersant.ru URLs parsing fault
+2024-08-31 14:09:57 https://ru.investing.com/news/economy URLs parsing fault
+2024-08-31 14:10:00 https://www.forbes.ru/svoi-biznes/519925-cistyj-biznes-kak-sibiraki-zarabotali-na-himcistke-krossovok Can't download link content
+2024-08-31 14:11:32 https://www.interfax.ru/business URLs parsing fault
+2024-08-31 14:11:35 https://www.kommersant.ru URLs parsing fault
+2024-08-31 14:11:36 https://ru.investing.com/news/economy URLs parsing fault
+2024-08-31 14:11:44 https://www.forbes.ru/forbes-woman/520026-20-bogatejsih-zensin-rossii-2024 Can't download link content
+2024-08-31 14:17:53 https://ru.investing.com URLs parsing fault
+2024-08-31 14:18:49 https://ru.investing.com/analysis/article-200315118 Can't download link content
+2024-08-31 14:19:59 https://www.kommersant.ru/doc/6863525 Can't download link content
+2024-08-31 14:25:24 --- Can't get sent urls from database
+2024-08-31 14:25:25 https://rbc.ru URLs parsing fault
+2024-08-31 14:25:26 https://thebell.io URLs parsing fault
+2024-08-31 14:25:26 https://www.interfax.ru/business URLs parsing fault
+2024-08-31 14:25:29 https://www.kommersant.ru URLs parsing fault
+2024-08-31 14:25:30 https://ru.investing.com/news/economy URLs parsing fault
+2024-08-31 14:25:30 https://ria.ru URLs parsing fault
+2024-08-31 14:25:31 https://lenta.ru URLs parsing fault
+2024-08-31 14:25:52 https://www.forbes.ru/tekhnologii/520066-znaki-vremeni-pocemu-vazno-pomnit-o-razliciah-mezdu-tvorcami-i-potrebitelami Can't download link content
+2024-08-31 14:26:09 --- Can't get sent urls from database
+2024-08-31 14:27:19 https://thebell.io URLs parsing fault
+2024-08-31 14:27:26 https://www.forbes.ru/tekhnologii/520066-znaki-vremeni-pocemu-vazno-pomnit-o-razliciah-mezdu-tvorcami-i-potrebitelami Can't download link content
+2024-08-31 14:28:43 --- Can't get sent urls from database
+2024-08-31 14:29:32 https://thebell.io URLs parsing fault
+2024-08-31 14:30:13 https://www.forbes.ru/profile/489159-pavel-dubravskij Can't download link content
+2024-08-31 14:30:15 https://www.forbes.ru/profile/486594-alena-belaa Can't download link content
+2024-08-31 14:30:15 https://www.forbes.ru/biznes/520169-dorogie-deti-kak-rossiane-perestali-ekonomit-na-podgotovke-k-1-sentabra Can't download link content
+2024-08-31 14:30:15 https://www.forbes.ru/biznes/519875-pennaa-vecerinka-pocemu-pivo-v-rossii-prodolzaet-dorozat Can't download link content
+2024-08-31 14:30:16 https://www.forbes.ru/forbes-woman/520020-itogi-premii-forbes-woman-mercury-awards-2024 Can't download link content
+2024-08-31 14:30:18 https://www.forbes.ru/investicii/520110-strategia-atona-cto-pokupat-na-fondovom-rynke-do-konca-goda Can't download link content
+2024-08-31 14:30:19 https://www.forbes.ru/mneniya/519891-tretij-nelisnij-pocemu-robert-kennedi-mladsij-resil-pomoc-donal-du-trampu Can't download link content
+2024-08-31 14:30:28 https://www.forbes.ru/investicii/520113-sgenerirovali-ubytok-kak-minoritarii-irkutskenergo-osporili-uslovia-vykupa-akcij Can't download link content
+2024-08-31 14:30:28 https://www.forbes.ru/mneniya/520093-rublevaa-zona-kak-private-banking-v-rossii-stal-pocti-lokal-nym Can't download link content
+2024-08-31 14:30:28 https://www.forbes.ru/tekhnologii/519911-v-poiskah-poputcikov-mts-zapuskaet-akselerator-dla-travel-startapov Can't download link content
+2024-08-31 14:30:31 https://www.forbes.ru/profile/490299-ulia-petrova Can't download link content
+2024-08-31 14:30:31 https://www.forbes.ru/tekhnologii/520007-v-ugolok-durova-cto-govorit-eto-zaderzanie-ob-otnoseniah-obsestva-i-gosudarstva Can't download link content
+2024-08-31 14:30:35 https://www.forbes.ru/svoi-biznes/520295-startap-subbota-iski-k-osnovatelu-xsolla-i-magaziny-budusego-ot-vkusvilla Can't download link content
+2024-08-31 14:30:37 https://www.forbes.ru/prodovolstvennaya-bezopasnost/519645-gibloe-delo-bol-sinstvo-agrariev-ne-polucat-kompensacii-za-poteru-urozaa Can't download link content
+2024-08-31 14:30:37 https://www.forbes.ru/investicii/519919-cto-budet-s-kriptovalutoj-ton-posle-zaderzania-pavla-durova Can't download link content
+2024-08-31 14:30:41 https://www.forbes.ru/investicii/520023-s-dvuma-izvestnymi-kak-budet-rabotat-kombinacia-l-gotnyh-investscetov-i-pifov Can't download link content
+2024-08-31 14:30:43 https://www.forbes.ru/mneniya/519781-zamedlenie-reakcii-kak-youtube-stal-pohoz-na-zapadnye-golosa-sovetskih-vremen Can't download link content
+2024-08-31 14:30:45 https://www.forbes.ru/mneniya/520018-cenzura-v-blogosfere-k-cemu-gotovit-sa-rossijskim-pol-zovatelam Can't download link content
+2024-08-31 14:30:46 https://www.forbes.ru/mneniya/520100-zamykaa-krug-udastsa-li-zaversit-peregovory-po-gaze-do-prezidentskih-vyborov-v-ssa Can't download link content
+2024-08-31 14:30:46 https://www.forbes.ru/milliardery/519955-v-rossii-poavilas-novaa-zensina-milliarder Can't download link content
+2024-08-31 14:30:46 https://www.forbes.ru/podcasts/kak-zit-zizn-fomo-i-yolo/520001-ocen-strasno-byt-obycnymi-kak-problemy-s-samoocenkoj-opredelaut-nasu-zizn Can't download link content
+2024-08-31 14:30:46 https://www.forbes.ru/svoi-biznes/519750-kak-para-iz-rostova-na-donu-zapustila-brend-gel-lakov-i-zarabotala-milliony-rublej Can't download link content
+2024-08-31 14:30:46 https://www.forbes.ru/rubriki-kanaly/video/519856-ekonomist-sof-a-donec-forbes-esli-my-na-pike-to-sleduusee-dvizenie-budet-vniz Can't download link content
+2024-08-31 14:30:48 https://www.forbes.ru/biznes/519964-ssa-vvodat-novye-sankcii-protiv-rossijskogo-spg-naskol-ko-eto-ser-ezno Can't download link content
+2024-08-31 14:30:48 https://www.forbes.ru/tekhnologii/519931-zajti-cerez-cernyj-hod-vpn-servisy-v-tope-skacivaemyh-prilozenij-iz-za-youtube Can't download link content
+2024-08-31 14:30:49 https://www.forbes.ru/finansy/520016-donacislenia-posle-nalogovyh-proverok-ip-vyrosli-bolee-cem-vdvoe Can't download link content
+2024-08-31 14:30:52 https://www.forbes.ru/mneniya/519990-doktor-sejh-i-ego-prevoshoditel-stvo-pravila-delovoj-perepiski-ot-vostoka-do-zapada Can't download link content
+2024-08-31 14:30:52 https://www.forbes.ru/profile/360309-elena-ruzleva Can't download link content
+2024-08-31 14:30:52 https://www.forbes.ru/mneniya/520140-vostocnyj-mba-ekspress-kak-menaetsa-geografia-rossijskogo-biznes-obrazovania Can't download link content
+2024-08-31 14:30:52 https://www.forbes.ru/mneniya/519926-strana-kanatohodec-o-cem-govorit-vizit-prem-er-ministra-indii-v-kiev Can't download link content
+2024-08-31 14:30:53 https://www.forbes.ru/mneniya/519808-v-druzeskih-ob-atiah-drakona-prineset-li-kitaj-pol-zu-rossijskoj-otrasli-videoigr Can't download link content
+2024-08-31 14:30:56 https://www.forbes.ru/finansy/520105-zolotoj-klucik-private-banking-kak-banki-dla-millionerov-konkuriruut-mezdu-soboj Can't download link content
+2024-08-31 14:31:18 https://lenta.ru/articles/2024/08/28/esli-zapustit-pod-udalenie/ Can't download link content
+2024-08-31 14:42:11 https://lenta.ru/news/2024/08/31/stalo-izvestno-o-strahe-ssha-iz-za-otpravki-v-kiev-personala-dlya-obsluzhivaniya-f-16/ Can't download link content
+2024-08-31 14:43:28 https://lenta.ru/articles/2024/08/28/lurk/ Can't download link content
+2024-08-31 14:44:45 https://rsport.ria.ru/20240831/zverev-1969640657.html Can't download link content
+2024-08-31 14:46:02 https://www.kommersant.ru/doc/6921093?from=main Can't download link content
+2024-08-31 14:47:18 https://www.kommersant.ru/doc/6921418?from=main Can't download link content
+2024-08-31 14:55:26 https://www.interfax.ru/world/978916 Can't download link content
+2024-08-31 14:56:41 https://www.interfax.ru/business/978403?utm_source=mst_rd Can't download link content
+2024-08-31 14:57:57 https://lenta.ru/articles/2024/08/17/preobrazhenie-gospodne-v-2024-godu/ Can't download link content
+2024-08-31 14:59:14 https://www.kommersant.ru/doc/6921464?from=main Can't download link content
+2024-08-31 15:00:31 https://www.kommersant.ru/doc/6931862?from=top_main_10 Can't download link content
+2024-08-31 15:01:47 https://www.interfax.ru/business/978923 Can't download link content
+2024-08-31 15:12:33 https://my.kommersant.ru/issues.media/apk/androidApp-apk-release-5.1.5-276.apk Can't download link content
+2024-08-31 15:12:33 https://www.kommersant.ru/doc/6931504?from=main Can't download link content
+2024-08-31 15:12:33 https://www.kommersant.ru/doc/6920541?from=main Can't download link content
+2024-08-31 15:12:33 https://www.kommersant.ru/doc/6921449?from=main Can't download link content
+2024-08-31 15:12:33 https://ria.ru/20240831/demchik-1969653104.html Can't download link content
+2024-08-31 15:12:33 https://www.interfax.ru/russia/978267?utm_source=mst_rd Can't download link content
+2024-08-31 15:12:33 https://ria.ru/20240831/foto-1969482957.html Can't download link content
+2024-08-31 15:12:33 https://lenta.ru/news/2024/08/31/bespilotnik-sbili-v-rossiyskom-regione/ Can't download link content
+2024-08-31 15:12:33 https://www.kommersant.ru/doc/6931404?from=main Can't download link content
+2024-08-31 15:12:33 https://www.kommersant.ru/doc/6921404?from=main Can't download link content
+2024-08-31 15:12:33 https://www.kommersant.ru/doc/3688126?from=burger Can't download link content
+2024-08-31 15:12:33 https://lenta.ru/news/2024/08/31/boytsov-chvk-medved-perebrosyat-iz-afriki-v-kurskuyu-oblast-chto-izvestno-ob-etom-formirovanii/ Can't download link content
+2024-08-31 15:12:33 https://www.kommersant.ru/doc/6921455?from=main Can't download link content
+2024-08-31 15:12:33 https://ru.investing.com/news/economy/article-2494154 Can't download link content
+2024-08-31 15:12:33 https://www.rbc.ru/politics/31/08/2024/66d0ae559a7947862bb5534e?from=from_main_6 Can't download link content
+2024-08-31 15:12:33 https://lenta.ru/articles/2024/08/31/terakt/ Can't download link content
+2024-08-31 15:12:33 https://www.kommersant.ru/doc/6931408?from=main Can't download link content
+2024-08-31 15:12:33 https://lenta.ru/news/2024/08/31/putin-podaril/ Can't download link content
+2024-08-31 15:12:33 https://lenta.ru/articles/2024/08/25/pavla-durova-zaderzhali-vo-frantsii/ Can't download link content
+2024-08-31 15:12:33 https://www.interfax.ru/business/978929 Can't download link content
+2024-08-31 15:12:33 https://lenta.ru/news/2024/08/31/nhl-obvinili-v-obkradyvanii-rossiyskogo-hokkeya/ Can't download link content
+2024-08-31 15:12:33 https://www.rbc.ru/textonlines/18/04/2024/6216fb4d9a79474dc80e8821?from=newsfeed Can't download link content
+2024-08-31 15:12:33 https://www.kommersant.ru/doc/6931522?from=glavnoe_6 Can't download link content
+2024-08-31 15:12:33 https://www.kommersant.ru/doc/6905320?from=glavnoe_4 Can't download link content
+2024-08-31 15:12:33 https://www.kommersant.ru/doc/6864285 Can't download link content
+2024-08-31 15:12:33 https://lenta.ru/news/2024/08/30/vsu-obstrelyali-belgorod-iz-rszo-vampire-pogibli-pyat-mirnyh-zhiteley-esche-desyatki-postradali/ Can't download link content
+2024-08-31 15:12:33 https://rsport.ria.ru/20240831/futbol-1969631779.html Can't download link content
+2024-08-31 15:12:33 https://www.kommersant.ru/doc/6920727?from=main Can't download link content
+2024-08-31 15:12:33 https://ria.ru/20240831/samolet-1969671407.html Can't download link content
+2024-08-31 15:12:33 https://www.kommersant.ru/gallery/6878455?from=multimedia_9 Can't download link content
+2024-08-31 15:12:33 https://lenta.ru/news/2024/08/31/nahodyaschemusya-v-sizo-generalu-popovu-pozvolili-zakazyvat-edu-iz-magazina/ Can't download link content
+2024-08-31 15:12:33 https://www.kommersant.ru/doc/6907018?from=spend_time Can't download link content
+2024-08-31 15:12:33 https://ru.investing.com/analysis/article-200315090 Can't download link content
+2024-08-31 15:12:33 https://www.kommersant.ru/doc/6746707?from=actualno Can't download link content
+2024-08-31 15:12:33 https://www.interfax.ru/business/978875 Can't download link content
+2024-08-31 15:12:33 https://lenta.ru/news/2024/08/31/stali-izvestny-podrobnosti-o-sestre-novogo-figuranta-dela-o-terakte-v-krokus-siti-holle/ Can't download link content
+2024-08-31 15:12:33 https://lenta.ru/news/2024/08/31/ssha-otkazalis-priznat-prisutstvie-svoih-naemnikov-v-kurskoy-oblasti/ Can't download link content
+2024-08-31 15:12:33 https://lenta.ru/news/2024/08/30/nad-rossiey-za-noch-sbili-pochti-20-bespilotnikov-vsu-pytalis-atakovat-aeroport-kalugi/ Can't download link content
+2024-08-31 15:12:33 https://lenta.ru/news/2024/08/31/rossiyskaya-armiya-zanyala-kirovo-v-dnr/ Can't download link content
+2024-08-31 15:12:33 https://moslenta.ru/news/lyudi/vrach-rasskazala-o-zapakhe-zdorovogo-cheloveka-30-08-2024.htm Can't download link content
+2024-08-31 15:12:33 https://lenta.ru/news/2024/08/31/zaderzhannyy-v-adygee-verbovschik-terroristov-hotel-sbezhat-v-turtsiyu/ Can't download link content
+2024-08-31 15:12:33 https://www.kommersant.ru/doc/6921185 Can't download link content
+2024-08-31 15:12:33 https://www.interfax.ru/business/978950 Can't download link content
+2024-08-31 15:12:33 https://www.kommersant.ru/doc/6879978 Can't download link content
+2024-08-31 15:12:33 https://www.rbc.ru/society/31/08/2024/66d2f5099a79478e66a24369?from=from_main_4 Can't download link content
+2024-08-31 15:12:33 https://lenta.ru/news/2024/08/31/rossiyskiy-posol-zayavil-o-verbovke-ukrainoy-naemnikov-v-gaage/ Can't download link content
+2024-08-31 15:12:33 https://lenta.ru/news/2024/08/31/poyavilos-video-popadaniya-snaryada-v-avtomobil-vo-vremya-obstrela-belgoroda/ Can't download link content
+2024-08-31 15:12:33 https://lenta.ru/news/2024/08/31/v-dele-o-nekachestvennyh-bronezhiletah-poyavyatsya-novye-figuranty/ Can't download link content
+2024-08-31 15:12:33 https://lenta.ru/articles/2024/08/22/strelcov/ Can't download link content
+2024-08-31 15:12:33 https://www.rbc.ru/politics/31/08/2024/66d2e3a69a794710d70ea787?from=newsfeed Can't download link content
+2024-08-31 15:12:33 https://www.interfax.ru/world/978872 Can't download link content
+2024-08-31 15:12:33 https://lenta.ru/news/2024/08/31/ekipazh-propavshego-na-kamchatke-vertoleta-mi-8-ne-soobschal-o-nepoladkah/ Can't download link content
+2024-08-31 15:12:33 https://lenta.ru/news/2024/08/31/pogibshiy-pri-krushenii-istrebitelya-f-16-ukrainets-agitiroval-za-peredachu-kievu-samoletov/ Can't download link content
+2024-08-31 15:12:33 https://lenta.ru/news/2024/08/31/v-mid-dopustili-pred-yavlenie-obvineniya-postavschikam-oruzhiya-dlya-vsu/ Can't download link content
+2024-08-31 15:12:33 https://lenta.ru/news/2024/08/31/v-mid-rossii-nazvali-glavnyh-postavschikov-oruzhiya-vsu/ Can't download link content
+2024-08-31 15:12:33 https://ru.investing.com/news/forex-news/article-2494371 Can't download link content
+2024-08-31 15:12:33 https://ru.investing.com/news/stock-market-news/article-2494750 Can't download link content
+2024-08-31 15:12:33 https://www.sport-interfax.ru/978987 Can't download link content
+2024-08-31 15:12:33 https://www.kommersant.ru/doc/6920513?from=main Can't download link content
+2024-08-31 15:12:33 https://lenta.ru/news/2024/08/31/tramp-nazval-kamalu-harris-defektivnoy/ Can't download link content
+2024-08-31 15:12:33 https://ria.ru/20240831/kirovo-1969657503.html Can't download link content
+2024-08-31 15:12:33 https://ria.ru/20240831/mi-8-1969642157.html Can't download link content
+2024-08-31 15:12:33 https://www.rbc.ru/society/31/08/2024/66d2d52a9a794730608a16b3?from=from_main_10 Can't download link content
+2024-08-31 15:12:33 https://ria.ru/20240830/konkurs-1969251226.html Can't download link content
+2024-08-31 15:12:33 https://www.kommersant.ru/doc/6917393?from=spend_time Can't download link content
+2024-08-31 15:12:33 https://lenta.ru/extlink/2024/08/31/volki-lyudoedy-rasterzali-devyat-chelovek/?intlnk=true Can't download link content
+2024-08-31 15:12:33 https://www.interfax.ru/business/978876 Can't download link content
+2024-08-31 15:12:33 https://lenta.ru/extlink/2024/08/28/kriptovalyuta-ton-obrushilas-posle-zaderzhaniya-durova/?intlnk=true Can't download link content
+2024-08-31 15:12:33 https://lenta.ru/news/2024/08/30/igravshiy-v-rossii-ukrainskiy-futbolist-prizval-vsu-k-raspravam-v-kurskoy-oblasti-ego-mat-zhivet-v-kurske/ Can't download link content
+2024-08-31 15:12:33 https://ria.ru/20240831/simonjan-1969638673.html Can't download link content
+2024-08-31 15:12:33 https://ria.ru/20240831/wp-1969667751.html?rcmd_alg=slotter Can't download link content
+2024-08-31 15:12:33 https://www.kommersant.ru/doc/6904431?from=spend_time Can't download link content
+2024-08-31 15:12:33 https://lenta.ru/news/2024/08/31/v-mid-rossii-rasskazali-o-shantazhe-sotrudnikov-zaporozhskoy-aes-so-storony-kieva/ Can't download link content
+2024-08-31 15:12:33 https://www.kommersant.ru/doc/6920665?from=most_read_5 Can't download link content
+2024-08-31 15:12:33 https://www.kommersant.ru/doc/6863525 Can't download link content
+2024-08-31 15:12:33 https://lenta.ru/news/2024/08/31/v-moskve-ekstrenno-gospitalizirovali-ottsa-filippa-kirkorova/ Can't download link content
+2024-08-31 15:12:33 https://lenta.ru/articles/2024/08/29/pokrovsk/ Can't download link content
+2024-08-31 15:12:33 https://lenta.ru/news/2024/08/31/rossiya-sohranila-mirovoe-liderstvo-v-eksporte-gaza/ Can't download link content
+2024-08-31 15:12:33 https://www.interfax.ru/business/978948 Can't download link content
+2024-08-31 15:12:33 https://www.interfax.ru/world/978132?utm_source=ed_ch Can't download link content
+2024-08-31 15:12:33 https://www.kommersant.ru/doc/6921410?from=actualno Can't download link content
+2024-08-31 15:12:33 https://lenta.ru/news/2024/08/31/trener-inter-mayami-rasskazal-o-sostoyanii-zdorovya-travmirovannogo-messi/ Can't download link content
+2024-08-31 15:12:33 https://www.interfax.ru/business/978947 Can't download link content
+2024-08-31 15:12:33 https://lenta.ru/news/2024/08/31/stoltenberg-nazval-nastuplenie-vsu-na-kurskuyu-oblast-zakonnym/ Can't download link content
+2024-08-31 15:12:33 https://www.interfax.ru/moscow/978999 Can't download link content
+2024-08-31 15:12:33 https://www.kommersant.ru/doc/6931360?from=main Can't download link content
+2024-08-31 15:12:33 https://ria.ru/20240830/kursk-1969326854.html Can't download link content
+2024-08-31 15:12:33 https://lenta.ru/news/2024/08/31/figurant-dela-o-smerti-mettyu-perri-priznal-vinu/ Can't download link content
+2024-08-31 15:12:33 https://www.autonews.ru/news/6152bccd9a7947818426726c Can't download link content
+2024-08-31 15:12:33 https://ria.ru/20240831/stoltenberg-1969636435.html?rcmd_alg=slotter Can't download link content
+2024-08-31 15:12:33 https://www.kommersant.ru/doc/6931516?from=glavnoe_5 Can't download link content
+2024-08-31 15:12:33 https://lenta.ru/extlink/2024/08/14/takogo-uzhasnogo-otdyha-u-menya-esche-ne-bylo/?intlnk=true Can't download link content
+2024-08-31 15:12:33 https://www.kommersant.ru/doc/6921415?from=main Can't download link content
+2024-08-31 15:12:33 https://www.rbc.ru/politics/31/08/2024/66d267809a7947aa38ddc47e?from=from_main_14 Can't download link content
+2024-08-31 15:12:33 https://www.kommersant.ru/doc/6921334?from=main Can't download link content
+2024-08-31 15:12:33 https://www.rbc.ru/politics/31/08/2024/66d2dee59a79470b755e53a7?from=from_main_13 Can't download link content
+2024-08-31 15:12:33 https://www.rbc.ru/society/31/08/2024/66c3b9599a79474b3f88cc7c?from=from_main_17 Can't download link content
+2024-08-31 15:12:33 https://www.autonews.ru/news/60ec3bf79a7947f4121cfc56 Can't download link content
+2024-08-31 15:12:33 https://pro.rbc.ru/demo/65a4f9d89a7947291178c1f6?from=from_main_5&utm_source=rbc.ru&utm_medium=inhouse_media&utm_campaign=lines_5&utm_content=65a4f9d89a7947291178c1f6&utm_term=10.4Z_noauth_alt Can't download link content
+2024-08-31 15:12:33 https://www.interfax.ru/business/978925 Can't download link content
+2024-08-31 15:12:33 https://www.interfax.ru/business/978914 Can't download link content
+2024-08-31 15:12:33 https://www.kommersant.ru/gallery/6906825?from=multimedia_10 Can't download link content
+2024-08-31 15:12:33 https://lenta.ru/news/2024/08/31/mchs-rossii-prinyalo-uchastie-v-tushenii-pozhara-v-serbii/ Can't download link content
+2024-08-31 15:12:33 https://www.interfax.ru/business/978954 Can't download link content
+2024-08-31 15:12:33 https://lenta.ru/news/2024/08/30/dostoynoe-nachalo-dlya-chudo-oruzhiya-v-rossii-otreagirovali-na-unichtozhenie-f-16-vsu-amerikanskoy-raketoy-patriot/ Can't download link content
+2024-08-31 15:12:33 https://lenta.ru/news/2024/08/31/mak-predstavil-promezhutochnyy-otchet-po-krusheniyu-ssj-100-v-podmoskovie-v-dokumente-nazvana/ Can't download link content
+2024-08-31 15:12:33 https://lenta.ru/news/2024/08/31/muzhchina-napal-na-stolichnogo-taksista-iz-za-nezhelaniya-platit-za-proezd/ Can't download link content
+2024-08-31 15:12:33 https://quote.ru/news/article/66d19c4f9a7947f592f1cecc?from=from_main_12 Can't download link content
+2024-08-31 15:12:33 https://lenta.ru/news/2024/08/31/simonyan-poobeschala-oplatit-pereezd-dlya-zhiteley-prigranichya/ Can't download link content
+2024-08-31 15:12:33 https://www.kommersant.ru/doc/6931521?from=main Can't download link content
+2024-08-31 15:12:33 https://ria.ru/20240831/kardiolog-1969620346.html Can't download link content
+2024-08-31 15:12:33 https://lenta.ru/articles/2024/08/29/bez-raboty/ Can't download link content
+2024-08-31 15:12:33 https://lenta.ru/extlink/2024/08/30/mozhet-vy-agent-tsru-kak-fsb-udalos-nakryt-samuyu-krupnuyu-i-tainstvennuyu-hakerskuyu-gruppirovku-rossii/?intlnk=true Can't download link content
+2024-08-31 15:12:33 https://lenta.ru/news/2024/08/31/touristsscams/ Can't download link content
+2024-08-31 15:12:33 https://lenta.ru/articles/2024/08/31/ves-mir-zhdet-gladiator-2-ridli-skotta/ Can't download link content
+2024-08-31 15:12:33 https://www.kommersant.ru/doc/6919957?from=most_read_3 Can't download link content
+2024-08-31 15:12:33 https://lenta.ru/news/2024/08/31/vs-rossii-sorvali-popytki-atak-vsu-v-kurskoy-oblasti/ Can't download link content
+2024-08-31 15:12:33 https://lenta.ru/news/2024/08/30/koroleva-marafonov-blinovskaya-chastichno-priznala-vinu-v-neuplate-nalogov/ Can't download link content
+2024-08-31 15:12:33 https://lenta.ru/articles/2024/08/22/akhmed/ Can't download link content
+2024-08-31 15:12:33 https://lenta.ru/news/2024/08/31/mutsenietse-vyskazalas-posle-suda-s-priluchnym-za-detey/ Can't download link content
+2024-08-31 15:12:33 https://lenta.ru/news/2024/08/31/na-zapade-zayavili/ Can't download link content
+2024-08-31 15:12:33 https://www.kommersant.ru/doc/6920731?from=main Can't download link content
+2024-08-31 15:12:33 https://www.rbc.ru/society/31/08/2024/66d2f5099a79478e66a24369?from=newsfeed Can't download link content
+2024-08-31 15:12:33 https://lenta.ru/news/2024/08/31/trener-predupredil-ob-opasnosti-plohoy-rastyazhki/ Can't download link content
+2024-08-31 15:12:33 https://www.kommersant.ru/doc/6921424?from=main Can't download link content
+2024-08-31 15:12:33 https://lenta.ru/news/2024/08/31/poyavilis-podrobnosti-o-dele-eks-glavy-upravleniya-minoborony/ Can't download link content
+2024-08-31 15:12:33 https://www.interfax.ru/business/978915 Can't download link content
+2024-08-31 15:12:33 https://lenta.ru/news/2024/08/31/fsb-iz-yala-500-kilogrammov-vzryvchatki-u-podpolnyh-oruzheynikov/ Can't download link content
+2024-08-31 15:12:33 https://www.kommersant.ru/doc/6920665?from=main Can't download link content
+2024-08-31 15:12:33 https://www.kommersant.ru/doc/6891088?from=spend_time Can't download link content
+2024-08-31 15:12:33 https://www.kommersant.ru/doc/6921451?from=main Can't download link content
+2024-08-31 15:12:33 https://www.interfax.ru/culture/977938 Can't download link content
+2024-08-31 15:12:33 https://www.kommersant.ru/doc/6920711?from=most_read_1 Can't download link content
+2024-08-31 15:12:33 https://www.interfax.ru/business/978864 Can't download link content
+2024-08-31 15:12:33 https://lenta.ru/news/2024/08/30/komanduyuschiy-vozdushnymi-silami-vsu-uvolen-posle-poteri-f-16-pered-otstavkoy-general-publichno-ugrozhal-deputatu/ Can't download link content
+2024-08-31 15:12:33 https://ria.ru/20240831/neft-1969626813.html Can't download link content
+2024-08-31 15:12:33 https://lenta.ru/news/2024/08/31/sk-nachal-proverku-posle-propazhi-vertoleta-s-lyudmi-na-bortu-na-kamchatke/ Can't download link content
+2024-08-31 15:12:33 https://lenta.ru/news/2024/08/31/pogodnye-usloviya-uslozhnili-poiski-propavshego-na-kamchatke-vertoleta/ Can't download link content
+2024-08-31 15:12:33 https://www.interfax.ru/russia/978340?utm_source=mst_rd Can't download link content
+2024-08-31 15:12:33 https://www.kommersant.ru/doc/6906091?from=spend_time Can't download link content
+2024-08-31 15:12:33 https://lenta.ru/news/2024/08/31/vsu-vystrelili-v-spinu-ubegavshego-monaha-pri-atake-na-kurskuyu-oblast/ Can't download link content
+2024-08-31 15:12:33 https://www.kommersant.ru/doc/6918278?from=review_main Can't download link content
+2024-08-31 15:12:33 https://www.interfax.ru/business/978942 Can't download link content
+2024-08-31 15:12:33 https://www.rbc.ru/politics/31/08/2024/66d2dee59a79470b755e53a7?from=newsfeed Can't download link content
+2024-08-31 15:12:33 https://ria.ru/20240831/sdelka-1969628187.html Can't download link content
+2024-08-31 15:12:33 https://www.interfax.ru/business/978932 Can't download link content
+2024-08-31 15:12:33 https://www.kommersant.ru/doc/6921420?from=main Can't download link content
+2024-08-31 15:12:33 https://www.rbc.ru/person/64b516f99a79472441cb67f8 Can't download link content
+2024-08-31 15:12:33 https://www.kommersant.ru/doc/6931482?from=main Can't download link content
+2024-08-31 15:12:33 https://www.rbc.ru/technology_and_media/31/08/2024/66d2eb3b9a7947f697225de5?from=newsfeed Can't download link content
+2024-08-31 15:12:33 https://ria.ru/20240831/udary-1969567824.html Can't download link content
+2024-08-31 15:12:33 https://www.interfax.ru/business/978938 Can't download link content
+2024-08-31 15:12:33 https://lenta.ru/articles/2024/08/29/rds/ Can't download link content
+2024-08-31 15:12:33 https://www.interfax.ru/business/978873 Can't download link content
+2024-08-31 15:12:33 https://www.kommersant.ru/gallery/6920668?from=multimedia_1 Can't download link content
+2024-08-31 15:12:33 https://www.interfax.ru/world/978892 Can't download link content
+2024-08-31 15:12:33 https://www.rbc.ru/life/news/64888fdf9a79477a0585d069 Can't download link content
+2024-08-31 15:12:33 https://www.interfax.ru/business/978866 Can't download link content
+2024-08-31 15:12:33 https://www.rbc.ru/politics/31/08/2024/66d2cd609a7947c3da2b6302?from=from_main_8 Can't download link content
+2024-08-31 15:12:33 https://www.kommersant.ru/gallery/6921075?from=multimedia_3 Can't download link content
+2024-08-31 15:12:33 https://lenta.ru/extlink/2024/08/28/durov-vzlom/?intlnk=true Can't download link content
+2024-08-31 15:12:33 https://lenta.ru/news/2024/08/31/rossiyskie-matrosy-spasli-pyateryh-lyudey-v-tihom-okeane/ Can't download link content
+2024-08-31 15:12:33 https://www.kommersant.ru/gallery/6906051?from=multimedia_8 Can't download link content
+2024-08-31 15:12:33 https://lenta.ru/extlink/2024/08/21/na-rossiyskih-turistov-ohotyatsya-moshenniki/?intlnk=true Can't download link content
+2024-08-31 15:12:33 https://www.kommersant.ru/doc/6920519?from=main Can't download link content
+2024-08-31 15:12:33 https://www.kommersant.ru/doc/6904259?from=spend_time Can't download link content
+2024-08-31 15:12:33 https://www.interfax.ru/business/978906 Can't download link content
+2024-08-31 15:12:33 https://ria.ru/20240831/rossiya-1969559291.html Can't download link content
+2024-08-31 15:12:33 https://www.interfax.ru/business/978933 Can't download link content
+2024-08-31 15:12:33 https://www.kommersant.ru/doc/6890109?from=most_read_2 Can't download link content
+2024-08-31 15:12:33 https://www.interfax.ru/business/978936 Can't download link content
+2024-08-31 15:12:33 https://lenta.ru/news/2024/08/31/imuschestvo-eks-zamglavy-minoborony-predlozhili-obratit-v-dohod-gosudarstva/ Can't download link content
+2024-08-31 15:12:33 https://www.kommersant.ru/doc/6931428?from=main Can't download link content
+2024-08-31 15:12:33 https://www.interfax.ru/world/978883 Can't download link content
+2024-08-31 15:12:33 https://www.kommersant.ru/doc/6920616?from=main Can't download link content
+2024-08-31 15:12:33 https://www.interfax.ru/business/978901 Can't download link content
+2024-08-31 15:12:33 https://lenta.ru/news/2024/08/31/v-rossii-rasskazali-ob-obstoyatelstvah-unichtozheniya-f-16/ Can't download link content
+2024-08-31 15:12:33 https://lenta.ru/news/2024/08/31/chast-rossiyan-predupredili-ob-opasnosti-snizheniya-vesa/ Can't download link content
+2024-08-31 15:12:33 https://www.kommersant.ru/doc/6931879?from=top_main_9 Can't download link content
+2024-08-31 15:12:33 https://www.kommersant.ru/doc/6921431?from=main Can't download link content
+2024-08-31 15:12:33 https://www.kommersant.ru/doc/6891511?from=author_1 Can't download link content
+2024-08-31 15:12:33 https://www.kommersant.ru/doc/6917256?from=spend_time Can't download link content
+2024-08-31 15:12:33 https://www.rbc.ru/sport/31/08/2024/66d2f9349a7947a77efac0fb?from=newsfeed Can't download link content
+2024-08-31 15:12:33 https://lenta.ru/articles/2024/08/23/terrorists/ Can't download link content
+2024-08-31 15:12:33 https://lenta.ru/news/2024/08/31/na-kamchatke-propal-vertolet-s-tremya-lyudmi-na-bortu/ Can't download link content
+2024-08-31 15:12:33 https://lenta.ru/news/2024/08/31/zenit-nazvali-futbolnym-kashalotom/ Can't download link content
+2024-08-31 15:12:33 https://lenta.ru/news/2024/08/31/stalo-izvestno-o-bolshem-chisle-passazhirov-propavshego-na-kamchatke-vertoleta/ Can't download link content
+2024-08-31 15:12:33 https://www.interfax.ru/business/978902 Can't download link content
+2024-08-31 15:12:33 https://www.kommersant.ru/gallery/6918007?from=multimedia_7 Can't download link content
+2024-08-31 15:12:33 https://www.rbc.ru/technology_and_media/31/08/2024/66d2eb3b9a7947f697225de5?from=from_main_1 Can't download link content
+2024-08-31 15:12:33 https://www.kommersant.ru/doc/6904257?from=spend_time Can't download link content
+2024-08-31 15:12:33 https://www.kommersant.ru/doc/6931884?from=top_main_8 Can't download link content
+2024-08-31 15:12:33 https://ria.ru/20240831/sheremetevo-1969663381.html Can't download link content
+2024-08-31 15:12:33 https://rsport.ria.ru/20240831/touni-1969646418.html Can't download link content
+2024-08-31 15:12:33 https://ria.ru/20240831/nefteprodukty-1969636950.html Can't download link content
+2024-08-31 15:12:33 https://www.rbc.ru/society/31/08/2024/66d2c8a39a79472f2eb4c00a?from=from_main_9 Can't download link content
+2024-08-31 15:12:33 https://www.rbc.ru/sport/31/08/2024/66d2f16a9a7947d34c79c6e1?from=from_main_3 Can't download link content
+2024-08-31 15:12:33 https://www.kommersant.ru/doc/6920757?from=review_main Can't download link content
+2024-08-31 15:12:33 https://www.kommersant.ru/gallery/2847625?from=multimedia_12 Can't download link content
+2024-08-31 15:12:33 https://www.kommersant.ru/doc/6891510?from=author_3 Can't download link content
+2024-08-31 15:12:33 https://www.kommersant.ru/gallery/6918087?from=multimedia_5 Can't download link content
+2024-08-31 15:12:33 https://lenta.ru/news/2024/08/31/v-turtsii-proizoshlo-vooruzhennoe-napadenie-na-bolnitsu/ Can't download link content
+2024-08-31 15:12:33 https://lenta.ru/news/2024/08/31/gendirektor-arianespace-otkazalsya-obsuzhdat-zamenu-naydennyh-na-svalke-bakov-vega/ Can't download link content
+2024-08-31 15:12:33 https://www.kommersant.ru/doc/6906977?from=glavnoe_1 Can't download link content
+2024-08-31 15:12:33 https://lenta.ru/news/2024/08/31/sem-amerikanskih-voennyh-postradali-v-operatsii-protiv-terroristov-v-irake/ Can't download link content
+2024-08-31 15:12:33 https://www.kommersant.ru/doc/6920480?from=spot Can't download link content
+2024-08-31 15:12:33 https://www.interfax.ru/business/978946 Can't download link content
+2024-08-31 15:12:33 https://ria.ru/20240831/armeniya-1969667418.html?rcmd_alg=slotter Can't download link content
+2024-08-31 15:12:33 https://www.rbc.ru/sport/31/08/2024/66d2d9729a7947941663de34?from=newsfeed Can't download link content
+2024-08-31 15:12:33 https://lenta.ru/articles/2024/08/30/10-let/ Can't download link content
+2024-08-31 15:12:33 https://www.interfax.ru/business/978917 Can't download link content
+2024-08-31 15:12:33 https://www.kommersant.ru/doc/6921092?from=main Can't download link content
+2024-08-31 15:12:33 https://rsport.ria.ru/20240831/sterling-1969630988.html Can't download link content
+2024-08-31 15:12:33 https://www.kommersant.ru/doc/6921097?from=spot Can't download link content
+2024-08-31 15:12:33 https://www.kommersant.ru/doc/6921006?from=author_2 Can't download link content
+2024-08-31 15:12:33 https://ria.ru/20240831/miroshnik-1969602645.html Can't download link content
+2024-08-31 15:12:33 https://lenta.ru/news/2024/08/31/nezhelanie-ssha-otpravlyat-v-kiev-personal-dlya-obsluzhivaniya-f-16-ob-yasnili/ Can't download link content
+2024-08-31 15:12:33 https://ria.ru/20240831/udar-1969652131.html Can't download link content
+2024-08-31 15:12:33 https://lenta.ru/news/2024/08/31/v-permskom-krae-zaderzhali-podozrevaemogo-v-rasprave-boytsa-chvk-vagner/ Can't download link content
+2024-08-31 15:12:33 https://www.kommersant.ru/doc/6931494?from=top_main_6 Can't download link content
+2024-08-31 15:12:33 https://www.rbc.ru/person/660946559a7947d75afdc6ba Can't download link content
+2024-08-31 15:12:33 https://ria.ru/20240831/spasenie-1969663048.html Can't download link content
+2024-08-31 15:12:33 https://ria.ru/20240831/presechenie-1969630189.html Can't download link content
+2024-08-31 15:12:33 https://lenta.ru/articles/2024/08/30/otvazhniy/ Can't download link content
+2024-08-31 15:12:33 https://www.kommersant.ru/doc/6918277?from=review_main Can't download link content
+2024-08-31 15:12:33 https://lenta.ru/articles/2024/08/20/ospa-obezyan-chto-nuzhno-znat/ Can't download link content
+2024-08-31 15:12:33 https://lenta.ru/news/2024/08/31/kirkorov-vypustit-23-minutnyy-klip-s-kridom-i-asti/ Can't download link content
+2024-08-31 15:12:33 https://www.autonews.ru/news/641aa0eb9a7947d3b55079b9 Can't download link content
+2024-08-31 15:12:33 https://www.interfax.ru/world/978971 Can't download link content
+2024-08-31 15:12:33 https://www.kommersant.ru/doc/6921321?from=main Can't download link content
+2024-08-31 15:12:33 https://lenta.ru/news/2024/08/31/vooruzhennye-muzhchiny-na-vnedorozhnike-napali-na-svadebnyy-avtobus-v-podmoskovie/ Can't download link content
+2024-08-31 15:12:33 https://ria.ru/20240831/mask-1969621552.html Can't download link content
+2024-08-31 15:12:33 https://lenta.ru/news/2024/08/31/durov-rasskazal-o-kontaktah-s-kontrrazvedkoy-frantsii-do-svoego-aresta/ Can't download link content
+2024-08-31 15:12:33 https://ria.ru/20240831/ataka-1969671314.html?rcmd_alg=slotter Can't download link content
+2024-08-31 15:12:33 https://www.interfax.ru/russia/978881 Can't download link content
+2024-08-31 15:12:33 https://lenta.ru/news/2024/08/31/vsu-poteryali-bolshe-vosmi-tysyach-voennosluzhaschih-v-kurskoy-oblasti/ Can't download link content
+2024-08-31 15:12:33 https://lenta.ru/news/2024/08/30/strany-briks-ischut-obschie-puti-resheniya-problemy-klimata-pochemu-zelenye-tehnologii-tak-vazhny/ Can't download link content
+2024-08-31 15:12:33 https://www.rbc.ru/sport/31/08/2024/66d2e0e49a794769d4722969?from=newsfeed Can't download link content
+2024-08-31 15:12:33 https://ria.ru/20240830/durov-1969223476.html Can't download link content
+2024-08-31 15:12:33 https://lenta.ru/news/2024/08/31/minzdrav-uvedomil-o-sostoyanii-postradavshih-pri-obstrele-belgoroda/ Can't download link content
+2024-08-31 15:12:33 https://ria.ru/20240831/spetsoperatsiya-1969475353.html Can't download link content
+2024-08-31 15:12:33 https://www.kommersant.ru/doc/6921004?from=main Can't download link content
+2024-08-31 15:12:33 https://lenta.ru/articles/2024/08/28/kindsofkindness/ Can't download link content
+2024-08-31 15:12:33 https://www.interfax.ru/business/978926 Can't download link content
+2024-08-31 15:12:33 https://lenta.ru/news/2024/08/31/pvo-sbila-bespilotniki-v-treh-rossiyskih-regionah/ Can't download link content
+2024-08-31 15:12:33 https://ria.ru/20240831/tailand-1965048082.html Can't download link content
+2024-08-31 15:12:33 https://www.kommersant.ru/doc/6892955 Can't download link content
+2024-08-31 15:12:33 https://www.kommersant.ru/doc/6920605?from=main Can't download link content
+2024-08-31 15:12:33 https://www.kommersant.ru/doc/6921448?from=main Can't download link content
+2024-08-31 15:12:33 https://www.interfax.ru/business/978913 Can't download link content
+2024-08-31 15:12:33 https://www.kommersant.ru/doc/6917469?from=glavnoe_2 Can't download link content
+2024-08-31 15:12:33 https://www.interfax.ru/russia/978955 Can't download link content
+2024-08-31 15:12:33 https://www.interfax.ru/business/978905 Can't download link content
+2024-08-31 15:12:33 https://lenta.ru/news/2024/08/31/vs-rossii-unichtozhili-tseha-sborki-ukrainskih-bespilotnikov/ Can't download link content
+2024-08-31 15:12:33 https://ria.ru/20240830/svo-1969255879.html Can't download link content
+2024-08-31 15:12:33 https://www.rbc.ru/rbcfreenews/66d2f75e9a79478331bc2d54?from=newsfeed Can't download link content
+2024-08-31 15:12:33 https://lenta.ru/news/2024/08/31/ukrainskiy-plennyy-rasskazal-ob-otnoshenii-komandovaniya-vsu-k-soldatam-v-kurskoy-oblasti/ Can't download link content
+2024-08-31 15:12:33 https://lenta.ru/news/2024/08/27/rossiyskie-voennye-neskolko-dney-otbivali-ataki-vsu-na-kurskuyu-koloniyu-kak-eto-bylo/ Can't download link content
+2024-08-31 15:12:33 https://ria.ru/20240831/podmoskove-1969644632.html Can't download link content
+2024-08-31 15:12:33 https://lenta.ru/news/2024/08/31/poyavilis-kadry-vzleta-propavshego-na-kamchatke-vertoleta/ Can't download link content
+2024-08-31 15:12:33 https://www.kommersant.ru/doc/6921144 Can't download link content
+2024-08-31 15:12:33 https://www.kommersant.ru/doc/6921421?from=main Can't download link content
+2024-08-31 15:12:33 https://lenta.ru/news/2024/08/31/na-zapade-predrekli-ukraine-problemy-iz-za-ataki-na-kurskuyu-oblast/ Can't download link content
+2024-08-31 15:12:33 https://www.kommersant.ru/doc/6921140?from=spot Can't download link content
+2024-08-31 15:12:33 https://www.kommersant.ru/doc/6931193?from=main Can't download link content
+2024-08-31 15:12:33 https://lenta.ru/news/2024/08/31/venesuella-vydala-rossii-voevavshih-na-storone-vsu-kolumbiytsev/ Can't download link content
+2024-08-31 15:12:33 https://lenta.ru/news/2024/08/31/voennyy-ekspert-otsenil-serieznost-poteri-pilota-f-16-dlya-ukrainy/ Can't download link content
+2024-08-31 15:12:33 https://lenta.ru/extlink/2024/08/29/pavel-durov-osvobozhden-pod-zalog/?intlnk=true Can't download link content
+2024-08-31 15:12:33 https://www.kommersant.ru/doc/6921453?from=main Can't download link content
+2024-08-31 15:12:33 https://www.kommersant.ru/doc/6921353?from=main Can't download link content
+2024-08-31 15:12:33 https://lenta.ru/news/2024/08/31/sotrudniki-fsb-zaderzhali-v-adygee-verbovavshego-terroristov-rossiyanina/ Can't download link content
+2024-08-31 15:12:33 https://www.interfax.ru/interview/967170?utm_source=ed_ch Can't download link content
+2024-08-31 15:12:33 https://lenta.ru/news/2024/08/28/otdyh-v-turcii/ Can't download link content
+2024-08-31 15:12:33 https://www.kommersant.ru/doc/6921463?from=main Can't download link content
+2024-08-31 15:12:33 https://www.interfax.ru/business/978886 Can't download link content
+2024-08-31 15:12:33 https://ria.ru/spetsialnaya-voennaya-operatsiya-na-ukraine/ Can't download link content
+2024-08-31 15:12:33 https://lenta.ru/extlink/2024/08/25/dzhennifer-lopes-i-ben-afflek-rasstalis/?intlnk=true Can't download link content
+2024-08-31 15:12:33 https://www.kommersant.ru/gallery/6931376?from=multimedia_4 Can't download link content
+2024-08-31 15:12:33 https://lenta.ru/extlink/2024/08/29/na-ntv-startuet-novyy-sezon-seriala-tverskaya/?erid=2RanyoHomVA&intlnk=true Can't download link content
+2024-08-31 15:12:33 https://www.kommersant.ru/doc/6904258?from=spend_time Can't download link content
+2024-08-31 15:12:33 https://www.interfax.ru/business/978900 Can't download link content
+2024-08-31 15:12:33 https://www.kommersant.ru/doc/6921370?from=main Can't download link content
+2024-08-31 15:12:33 https://www.interfax.ru/world/978880 Can't download link content
+2024-08-31 15:12:33 https://lenta.ru/news/2024/08/31/vo-frantsii-nazvali-uslovie-dlya-zaversheniya-konflikta-na-ukraine/ Can't download link content
+2024-08-31 15:12:33 https://lenta.ru/news/2024/08/31/u-detey-rossiyskogo-sudi-nashli-amerikanskoe-grazhdanstvo/ Can't download link content
+2024-08-31 15:12:33 https://www.kommersant.ru/doc/6920991 Can't download link content
+2024-08-31 15:12:33 https://ria.ru/20240830/durov-1969269757.html Can't download link content
+2024-08-31 15:12:33 https://www.autonews.ru/news/636927299a7947f6b9167ad4 Can't download link content
+2024-08-31 15:12:33 https://www.kommersant.ru/doc/6921410?from=multimedia_2 Can't download link content
+2024-08-31 15:12:33 https://lenta.ru/news/2024/08/31/vratar-pszh-safonov-zabolel/ Can't download link content
+2024-08-31 15:12:33 https://www.kommersant.ru/doc/6713045 Can't download link content
+2024-08-31 15:12:33 https://ru.investing.com/analysis/article-200315085 Can't download link content
+2024-08-31 15:12:33 https://ria.ru/20240831/gaz-1969584340.html Can't download link content
+2024-08-31 15:12:33 https://lenta.ru/articles/2024/08/15/gagarin/ Can't download link content
+2024-08-31 15:12:33 https://www.interfax.ru/world/978899 Can't download link content
+2024-08-31 15:12:33 https://ria.ru/20240830/lukashenko-1969321512.html Can't download link content
+2024-08-31 15:12:33 https://ria.ru/20240831/punkt-1969631187.html Can't download link content
+2024-08-31 15:12:33 https://www.kommersant.ru/doc/6921706?from=main Can't download link content
+2024-08-31 15:12:33 https://rsport.ria.ru/20240831/dzhokovich-1969646034.html Can't download link content
+2024-08-31 15:12:33 https://pro.rbc.ru/demo/66cf22d39a79476670d7f4f9?from=from_main_16&utm_source=rbc.ru&utm_medium=inhouse_media&utm_campaign=lines_16&utm_content=66cf22d39a79476670d7f4f9&utm_term=10.4Z_noauth_base Can't download link content
+2024-08-31 15:12:33 --- Can't connect to database to get all content
+2024-08-31 15:12:33 --- Can't connect to database to get all summaries
+2024-09-04 18:20:40 --- Can't get sent urls from database
+2024-09-04 18:20:40 https://quote.ru URLs parsing fault
+2024-09-04 18:24:14 --- Can't get sent urls from database
+2024-09-04 18:24:39 https://www.forbes.ru/mneniya/520382-kakie-vasi-dokazatel-stva-kak-fotografam-dobavili-hlopot-po-zasite-svoego-tvorcestva Can't download link content
+2024-09-04 18:25:23 https://www.forbes.ru/svoi-biznes/520255-effekt-zendei-kak-moskvici-podseli-na-tennis-i-kto-na-etom-zarabatyvaet Can't download link content
+2024-09-04 18:26:26 https://lenta.ru/articles/2024/09/03/blake-lively/ Can't download link content
+2024-09-04 18:28:52 https://lenta.ru/articles/2024/09/01/beslan/ Can't download link content
+2024-09-04 18:30:53 https://www.interfax.ru/business/979482 Can't download link content
+2024-09-04 18:37:06 https://www.forbes.ru/profile/413049-varvara-selizarova Can't download link content
+2024-09-04 18:41:58 https://lenta.ru/news/2024/09/04/karmen-elektre-sovetovali-pohudet-vo-vremya-s-emok-spasateley-malibu/ Can't download link content
+2024-09-04 18:43:05 https://www.kommersant.ru/gallery/2558008?from=multimedia_6 Can't download link content
+2024-09-04 18:46:04 87 Can't connect to database to upload summary
+2024-09-05 19:08:26 --- Can't get sent urls from database
+2024-09-05 19:08:48 https://www.rbc.ru/business/05/09/2024/66d9b16b9a7947b65df01840?from=from_main_11 Can't download link content
+2024-09-05 19:37:52 https://www.rbc.ru/politics/05/09/2024/66d97fc39a79479af331916c?from=from_main_10 Can't download link content
+2024-09-05 19:43:23 https://www.rbc.ru/business/05/09/2024/66d9b16b9a7947b65df01840?from=from_main_11 Can't download link content
+2024-09-05 19:44:52 https://www.autonews.ru/news/66d042c79a7947d87274b953 Can't download link content

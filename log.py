@@ -1,8 +1,8 @@
 class Log:
     @staticmethod
-    def write_log(time, url, description):
+    def write_log(time, object, description):
         file = open('log.txt', 'a')
-        note = time + ' ' + url + ' ' + description
+        note = time + ' ' + str(object) + ' ' + description
         file.write(note)
         file.write('\n')
         file.close()

@@ -4,9 +4,10 @@ from mysql.connector import connect
 
 
 class Load:
+
     @staticmethod
     def get_users_requests(users_directory):
-        webs = []
+        webs_all = []
         users_requests = []
 
         yml_files = [file for file in os.listdir(users_directory) if
@@ -19,15 +20,24 @@ class Load:
             with open(path, 'r', encoding='utf-8') as file:
                 data = yaml.safe_load(file)
 
-                for web in data['webs']:
-                    webs.append(web)
+                if all(data[element] for element in data):
 
-                users_requests.append(
-                    {'user_id': data['user_id'], 'tg_channel': data['tg_channel'], 'webs': data['webs'],
-                     'key_words': data['key_words'],
-                     'stop_words': data['stop_words'], 'urls_to_send': [], 'sent_urls': []})
+                    for web in data['webs']:
+                        webs_all.append(web)
 
-        return webs, users_requests
+                    data['key_words'] = list(map(str, data['key_words']))
+                    data['stop_words'] = list(map(str, data['stop_words']))
+
+                    users_requests.append(
+                        {'user_id': data['user_id'],
+                         'tg_channel': data['tg_channel'],
+                         'webs': data['webs'],
+                         'key_words': data['key_words'],
+                         'stop_words': data['stop_words'],
+                         'urls_to_send': [],
+                         'sent_urls': []})
+
+        return webs_all, users_requests
 
     @staticmethod
     def get_keys_data(path_keys):
@@ -47,31 +57,38 @@ class Load:
         tg_channel = user_request['tg_channel']
         key_words = user_request['key_words']
         stop_words = user_request['stop_words']
+
+        key_words_str = ', '.join(key_words)
+        stop_words_str = ', '.join(stop_words)
+
         with connect(
                 host=db_access_key['host'],
+                port=db_access_key['port'],
                 user=db_access_key['user'],
                 password=db_access_key['password'],
                 database=db_access_key['database']
         ) as connection:
-            request = """update Users_table set Tg_channel = "{}", Key_words = "{}", Stop_words = "{}" where id = "{}";""".format(
-                tg_channel, key_words, stop_words, user_id)
+            request = f"""INSERT INTO Users_table (id, tg_channel, key_words, stop_words)
+VALUES ({user_id}, '{tg_channel}', '{key_words_str}', '{stop_words_str}') 
+ON DUPLICATE KEY UPDATE tg_channel = VALUES(tg_channel), key_words = VALUES(key_words), stop_words = VALUES(stop_words);"""
+
             with connection.cursor() as cursor:
                 cursor.execute(request)
-                cursor.fetchall()
                 connection.commit()
 
     @staticmethod
     def get_sent_urls(db_access_key, user_request):
         with connect(
                 host=db_access_key['host'],
+                port=db_access_key['port'],
                 user=db_access_key['user'],
                 password=db_access_key['password'],
                 database=db_access_key['database']
         ) as connection:
-            request = "select Sent_URLs from Users_table where id = '{}';".format(user_request['user_id'])
+            request = f"select sent_urls from Users_table where id = {user_request['user_id']}"
             with connection.cursor() as cursor:
                 cursor.execute(request)
-                sent_urls = cursor.fetchone()[0].split(' ')
+                sent_urls = cursor.fetchone()[0].split(', ')
                 for sent_url in sent_urls:
                     if sent_url:
                         user_request['sent_urls'].append(sent_url)

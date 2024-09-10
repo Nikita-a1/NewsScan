@@ -19,6 +19,7 @@ class Parser:
 
         with connect(
                 host=db_access_key['host'],
+                port=db_access_key['port'],
                 user=db_access_key['user'],
                 password=db_access_key['password'],
                 database=db_access_key['database']
@@ -38,21 +39,23 @@ class Parser:
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'}
 
         response = requests.get(link)
+        response.encoding = response.apparent_encoding
 
         if response != '<Response [200]>':
             response = requests.get(link, headers=headers)
+            response.encoding = response.apparent_encoding
 
         soup = BeautifulSoup(response.text, 'html.parser')
 
         try:
-            title = soup.find('title').text
-        except AttributeError:
+            title = soup.find('title').text.strip()
+        except:
             try:
-                title = soup.find('h1').text
-            except AttributeError:
+                title = soup.find('h1').text.strip()
+            except:
                 try:
-                    title = soup.find('span').text
-                except AttributeError:
+                    title = soup.find('span').text.strip()
+                except:
                     title = 'Заголовок не найден'
 
         tags = ['p', 'li', 'u']
@@ -106,6 +109,7 @@ class Parser:
     def text_db_uploader(db_access_key, title, content, link):
         with connect(
                 host=db_access_key['host'],
+                port=db_access_key['port'],
                 user=db_access_key['user'],
                 password=db_access_key['password'],
                 database=db_access_key['database']

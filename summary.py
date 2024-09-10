@@ -1,5 +1,6 @@
 from mysql.connector import connect
 from openai import OpenAI
+import re
 
 
 class Summary:
@@ -14,6 +15,7 @@ class Summary:
 
         with connect(
                 host=db_access_key['host'],
+                port=db_access_key['port'],
                 user=db_access_key['user'],
                 password=db_access_key['password'],
                 database=db_access_key['database']
@@ -32,40 +34,36 @@ class Summary:
         for article_block in downloaded_articles:
             article_id = article_block[0]
             article = article_block[1]
+            article = article.lower()
             status = article_block[2]
+
+            good_article = True
+
             for user_request in users_requests:
 
                 key_words = user_request['key_words']
-                for key_word in key_words:
-                    new_word = key_word.lower()
-                    if new_word not in key_words:
-                        key_words.append(new_word)
-                    new_word = key_word.capitalize()
-                    if new_word not in key_words:
-                        key_words.append(new_word)
                 stop_words = user_request['stop_words']
-                for stop_word in stop_words:
-                    new_word = stop_word.lower()
-                    if new_word not in stop_words:
-                        stop_words.append(new_word)
-                    new_word = stop_word.capitalize()
-                    if new_word not in stop_words:
-                        stop_words.append(new_word)
 
-                for key_word in user_request['key_words']:
-                    if str(key_word) in article:
-                        if article_id not in user_request['urls_to_send']:
-                            user_request['urls_to_send'].append(str(article_id))
-                        if article_block not in content_for_summarization and status == 'downloaded':
-                            content_for_summarization.append(article_block)
-                        continue
-                for stop_word in user_request['stop_words']:
-                    if str(stop_word) in article:
-                        if article_block in content_for_summarization:
-                            content_for_summarization.remove(article_block)
-                        if article_id in user_request['urls_to_send']:
-                            user_request['urls_to_send'].remove(article_id)
-                        continue
+                for key_word in key_words:
+                    if key_word:
+                        key_word = key_word.lower()
+                        key_pattern = r'\b' + re.escape(key_word) + r'\b'
+                        if re.search(key_pattern, article.lower()):
+
+                            for stop_word in stop_words:
+                                if stop_word:
+                                    stop_word = stop_word.lower()
+                                    stop_pattern = r'\b' + re.escape(stop_word) + r'\b'
+                                    if re.search(stop_pattern, article.lower()):
+                                        good_article = False
+                                        break
+
+                            if good_article:
+                                if str(article_id) not in user_request['urls_to_send']:
+                                    user_request['urls_to_send'].append(str(article_id))
+                                if article_block not in content_for_summarization and status == 'downloaded':
+                                    content_for_summarization.append(article_block)
+                            break
 
     @staticmethod
     def compress_article(article_block, compressed_content, api_key, prompt):
@@ -87,13 +85,13 @@ class Summary:
     def summarized_articles_db_uploader(db_access_key, id, article):
         with connect(
                 host=db_access_key['host'],
+                port=db_access_key['port'],
                 user=db_access_key['user'],
                 password=db_access_key['password'],
                 database=db_access_key['database']
         ) as connection:
             request = "update NS_table set Summary = '{}', Status = 'summarized' where id = '{}';".format(
                 article, id)
-            print(request)
             with connection.cursor() as cursor:
                 cursor.execute(request)
                 cursor.fetchall()
@@ -108,12 +106,14 @@ class Summary:
         if urls_to_send_str:
             with connect(
                     host=db_access_key['host'],
+                    port=db_access_key['port'],
                     user=db_access_key['user'],
                     password=db_access_key['password'],
                     database=db_access_key['database']
             ) as connection:
                 request = """update Users_table set URLs_to_send = "{}" where id = "{}";""".format(
                     urls_to_send_str, user_id)
+                print(request)
                 with connection.cursor() as cursor:
                     cursor.execute(request)
                     connection.commit()
