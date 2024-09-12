@@ -39,11 +39,10 @@ class Parser:
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'}
 
         response = requests.get(link)
-        response.encoding = response.apparent_encoding
+        response.encoding = 'utf-8'
 
         if response != '<Response [200]>':
             response = requests.get(link, headers=headers)
-            response.encoding = response.apparent_encoding
 
         soup = BeautifulSoup(response.text, 'html.parser')
 

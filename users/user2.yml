@@ -3,10 +3,10 @@ tg_channel: -1002168464302
 
 webs:  # list of sites for parsing
 # - https://quote.ru/
- - https://rbc.ru/
- - https://www.autonews.ru
+# - https://rbc.ru/
+# - https://www.autonews.ru
 # - https://thebell.io
-# - https://www.interfax.ru/business
+ - https://www.interfax.ru/business
 # - https://www.forbes.ru
 # - https://www.kommersant.ru
 # - https://ru.investing.com/news/economy
