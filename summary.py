@@ -20,11 +20,11 @@ class Summary:
                 password=db_access_key['password'],
                 database=db_access_key['database']
         ) as connection:
-            request = "select id, Content, status from NS_table where Status in ('downloaded', 'summarized') and Web in {}".format(webs_list)
+            request = "select id, Title, Content, status from NS_table where Status in ('downloaded', 'summarized') and Web in {}".format(webs_list)
             with connection.cursor() as cursor:
                 cursor.execute(request)
                 result = cursor.fetchall()
-                result = [(id, content, status) for (id, content, status) in result]
+                result = [(id, title, content, status) for (id, title, content, status) in result]
                 for article_block in result:
                     downloaded_articles.append(article_block)
 
@@ -33,9 +33,9 @@ class Summary:
 
         for article_block in downloaded_articles:
             article_id = article_block[0]
-            article = article_block[1]
-            article = article.lower()
-            status = article_block[2]
+            title = article_block[1]
+            article = article_block[2]
+            status = article_block[3]
 
             good_article = True
 
@@ -48,7 +48,7 @@ class Summary:
                     if key_word:
                         key_word = key_word.lower()
                         key_pattern = r'\b' + re.escape(key_word) + r'\b'
-                        if re.search(key_pattern, article.lower()):
+                        if re.search(key_pattern, title.lower()) or len(re.findall(key_pattern, article.lower())) >= 2:
 
                             for stop_word in stop_words:
                                 if stop_word:
@@ -66,7 +66,23 @@ class Summary:
                             break
 
     @staticmethod
-    def compress_article(article_block, compressed_content, api_key, prompt):
+    def check_article_format(article, api_key, prompt2):
+        if len(article) < 1000:
+            sentences = article.split('\n-')
+            if not (len(sentences) > 3) or (len(article) < 250 and len(sentences) > 2):
+                client = OpenAI(api_key=api_key)
+                completion = client.chat.completions.create(
+                    model="gpt-3.5-turbo",
+                    messages=[
+                        {"role": "system", "content": prompt2},
+                        {"role": "user", "content": article}
+                    ]
+                )
+                article = completion.choices[0].message.content
+            return article
+
+    @staticmethod
+    def compress_article(article_block, compressed_content, api_key, prompt1, prompt2):
         article_id = article_block[0]
         article = article_block[1]
         client = OpenAI(api_key=api_key)
@@ -74,12 +90,13 @@ class Summary:
         completion = client.chat.completions.create(
             model="gpt-3.5-turbo",
             messages=[
-                {"role": "system", "content": prompt},
+                {"role": "system", "content": prompt1},
                 {"role": "user", "content": article}
             ]
         )
         summarized_article = completion.choices[0].message.content
-        compressed_content.append((article_id, summarized_article))
+        formatted_article = Summary.check_article_format(summarized_article, api_key, prompt2)
+        compressed_content.append((article_id, formatted_article))
 
     @staticmethod
     def summarized_articles_db_uploader(db_access_key, id, article):

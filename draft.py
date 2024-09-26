@@ -67,5 +67,7 @@ import time
 #     print(title)
 
 headers = {'User-Agent': 'Opera/9.80 (Macintosh; Intel Mac OS X; U; en) Presto/2.2.15 Version/10.00'}
-response = requests.get('https://thebell.io', headers=headers)
-print(response)
+response = requests.get('https://www.interfax.ru/business', headers=headers)
+soup = BeautifulSoup(response.text, 'html.parser')
+title = soup.find('title').text.strip()
+print(title)

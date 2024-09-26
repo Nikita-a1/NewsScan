@@ -1558,3 +1558,98 @@
 2024-09-12 19:05:27 https://www.interfax.ru/business/981781 Can't download link content
 2024-09-12 19:06:07 https://www.interfax.ru/business/981700 Can't download link content
 2024-09-12 19:07:05 https://www.interfax.ru/business/981685 Can't download link content
+2024-09-15 16:02:57 --- Can't get sent urls from database
+2024-09-15 16:03:28 https://www.kommersant.ru/doc/7103790?from=spend_time Can't download link content
+2024-09-15 16:04:43 https://www.forbes.ru/mneniya/521028-farming-patriotizm-i-grobnica-huan-di-kak-zavoevat-kitajskij-rynok-gejminga Can't download link content
+2024-09-15 16:07:40 https://www.interfax.ru/world/981947 Can't download link content
+2024-09-15 16:08:44 https://thebell.io/igra-v-russkuyu-ruletku-kak-ukhod-mcdonalds-iz-rossii-okazalsya-menshim-iz-zol Can't download link content
+2024-09-15 16:17:05 https://www.kommersant.ru/doc/7091716?from=main Can't download link content
+2024-09-15 16:19:00 https://lenta.ru/brief/2024/09/11/trump-harris/ Can't download link content
+2024-09-15 16:19:08 https://www.forbes.ru/milliardery/521103-kak-vasingtonskij-otel-trampa-prinosit-millionnye-ubytki-spusta-gody-posle-prodazi Can't download link content
+2024-09-15 16:19:19 https://www.forbes.ru/sport/521115-kto-vmesto-baha-v-gonke-za-kreslo-prezidenta-mok-poavilis-novye-favority Can't download link content
+2024-09-15 16:20:32 https://www.forbes.ru/tekhnologii/520836-tocki-nad-ii-pocemu-ne-vsa-avtomatizacia-odinakovo-polezna Can't download link content
+2024-09-15 16:20:47 https://www.forbes.ru/finansy/520877-eksperty-nazvali-priciny-otkaza-rossian-ot-rozdenia-detej Can't download link content
+2024-09-15 16:20:47 https://www.forbes.ru/prodovolstvennaya-bezopasnost/520832-pereslastili-pocemu-v-rossii-padaut-ceny-na-sahar Can't download link content
+2024-09-15 16:21:28 https://www.rbc.ru/quote/ticker/101041 Can't download link content
+2024-09-15 16:21:42 https://www.rbc.ru/society/15/09/2024/66e6c4139a794727fc8a8ba5?from=newsfeed Can't download link content
+2024-09-15 16:21:57 https://lenta.ru/news/2024/09/15/peskov-otsenil-ideyu-ogranichit-postavki-nedruzhestvennym-stranam-rossiyskogo-titana-i-urana/ Can't download link content
+2024-09-15 16:22:11 https://lenta.ru/news/2024/09/15/v-ssha-zayavili-o-fakticheskom-proigryshe-ukrainy/ Can't download link content
+2024-09-15 16:22:25 https://ria.ru/20240915/kurskaya-1972807841.html?rcmd_alg=slotter Can't download link content
+2024-09-15 16:22:42 https://www.kommersant.ru/doc/7100763 Can't download link content
+2024-09-15 16:23:10 https://www.interfax.ru/business/981917 Can't download link content
+2024-09-15 16:23:25 https://www.interfax.ru/business/981907 Can't download link content
+2024-09-15 16:23:28 https://www.forbes.ru/society/521097-ne-zabud-te-vyklucit-televizor-kak-propaganda-ispol-zuet-temnuu-psihologiu Can't download link content
+2024-09-15 16:23:28 https://www.forbes.ru/rubriki-kanaly/video/521057-vladimir-pozner-forbes-inogda-prihoditsa-priznat-porazenie Can't download link content
+2024-09-15 16:23:55 https://www.forbes.ru/investicii/520716-effektivnyj-otbor-kak-rossia-kompensirovala-investoram-dohod-po-zamorozennym-aktivam Can't download link content
+2024-09-15 16:28:07 --- telegram send fault
+2024-09-15 17:11:08 https://www.kommersant.ru/doc/7103790?from=spend_time Can't download link content
+2024-09-15 17:11:10 https://www.forbes.ru/mneniya/521028-farming-patriotizm-i-grobnica-huan-di-kak-zavoevat-kitajskij-rynok-gejminga Can't download link content
+2024-09-15 17:11:11 https://www.interfax.ru/world/981947 Can't download link content
+2024-09-15 17:11:12 https://thebell.io/igra-v-russkuyu-ruletku-kak-ukhod-mcdonalds-iz-rossii-okazalsya-menshim-iz-zol Can't download link content
+2024-09-15 17:11:17 https://www.kommersant.ru/doc/7091716?from=main Can't download link content
+2024-09-15 17:11:18 https://lenta.ru/brief/2024/09/11/trump-harris/ Can't download link content
+2024-09-22 11:19:20 --- Can't update users table
+2024-09-22 11:19:20 --- Can't get sent urls from database
+2024-09-22 11:20:53 --- Can't connect to database to get already uploaded urls
+2024-09-22 11:22:08 --- Can't connect to database to upload new links
+2024-09-22 11:23:23 --- Can't connect to database to upload new links
+2024-09-22 11:24:38 --- Can't connect to database to upload new links
+2024-09-22 11:25:54 --- Can't connect to database to upload new links
+2024-09-22 11:26:24 --- Can't connect to database to upload new links
+2024-09-22 11:26:57 --- Can't get sent urls from database
+2024-09-22 11:27:28 https://www.forbes.ru/forbeslife/520859-russkogovorasie-den-gi-na-mirovom-hudozestvennom-olimpe-epitafia-i-prognoz Can't download link content
+2024-09-22 11:28:08 https://lenta.ru/articles/2024/09/19/v-seti-vyhodit-pingvin-po-motivam-betmena/ Can't download link content
+2024-09-22 11:29:40 https://lenta.ru/extlink/2024/09/06/iskala-lyubov-ne-v-tom-meste-kak-zvezda-porno-iz-2000-h-otkazalas-ot-mnogomillionnogo-zarabotka-i-stala-propovednitsey/?intlnk=true Can't download link content
+2024-09-22 11:31:28 https://www.forbes.ru/tekhnologii/521296-masinnoe-obucenie-dla-cajnikov-vk-zapuskaet-servis-dla-raboty-s-ii-bez-opyta-v-it Can't download link content
+2024-09-22 11:32:24 https://motor.ru/news/jeep-v6-manual-21-09-2024.htm Can't download link content
+2024-09-22 11:32:35 https://lenta.ru/articles/2024/09/21/iwannamarryharry/ Can't download link content
+2024-09-22 11:37:18 https://www.kommersant.ru/doc/7167903?from=multimedia_2 Can't download link content
+2024-09-22 11:38:09 https://rsport.ria.ru/20240922/futbol-1974061977.html Can't download link content
+2024-09-22 11:38:58 https://www.forbes.ru/mneniya/521399-i-ne-drug-i-ne-vrag-a-tak-kak-ii-razrabotciki-razvivaut-eticeskie-standarty Can't download link content
+2024-09-22 11:40:59 https://lenta.ru/brief/2024/09/20/arest-wildberries/ Can't download link content
+2024-09-22 11:46:16 https://lenta.ru/articles/2024/09/19/zapytannaya-istoria/ Can't download link content
+2024-09-22 11:46:18 https://lenta.ru/articles/2024/09/20/judge/ Can't download link content
+2024-09-22 11:46:35 https://www.kommersant.ru/doc/7103790?from=spend_time Can't download link content
+2024-09-22 11:47:50 https://lenta.ru/news/2024/09/22/ves-den-shla-rabota-alaudinov-zayavil-chto-vsu-bezuspeshno-pytalis-prorvatsya-u-plehova-v-kurskoy-oblasti/ Can't download link content
+2024-09-22 11:48:07 https://www.autonews.ru/news/66e40b259a794715c7d13798 Can't download link content
+2024-09-22 11:48:09 https://lenta.ru/news/2024/09/22/vse-komandiry-soglasilis-dat-pokazaniya-po-delu-generala-popova-chto-izvestno-o-hode-rassledovaniya/ Can't download link content
+2024-09-22 11:48:15 https://lenta.ru/news/2024/09/18/u-ofisa-wildberries-vozle-kremlya-proizoshla-strelba-est-pogibshiy-i-ranenye-sredi-nih-boytsy-mma/ Can't download link content
+2024-09-22 11:57:03 https://lenta.ru/news/2024/09/22/poyavilis-podrobnosti-o-sluzhbe-eks-advokata-pashaeva-tankistom-v-zone-svo-sosluzhivtsy-ni-razu-ne-videli-ego-v-boyu/ Can't download link content
+2024-09-22 16:46:05 --- Can't get sent urls from database
+2024-09-22 16:51:23 --- Can't get sent urls from database
+2024-09-22 16:57:48 https://ru.investing.com/news/economy URLs parsing fault
+2024-09-22 16:59:33 https://lenta.ru/articles/2024/09/20/judge/ Can't download link content
+2024-09-22 17:03:45 https://lenta.ru/articles/2024/09/19/zapytannaya-istoria/ Can't download link content
+2024-09-22 17:04:46 https://www.forbes.ru/forbeslife/520859-russkogovorasie-den-gi-na-mirovom-hudozestvennom-olimpe-epitafia-i-prognoz Can't download link content
+2024-09-22 17:05:48 https://lenta.ru/news/2024/09/22/poyavilis-podrobnosti-o-sluzhbe-eks-advokata-pashaeva-tankistom-v-zone-svo-sosluzhivtsy-ni-razu-ne-videli-ego-v-boyu/ Can't download link content
+2024-09-22 17:06:53 https://www.forbes.ru/tekhnologii/521296-masinnoe-obucenie-dla-cajnikov-vk-zapuskaet-servis-dla-raboty-s-ii-bez-opyta-v-it Can't download link content
+2024-09-22 17:07:20 https://www.forbes.ru/mneniya/521525-zajti-v-it-zacem-otraslevye-kompanii-vyhodat-na-rynok-informtehnologij Can't download link content
+2024-09-22 17:07:22 https://www.forbes.ru/mneniya/521616-eho-pejdzernoj-ataki-kak-iran-i-ego-souzniki-obdumyvaut-otvet-izrailu Can't download link content
+2024-09-22 17:07:31 https://www.forbes.ru/profile/498809-dar-a-kultaeva Can't download link content
+2024-09-22 17:07:46 https://www.forbes.ru/mneniya/521399-i-ne-drug-i-ne-vrag-a-tak-kak-ii-razrabotciki-razvivaut-eticeskie-standarty Can't download link content
+2024-09-22 17:08:09 https://www.kommersant.ru/doc/7103790?from=spend_time Can't download link content
+2024-09-22 17:08:13 https://www.forbes.ru/young/521316-nakreativil-i-ustal-cto-rukovoditeli-dumaut-o-sotrudnikah-zumerah Can't download link content
+2024-09-22 17:08:52 https://www.forbes.ru/society/521652-kak-obrasat-sa-s-trudnymi-lud-mi-v-vasej-zizni-navyki-assertivnosti-dla-nacinausih Can't download link content
+2024-09-22 17:09:30 https://www.forbes.ru/tekhnologii/521186-ozonovye-sloi-kak-marketplejsy-razvivaut-biznes-model-cifrovyh-platform Can't download link content
+2024-09-22 17:09:42 https://lenta.ru/articles/2024/09/19/v-seti-vyhodit-pingvin-po-motivam-betmena/ Can't download link content
+2024-09-22 17:09:50 https://lenta.ru/news/2024/09/18/u-ofisa-wildberries-vozle-kremlya-proizoshla-strelba-est-pogibshiy-i-ranenye-sredi-nih-boytsy-mma/ Can't download link content
+2024-09-22 17:10:09 https://www.forbes.ru/biznes/521442-strel-ba-u-golovnogo-ofisa-wildberries-v-centre-moskvy-glavnoe Can't download link content
+2024-09-22 17:10:31 https://lenta.ru/news/2024/09/22/vse-komandiry-soglasilis-dat-pokazaniya-po-delu-generala-popova-chto-izvestno-o-hode-rassledovaniya/ Can't download link content
+2024-09-22 17:10:57 https://www.forbes.ru/profile/360309-elena-ruzleva Can't download link content
+2024-09-22 17:11:09 https://www.autonews.ru/news/66e40b259a794715c7d13798 Can't download link content
+2024-09-22 17:11:12 https://lenta.ru/extlink/2024/09/06/iskala-lyubov-ne-v-tom-meste-kak-zvezda-porno-iz-2000-h-otkazalas-ot-mnogomillionnogo-zarabotka-i-stala-propovednitsey/?intlnk=true Can't download link content
+2024-09-22 17:11:41 https://www.forbes.ru/mneniya/521561-spornyj-instrument-kak-iskusstvennyj-intellekt-raskolol-muzykal-nuu-industriu Can't download link content
+2024-09-22 17:11:55 https://www.forbes.ru/biznes/521012-sankcii-strojka-dozdi-pocemu-deseveut-bazovye-promyslennye-metally Can't download link content
+2024-09-22 17:13:59 https://lenta.ru/articles/2024/09/21/iwannamarryharry/ Can't download link content
+2024-09-22 17:14:28 https://lenta.ru/news/2024/09/22/ves-den-shla-rabota-alaudinov-zayavil-chto-vsu-bezuspeshno-pytalis-prorvatsya-u-plehova-v-kurskoy-oblasti/ Can't download link content
+2024-09-22 17:16:16 https://lenta.ru/brief/2024/09/20/arest-wildberries/ Can't download link content
+2024-09-22 19:48:30 --- Can't get sent urls from database
+2024-09-22 19:49:42 https://www.kommersant.ru/doc/7103790?from=spend_time Can't download link content
+2024-09-22 19:50:52 https://lenta.ru/articles/2024/09/20/judge/ Can't download link content
+2024-09-22 19:51:56 https://www.autonews.ru/news/66e40b259a794715c7d13798 Can't download link content
+2024-09-22 19:52:25 https://lenta.ru/news/2024/09/22/poyavilis-podrobnosti-o-sluzhbe-eks-advokata-pashaeva-tankistom-v-zone-svo-sosluzhivtsy-ni-razu-ne-videli-ego-v-boyu/ Can't download link content
+2024-09-22 19:53:54 https://lenta.ru/extlink/2024/09/06/iskala-lyubov-ne-v-tom-meste-kak-zvezda-porno-iz-2000-h-otkazalas-ot-mnogomillionnogo-zarabotka-i-stala-propovednitsey/?intlnk=true Can't download link content
+2024-09-22 20:16:21 https://lenta.ru/news/2024/09/20/trehmetrovyy-dron-sbili-v-kurskoy-oblasti-eto-mogla-byt-anonsirovannaya-zelenskim-palyanitsa/ Can't download link content
+2024-09-22 20:25:40 https://www.kommersant.ru/doc/7168134?from=main Can't download link content
+2024-09-22 20:25:42 --- Can't get sent urls from database
+2024-09-26 20:11:52 --- Can't get sent urls from database

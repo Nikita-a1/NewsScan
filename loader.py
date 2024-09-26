@@ -49,7 +49,7 @@ class Load:
     def get_api_key(path_keys):
         with open(path_keys, 'r', encoding='utf-8') as file:
             keys_data = yaml.safe_load(file)
-            return keys_data['api_key'], keys_data['prompt'], keys_data['bot_token']
+            return keys_data['api_key'], keys_data['prompt1'], keys_data['prompt2'], keys_data['bot_token']
 
     @staticmethod
     def update_users_table(db_access_key, user_request):

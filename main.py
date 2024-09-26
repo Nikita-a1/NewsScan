@@ -23,7 +23,7 @@ except:
                       "Can't open the keys.yml file to get db_access_key")
 
 try:  # try to get data from keys.yml file
-    api_key, prompt, bot_token = loader.Load.get_api_key(path_keys)
+    api_key, prompt1, prompt2, bot_token = loader.Load.get_api_key(path_keys)
 except:
     log.Log.write_log(str(datetime.datetime.now().today().replace(microsecond=0)), "---",
                       "Can't open the keys.yml file to get api_key")
@@ -139,7 +139,7 @@ print('interesting articles: ' + str(len(content_for_summarization)))
 
 for article_block in content_for_summarization:  # compress articles
     try:
-        compress_article(article_block, compressed_content, api_key, prompt)
+        compress_article(article_block, compressed_content, api_key, prompt1, prompt2)
     except:
         write_log(str(datetime.datetime.now().today().replace(microsecond=0)), str(article_block[0]),
                   "Can't compress the article")

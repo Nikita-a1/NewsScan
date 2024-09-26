@@ -2,26 +2,28 @@ user_id: 2  # user id
 tg_channel: -1002168464302
 
 webs:  # list of sites for parsing
-# - https://quote.ru/
-# - https://rbc.ru/
-# - https://www.autonews.ru
-# - https://thebell.io
+ - https://quote.ru/
+ - https://rbc.ru/
+ - https://www.autonews.ru
+ - https://thebell.io
+ - https://www.forbes.ru
+ - https://www.kommersant.ru
+ - https://ru.investing.com/news/economy
+ - https://ria.ru
+ - https://lenta.ru
  - https://www.interfax.ru/business
-# - https://www.forbes.ru
-# - https://www.kommersant.ru
-# - https://ru.investing.com/news/economy
-# - https://ria.ru
-# - https://lenta.ru
 
 
 
 key_words:  # list of keywords
- - Дуров
+ - youtube
+ - ютуб
+ - нефть
+ - google
 
 
 stop_words:  # list of stopwords
 - слово1
 - слово2
-- слово3
 
 frequency: 1  # the frequency of running the parser in hours

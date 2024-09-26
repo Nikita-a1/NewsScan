@@ -39,7 +39,7 @@ class Parser:
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'}
 
         response = requests.get(link)
-        response.encoding = 'utf-8'
+        # response.encoding = 'utf-8'
 
         if response != '<Response [200]>':
             response = requests.get(link, headers=headers)
@@ -115,6 +115,12 @@ class Parser:
         ) as connection:
             request = "update NS_table set Title = '{}', Content = '{}', Status = 'downloaded' where URl = '{}';".format(
                 title, content, link)
+            with connection.cursor() as cursor:
+                cursor.execute(request)
+                cursor.fetchall()
+                connection.commit()
+
+            request = "update NS_table set Status = 'fault' where Status = 'not_downloaded';"
             with connection.cursor() as cursor:
                 cursor.execute(request)
                 cursor.fetchall()
